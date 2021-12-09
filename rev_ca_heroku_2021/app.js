@@ -493,7 +493,7 @@ rev_plugin_init.revInitRemoteHookMethods();
     rev_plugins_objects.revPluginsObjects.revPluginsInstalledArr = revPluginEntitiesArr;
 
     await rev_load_plugins.revLoadPluginModules(
-        path.resolve("../../rev_ca_web/rev_ca_react_web/public/rev_mod"),
+        path.resolve("../rev_ca_react_web/public/rev_mod"),
         { "REV_REMOTE_HOOK_METHODS": rev_plugin_init.revRemoteHookMethods() },
         1
         /** */

@@ -13,16 +13,7 @@ var revPageViewWidget = async (revVarArgs) => {
         console.log("ERR -> revPageViewTimelineWidget.js -> !revData" + error);
     }
 
-    if (!Array.isArray(revQuestionsArr) || revQuestionsArr.length < 1) {
-        let revNoPostsTxt = "No Posts on tHis pRoFiLE BOARD YET";
-
-        revNoPostsTxt = "No quEstioNs askEd YET";
-
-        return `
-            <div class="revFontSiteGreyTxtColor revFontSizeNormal revNoPostsView">${revNoPostsTxt}</div>
-        `;
-    }
-
+    let revQuestionsAskedView = "";
     let revQuestionsAskedArr = [];
 
     for (let i = 0; i < revQuestionsArr.length; i++) {
@@ -31,6 +22,18 @@ var revPageViewWidget = async (revVarArgs) => {
 
         let revObjectViewQuestionItemListing = await window.revGetLoadedPageView("revObjectViewQuestionItemListing", revPassVarArgs);
         revQuestionsAskedArr.push(`<div class="revFlexContainer revQuestionListingItemContainer">${revObjectViewQuestionItemListing}</div>`);
+    }
+
+    if (!Array.isArray(revQuestionsArr) || revQuestionsArr.length < 1) {
+        let revNoPostsTxt = "No Posts on tHis pRoFiLE BOARD YET";
+
+        revNoPostsTxt = "No quEstioNs askEd YET";
+
+        revQuestionsAskedView = `
+            <div class="revFontSiteGreyTxtColor revFontSizeNormal revNoPostsView">${revNoPostsTxt}</div>
+        `;
+    } else {
+        revQuestionsAskedView = revQuestionsAskedArr.join("");
     }
 
     /** REV START HEADER AREA */
@@ -64,7 +67,7 @@ var revPageViewWidget = async (revVarArgs) => {
                 </div>
             </div>
         </div>
-        <div class="revFlexContainer revFlexContainerScroll revQuestionsAskedContainer">${revQuestionsAskedArr.join("")}</div>
+        <div class="revFlexContainer revFlexContainerScroll revQuestionsAskedContainer">${revQuestionsAskedView}</div>
     </div>
     `;
 

@@ -19,7 +19,7 @@ var revIsNameIdAdded = (revPluginHookContextRemoteContainer, revNameID) => {
 };
 
 var revLoadCSS = (revPluginView) => {
-    let revBaseModulesPath = path.resolve("../../../rev_ca_web/rev_ca_react_web/public/rev_mod");
+    let revBaseModulesPath = path.resolve("../../rev_ca_react_web/public/rev_mod");
 
     if (revPluginView.revCSSFiles && revPluginView.revCSSFiles.length) {
         for (let f = 0; f < revPluginView.revCSSFiles.length; f++) {

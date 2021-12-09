@@ -77,7 +77,12 @@ var revPageViewWidget = async (revVarArgs) => {
         console.log("ERR -> revPageViewCommsViewAreaTrendsWidget.js -> !revRetData" + error);
     }
 
-    return ">>> Hi THERE";
+    let revNullDataArea = `
+    <div class="revFlexContainer revNoDataPageViewCommsFooterAdPageViewContainer">
+        <div class="revFontSizeNormal revFontSiteGreyTxtColor">No Video Posts To Display</div>
+    </div>`;
+
+    return revNullDataArea;
 };
 
 module.exports.revPageViewWidget = revPageViewWidget;

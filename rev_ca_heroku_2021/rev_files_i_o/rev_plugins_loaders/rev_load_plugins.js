@@ -130,7 +130,7 @@ var revArrangeItems = (revArr) => {
 
 var revLoadScriptModules = (revPlugin) => {
     if (revPlugin.revModules && revPlugin.revModules.length) {
-        let revBaseModulesPath = path.resolve("../../rev_ca_web/rev_ca_react_web/public/rev_mod/");
+        let revBaseModulesPath = path.resolve("../rev_ca_react_web/public/rev_mod/");
         let revPluginName = revPlugin.revPluginName;
         let revPluginPath = revBaseModulesPath + "/" + revPluginName;
 
