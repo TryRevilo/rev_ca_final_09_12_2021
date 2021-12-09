@@ -1,0 +1,27 @@
+.revSectStoresContainer {
+    width: calc(100% - 4em);
+    margin-left: 4em;
+}
+
+.revCheckStoreWrapper {
+    margin-top: 1em;
+}
+
+.revSelectableStoreName {
+    width: calc(100% - 2em) !important;
+    margin: 0.3em 1em 0 1em;
+}
+
+.revSelectStoreContainer {
+    width: calc(100% - 3.5em) !important;
+    margin: 1.4em 0 1em 3.5em;
+}
+
+.revSelectStoreNewStoreTab {
+    width: calc(100% - 1em);
+    margin: 1em 0 1em 1em;
+}
+
+.revSelectStoreFormFooter {
+    margin: 1em 0 0 4.2em;
+}

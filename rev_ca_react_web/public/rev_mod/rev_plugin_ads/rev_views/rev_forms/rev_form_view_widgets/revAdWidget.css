@@ -1,0 +1,64 @@
+.revPageViewTitledPageNavHeaderWrapper_AdForm {
+    width: calc(100% - 2em) !important;
+    margin: 1.2em 0 0 2em;
+}
+
+.revUserOptionsMenuAreaWrapper_AdForm {
+    margin: 0 0 0 0;
+}
+
+.revNewAdWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 1em;
+    margin: -0.2em 0 0 2em;
+}
+
+/** START REV ENTITY SELECTION ICON AREA **/
+
+.revSelectPublisherIconWrapper {
+    align-items: flex-end !important;
+    width: auto !important;
+    margin: 0.4em 0 0.4em 0;
+}
+
+.revPublisherIconText {
+    text-align: right;
+    margin-right: 0.4em;
+}
+
+.revPublisherIconSelect {
+    padding: 0 1em;
+    border-bottom: 0.1em solid #d1c4e9;
+}
+
+.revPublisherIconSelectDraw {
+    width: 4em;
+    height: 4em;
+    background-color: #fff;
+    border: 0.1em solid #d1c4e9;
+}
+
+/** END REV ENTITY SELECTION ICON AREA **/
+
+.revAdDetailsArea {
+    width: 100%;
+    border: 0.1em solid #f5f5f5;
+    border-right: none;
+    padding: 1em 0 2em 0;
+    margin: 1em 0;
+}
+
+.revBannerIconSelectDraw {
+    background-color: #fff;
+    border: solid 1px #ede7f6;
+    border-right: none;
+    margin-top: 0.4em;
+    width: 100%;
+    height: 7em;
+}
+
+.revAdFormFooter {
+    margin: 3em 0 0 1.4em;
+}

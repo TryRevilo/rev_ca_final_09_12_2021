@@ -1,0 +1,34 @@
+.revSuggestedMintEntitiesGrpWrapper {
+    align-items: center !important;
+    margin: 0.4em 0 0 0;
+}
+
+.revSuggestedMintEntityIconsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.7em;
+}
+
+.revSuggestedMintEntityIcon {
+    border: 0.1em solid #ede7f6;
+    width: 2em !important;
+    height: 2em !important;
+    padding: 0.1em;
+    margin-right: 0.1em;
+}
+
+.revSuggestedMintEntityTarget {
+    margin-left: 0.7em;
+}
+
+.revMintEditTab {
+    margin-left: 2em;
+}
+
+.revSuggestedMintPublishOptionsTabsWrapper {
+    background-color: #fff;
+    align-self: center;
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.7em;
+}

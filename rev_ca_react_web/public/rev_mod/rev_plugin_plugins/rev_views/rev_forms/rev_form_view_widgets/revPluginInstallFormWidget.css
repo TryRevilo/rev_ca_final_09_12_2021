@@ -1,0 +1,51 @@
+.revPluginInstallFormNoSpaces {
+    padding: 1em 2em 0 1.2em;
+    border-bottom: dotted 0.1em #ede7f6;
+}
+
+.revNextTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 1.4em 0 0 1em;
+}
+
+.revNextTabTxt {
+    background-color: #5c6bc0;
+    padding: 0.3em 3em;
+    border-radius: 22px;
+}
+
+.revPluginDetailsWrapper {
+    background-color: #eceff1;
+    align-items: flex-end !important;
+    padding: 0.4em 0.8em;
+    margin-top: 1.4em;
+}
+
+.revInstallPluginItemIconWrapper {
+    align-items: center !important;
+    justify-content: center !important;
+    width: 2.4em !important;
+    height: auto !important;
+}
+
+.revInstallPluginItemIcon {
+    color: #5c6bc0;
+    font-size: 1.4rem;
+}
+
+.revSelectableLoggedInUserWrapper {
+    align-items: center;
+    border: dotted 0.1em #ede7f6;
+    padding: 1em 2em 1em 0.9em;
+    margin: 1.4em 0 0 0;
+}
+
+.revSelectableLoggedInUserTell {
+    margin-left: 0.4em;
+}
+
+.revSelectableProfilesContainer {
+    width: calc(100% - 1em) !important;
+    margin: 1.4em 0 0 1em;
+}

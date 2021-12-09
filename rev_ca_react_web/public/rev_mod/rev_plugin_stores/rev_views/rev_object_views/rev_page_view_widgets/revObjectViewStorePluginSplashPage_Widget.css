@@ -1,0 +1,35 @@
+.revPluginSplashPageHeaderWrapper {
+    align-items: center !important;
+    width: calc(100% - 2em) !important;
+    border-bottom: 0.01em dotted #eceff1;
+    border-left: 0.01em dotted #eceff1;
+    padding: 1em 0 1em 0;
+    margin: 0 0 0 2em;
+}
+
+.revPluginSplashPageHeaderMenuItemTab {
+    padding: 0 0.3em;
+    margin: 0 0.3em;
+}
+
+.revDividerBorderWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.4em;
+}
+
+.revPluginSplashPageStatsWrapper {
+    align-items: center !important;
+    width: calc(100% - 2.5em) !important;
+    margin: 0.2em 0 0 2.5em;
+}
+
+.revPluginSplashPageStatsCountWrapper {
+    align-items: center !important;
+    width: calc(100% - 2.2em) !important;
+}
+
+.revPluginSplashPageStatsIcon {
+    width: 2.2em;
+    height: 2.2em;
+}

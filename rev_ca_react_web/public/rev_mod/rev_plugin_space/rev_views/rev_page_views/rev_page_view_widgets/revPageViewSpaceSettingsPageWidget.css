@@ -1,0 +1,62 @@
+.revMenuName {
+  padding: 0 1em 0 0;
+}
+
+.revMenuesArrWrapper {
+  width: fit-content !important;
+  border-bottom: solid .1em #F5F5F5;
+  padding: 0 2em 0 1em;
+  margin: -.1em 0 0 2em;
+}
+
+.revSettingsOptionsContainer {
+  margin: 1em 0 0 0;
+}
+
+.revSpaceVisibilityOptionsContainer {
+  width: fit-content !important;
+  border-bottom: solid .1em #F5F5F5;
+  padding: .7em 2em .7em .4em;
+  margin: 0 0 0 1em;
+}
+
+/** ---------------- **/
+
+.revSettingsContentArea {
+  width: calc(100% - 2em);
+  margin-left: 2em;
+}
+
+.revCheckBoxOptionWrapper {
+  align-items: center !important;
+  width: fit-content !important;
+  margin: 0 0 .5em 0;
+}
+
+.revCheckBoxOptionTxt {
+  display: block;
+  margin-left: .4em;
+}
+
+.revSettingsFooterWRapper {
+  justify-content: space-between !important;
+  margin: 1em 0 0 3.8em;
+  width: calc(100% - 4em) !important;
+}
+
+.revSaveTabTxt {
+  display: inline-block;
+  background-color: #00838F;
+  padding: .5em 1em;
+  border: solid .1em #F5F5F5;
+}
+
+.revDeleteSpaceTab {
+  align-self: flex-end;
+  border-bottom: solid .1em #BF360C;
+  padding: .1em 1em;
+}
+
+.revSettingsEditSpaceContainer {
+  border-right: .1em solid #EDE7F6;
+}

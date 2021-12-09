@@ -1,0 +1,55 @@
+.revNewStoreItemNavHeaderArea {
+    margin-top: 1.7em;
+}
+
+.revSpaceAcademicFormWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 0 0 1em 1em;
+    margin: -0.2em 0 0 2em;
+}
+
+.revFormEntryGrpContainer {
+    border-bottom: solid 0.1em #e8eaf6;
+    border-left: solid 0.1em #e8eaf6;
+    padding-bottom: 1em;
+}
+
+.revEntityDescDetailsArea {
+    border-top: solid 0.1em #e8eaf6;
+    padding-top: 1em;
+    margin: 1em 0 0 0;
+}
+
+.revEntityDescDetailsArea_AcademicMoreDetailsArea {
+    border: solid 0.1em #e8eaf6;
+    border-right: none;
+    padding: 1em 1em 2em 0;
+}
+
+.revSelectItemMainAcademicSpaceIconContainer {
+    width: calc(100% - 1em) !important;
+    margin: 2em 1em 0 0;
+}
+
+.revSelectItemMainAcademicSpaceIconsWrapper {
+    width: calc(100% - 1em) !important;
+    padding: 1em 1em 1em 0;
+    margin: 1em 1em 0 0;
+}
+
+.revEntityDescInputAreaContainer {
+    margin: 1em 0 0 0;
+}
+
+.revFamilyNameTell {
+    background-color: #e0f7fa;
+    border: dotted 0.1em #80deea;
+    padding: 0.4em 2em;
+    margin: 1em 1em 1em 2em;
+}
+
+.revNewAcademicSpaceFormFooter {
+    margin: 2em 0 0 1.2em;
+}

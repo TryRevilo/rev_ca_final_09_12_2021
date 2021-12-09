@@ -1,0 +1,113 @@
+.revKiwiInputFormContainer {
+    background-color: #fff;
+}
+
+.revKiwiInputFormContainer_Edit {
+    background-color: #ffffff;
+    border: 0.1em solid #cfd8dc;
+    padding-bottom: 2em;
+    margin-top: -0.1em;
+}
+
+.revProfilePubArea {
+    margin-top: 15px;
+    width: 100%;
+}
+
+.revPublisherTabsMenuWrapper {
+    align-items: flex-end !important;
+    width: auto !important;
+    padding: 1em 2em 0 0;
+}
+
+.revBtnColorOverride {
+    color: #5c6bc0;
+    background-color: #dfdce4;
+    border-color: #d1c4e9;
+    border-bottom: 0px solid #fff;
+    border-radius: 4px 4px 0 0;
+    padding: 0.175rem 0.65rem;
+    margin-bottom: -3px;
+}
+
+.revEmojiItemTab {
+    color: #d500f9 !important;
+    padding: 0 0 0 1em;
+}
+
+.revKiwiPostTags {
+    border-bottom: 0.1em solid #5c6bc0;
+    padding: 0 0.4em;
+    margin-left: 0.7em;
+}
+
+.revKiwiPostSettingsTab {
+    padding: 0 0.4em;
+    margin-left: 0.7em;
+}
+
+.revPublishItemTab {
+    margin-bottom: 2px;
+    margin-left: 0.7em;
+}
+
+/** REV START TAGS **/
+.revKiwiTagsInputFormContainer {
+    width: auto !important;
+}
+/** REV END TAGS **/
+
+.revKiwiTagsPublisherFormFooterAreaWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    padding-right: 1em;
+    margin: 0.4em 0 0 1em;
+}
+
+/** REV START SETTINGS **/
+.revPublisherFormOptionalFooterAreaContainer {
+    border: 0.1em dotted #cfd8dc;
+    border-left: none;
+    border-right: none;
+    padding: 0.7em 0;
+    margin: 1em 0;
+}
+
+.revPublisherSettingsHeader {
+    border-bottom: 0.1em solid #ede7f6;
+    padding: 0 1.1em;
+}
+
+.revPublisherSettingsFormViewWrapper {
+    align-items: center !important;
+    padding: 0.4em 1.4em 0 1.4em;
+    margin: 0.2em 0 0 0;
+}
+
+.revPublisherSettingsOptionWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 2em 0 0;
+}
+
+.revPublisherOptionSettingsTxt {
+    margin: 0 0 0 0.4em;
+}
+/** REV START SETTINGS **/
+
+.revEditKiwiPicsAlbumWrapper {
+    border: 0.1em dotted #cfd8dc;
+    padding: 0.4em 1em;
+    margin: 1em 0 0 0;
+}
+
+.revHidePublisherSettingsTab {
+    border-bottom: 0.1em solid #5c6bc0;
+    padding: 0 1em;
+}
+
+.revHideKiwiTagsPublisherTab {
+    border-bottom: 0.1em solid #5c6bc0;
+    padding: 0 1em;
+    margin: 1em 0 0 auto;
+}

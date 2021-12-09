@@ -1,0 +1,41 @@
+.revNewChatAlertsListingAreaContainer {
+    background-color: #ffffff;
+    width: auto !important;
+}
+
+.revNewChatAlertWrapper {
+    align-items: flex-end !important;
+    padding: 0.4em 0;
+}
+
+.revNewChatAlertWrapper:hover {
+    background-color: #ede7f6;
+}
+
+.revNewChatAlertIcon {
+    width: 2em;
+    height: 2em;
+    border: 0.1em dotted #ede7f6;
+    border-bottom: none;
+    border-left: none;
+}
+
+.revChatAlertEntityWrapper {
+    align-items: flex-end !important;
+    width: auto !important;
+    border-bottom: 0.1em dotted #ede7f6;
+    padding-left: 1.1em;
+}
+
+.revNewChatAlertEntityName {
+    margin-bottom: -1px;
+}
+
+.revNewChatAlertPointerIcon {
+    margin: 0 0 -0.2em 0.7em;
+}
+
+.revNewChatAlertCount {
+    padding: 0 2em 0 1em;
+    margin-bottom: -1px;
+}

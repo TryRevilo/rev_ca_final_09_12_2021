@@ -1,0 +1,23 @@
+.revEventItemWrapper {
+    margin-bottom: 0.7em;
+}
+
+.revEventInlineItemIcon {
+    color: #82c91e;
+}
+
+.revPicsDetailsContainer {
+    width: calc(100% - 0.7em) !important;
+    margin: 0.2em 0 0 0.7em;
+}
+
+.revEventPicsWrapper {
+    margin: 0.4em 0 0 0;
+}
+
+.revEventPic {
+    background-color: #f5f5f5;
+    width: 2em;
+    height: 2em;
+    margin-right: 0.3em;
+}

@@ -1,0 +1,80 @@
+.revPageViewSpaceHeaderArea_Academic_ActivityWrapper .revFlexWrapper .revEntityBriefFlexRightContainer_HeaderArea .revBriefSpaceDetailWrapper_HeaderAreaWrapper {
+    width: calc(100% - 0.8em) !important;
+    margin-left: 0.8em;
+}
+
+.revFamilyKiwiAreaWrapper {
+    width: calc(100% - 2em) !important;
+    border: 0.1em solid #ede7f6;
+    padding-bottom: 2em;
+    margin: 1em 0 0 2em;
+}
+
+.revFamilyKiwiAreaWrapper .revProfilePubArea {
+    margin-left: 0 !important;
+}
+
+.revFamilyKiwiAreaWrapper .revPublisherTabsMenuArea {
+    padding-left: 0;
+    border-bottom: none !important;
+}
+
+.revEntityActivityContentArea {
+    width: 100% !important;
+}
+
+/** START NOTICIAS REV CAL AREA **/
+.revInlineNoticiasContainer {
+    padding: 0.7em 0;
+}
+
+.revInlineNoticiasListContainer {
+    width: calc(100% - 37px) !important;
+    margin: 0.7em 0 0 37px;
+}
+
+.revInlineNoticiasListAnnouncementsContainer {
+    width: calc(100% - 3.5em) !important;
+    margin: 0.7em 0 0 3.5em;
+}
+
+.revEmptyNoticias {
+    margin: 0.7em 0 0 1.7em;
+}
+
+.revInlineNoticiaHeaderWrapper {
+    align-items: center !important;
+}
+
+.revLong_H_Rule {
+    background-color: #f5f5f5;
+    min-width: 70% !important;
+    height: 0.1em;
+}
+
+.rev_H_Rule {
+    background-color: #ede7f6;
+    width: 2em;
+    height: 0.1em;
+}
+
+.rev_V_Rule_Tiny {
+    background-color: #ede7f6;
+    width: 0.1em;
+    height: 0.8em;
+}
+
+.revMidSeparater {
+    width: 4em;
+}
+
+.revNoticiaIcon {
+    width: 1.2em;
+    padding: 0 0.4em;
+}
+
+.revGetFormTab {
+    min-width: 2em;
+    padding: 0 0.4em;
+}
+/** END NOTICIAS REV CAL AREA **/

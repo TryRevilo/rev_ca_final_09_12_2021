@@ -1,0 +1,26 @@
+.revNewMintTagsContainer {
+    width: calc(100% - 1em) !important;
+    border: 0.1em dotted #cfd8dc;
+    border-bottom: none;
+    border-right: none;
+    padding: 0.7em 1em 1em 1em;
+    margin: 0 0 0 1em;
+}
+
+.revNewMintTagsListItemsContainer {
+    margin-top: 0.4em;
+}
+
+.revNewMintTagsOptionsWrapper {
+    width: auto !important;
+    margin-left: auto;
+}
+
+.revNewMintTagsOptionTab {
+    margin-left: 1em;
+}
+
+.revMoreMintTags {
+    padding: 0.4em;
+    margin-top: 0.7em;
+}

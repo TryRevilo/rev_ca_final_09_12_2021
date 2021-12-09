@@ -1,0 +1,210 @@
+.revPluginEditHomeHeaderTabContainer {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.5em 0 0;
+}
+
+.revPluginEditHomeHeaderTabTxt {
+    background-color: #f9fbe7;
+    border-bottom: 0.1em dotted #ede7f6;
+    padding: 0 0.7em;
+    z-index: 1;
+}
+
+.revPluginEditHomeHeaderTabActivePointer {
+    top: 0.8em;
+}
+
+.revNewPluginProjectLineNumberDescWrapper {
+    width: calc(100% + 0.9em) !important;
+    border-bottom: 0.1em dotted #ffebee;
+    padding: 0 0 0 0.4em;
+    margin: 0.5em 0 0 -0.9em;
+}
+
+/** REV START NEW PLUGIN AREA **/
+.revPluginEditActivityBodyNewPluginContainer {
+    width: calc(100% - 1em) !important;
+    height: 7.75em;
+    border: 0.1em dotted #ffebee;
+    border-right: none;
+    border-left: 0.1em solid #ffebee;
+    padding: 2.4em 0;
+    margin: -1em 0 0 1em;
+}
+
+.revPluginEditHomeTellContainer {
+    padding: 0 0 0 0;
+}
+
+.revPluginEditHomeBodyNewPluginWrapper {
+    align-items: center !important;
+    padding: 0 0 0 1.1em;
+    margin-top: -0.4em;
+}
+
+.revPluginEditHomeTellContainer_BackgroundBorder {
+    background-color: #ffebee;
+    height: 0.1em;
+    top: 1em;
+}
+
+.revPluginEditActivityBodyNewPluginTellContainer {
+    background-color: #ffebee;
+    width: calc(100% - 1.6em) !important;
+    padding: 0.2em 1em 1em 1em;
+    margin: 0.2em 0 0 1.4em;
+}
+
+.revPluginEditHomeBodyNewPluginTell_Par {
+    margin: 0.3em 0 0 0;
+}
+
+.revPluginEditHomeBodyNewPluginTxt {
+    margin: 0 0 0 0.2em;
+}
+/** REV END NEW PLUGIN AREA **/
+
+/** REV START ACTIVE PLUGINS TREE **/
+.revPluginProjectsEditsViewContainer {
+    width: calc(100% - 1em) !important;
+    margin: 1em 0 0 1em;
+}
+
+.revPluginEditHomePluginEditHomeCurrentActiveContainer {
+    border-left: 0.1em solid #ffebee;
+    padding: 1em 0 0 0;
+}
+
+.revPluginEditHomeHookRemoteHandlerMenuItemsTabsContainer {
+    width: calc(100% - 1.5em) !important;
+    border-left: 0.1em solid #ffebee;
+    padding: 0.2em 0 1em 0;
+    margin: 0 0 -1em 1.5em;
+}
+
+.revPluginModuleProjectEditWrapper {
+    padding: 0.3em 1em 0 0;
+}
+
+.revPluginModuleProjectEditWrapper:hover {
+    background-color: #f9fbe7 !important;
+}
+
+.revPluginEditHomeGroupProject_H_Line {
+    margin-top: 0.5em !important;
+}
+
+.revPluginModuleProjectEditWrapper_H_Line {
+    margin-top: 1em !important;
+}
+
+.revPluginEditHomeFormNameWrapper {
+    align-items: center !important;
+    margin: 0.5em 0 0 0;
+}
+
+.revPluginEditHomeGroupTabItemIcon {
+    margin: -0.2em 0 0 0;
+}
+
+.revPluginEditHomeUserEditorTabIcon {
+    width: 2em;
+    height: 2em;
+    background-color: #fff;
+    border: 0.1em solid #ffebee;
+}
+
+.revrevPluginEditHomeUserEditorFullNamesTxt {
+    padding: 0 0 0 0.5em;
+    margin: -0.4em 0 0 0;
+}
+
+.revPluginEditHomeGroupTabItemTxt {
+    padding: 0 0 0 0.5em;
+}
+
+.revPluginEditHomeFormNameWrapper_revSmallDividerWrapper_BorderRight {
+    margin: -0.2em 0 0 0.4em;
+}
+
+.revPluginEditUserEditorModuleProjectDurationWrapper {
+    padding: 0 0 0.5em 0.7em;
+}
+
+.revPluginModuleProjectEditWrapper_revSmallDividerWrapper_BorderRight {
+    margin-top: 0.2em;
+}
+
+.revPluginEditorProjectDetailsTab {
+    padding: 0 0 0.4em 1em;
+}
+
+.revPluginEditorUserEditProjectDetailsTab {
+    padding: 0 0 0 1em;
+}
+
+.revForm_PluginModuleProjectLineEditsDescSwitchContainer {
+    background-color: #fff;
+    width: calc(100% + 0.1em) !important;
+    border: 0.1em solid #ffebee;
+    border-top: none !important;
+    padding: 0 0 1em 0.2em;
+    margin-left: -0.1em;
+}
+
+.revPluginEditProjectBriefDesc {
+    margin: -0.3em 0 0 2.5em;
+}
+
+.revPluginEditHomeUserEditorLastUpdateWrapper {
+    margin: 0.1em 0 0 2.7em;
+}
+/** REV END ACTIVE PLUGINS TREE **/
+
+.revUserProjectEditDetailsWrapper {
+    background-color: #fff;
+    width: calc(100% - 3.5em) !important;
+    border-left: 0.1em solid #ffebee;
+    padding: 0.7em 0 0 0;
+    margin: 0 0 0 3.5em;
+    z-index: 1;
+}
+
+.revUserProjectEditDetailsWrapper_H_Line {
+    margin: 0.5em 0 0 0;
+}
+
+.revUserProjectEditDetailsHeaderWrapper {
+    align-items: flex-end !important;
+}
+
+.revUserProjectEditDetailsContainer_Border {
+    width: 5em !important;
+    border-bottom: 0.1em solid #ffebee;
+    margin: -0.1em 0 0 -1em;
+}
+
+.revUserProjectEditDetailsLastUpdateTxt {
+    margin: 0 0 0.1em 0.4em;
+}
+
+.revUserProjectEditDetailsCode {
+    background-color: #f9fbe7;
+    width: calc(100% + 1em) !important;
+    padding: 0.4em 1em;
+    margin: 0.4em 0 0 -1em;
+}
+
+.revUserProjectEditDetailsCode pre.prettyprint {
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.revPluginEditsViewsArr_H_Line {
+    width: 3em;
+    height: 0.1em;
+    border-bottom: 0.1em solid #ffebee;
+    margin: 0.4em 0 0 2em;
+}

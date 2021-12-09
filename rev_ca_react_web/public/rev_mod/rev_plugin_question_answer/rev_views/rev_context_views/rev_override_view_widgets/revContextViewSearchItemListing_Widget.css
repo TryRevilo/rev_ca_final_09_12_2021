@@ -1,0 +1,11 @@
+.revContextViewQuestionItemListing {
+    margin: 1em 0;
+}
+
+.revContextViewQuestionItemListing .revQuestionItemContainer {
+    padding-left: 1em;
+}
+
+.revActivityViewListItemWrapperStyle .revFlexContainer .revQuestionListingItemContainer {
+    margin-top: 0 !important;
+}

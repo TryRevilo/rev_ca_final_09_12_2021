@@ -1,0 +1,143 @@
+.revTranslateOptionsWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 1em 0 0 1em;
+}
+
+.revTranslateOptionTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 1em 0 0;
+}
+
+.revTranslateOptionTxt {
+    margin: 0 0 0 0.2em;
+}
+
+.revTranslateSuggestionsAreaContainer {
+    width: calc(100% - 1em) !important;
+    border-top: 0.1em dotted #cfd8dc;
+    padding-top: 0.7em;
+    margin: 0.7em 0 0 1em;
+}
+
+.revTranslationsPublishedListingContainer {
+    margin-top: 1em;
+}
+
+.revTranslateSuggestionsAreaContainerPointer {
+    margin: 0.4em 0 0 0.2em;
+}
+
+.revTranslateSuggestionItemContainer {
+    border: 0.1em dotted #cfd8dc;
+    border-right: none;
+    padding: 0 0 0.7em 0;
+    margin: 0 0 0.7em 0;
+}
+
+.revSearchItemsListingContainer .revFlexContainer .revFlexContainer .revTranslateSuggestionItemContainer {
+    border: none;
+    padding: 0 0 0.7em 0;
+    margin: 1em 0 0.7em 0;
+}
+
+.revTranslateSuggestionPublisherWrapper {
+    align-items: center !important;
+    background-color: #fff;
+    margin: 0.4em 0 0 -1em;
+}
+
+.revSearchItemsListingContainer .revFlexContainer .revFlexContainer .revTranslateSuggestionItemContainer .revTranslateSuggestionPublisherWrapper {
+    align-items: center !important;
+    background-color: #fff;
+    width: calc(100% + 0.1em) !important;
+    margin: 0.4em 0 0 -0.1em;
+}
+
+.revTranslateSuggestionPublisherIcon {
+    border: 0.1em solid #cfd8dc;
+    width: 2em;
+    height: 2em;
+}
+
+.revSearchItemsListingContainer .revFlexContainer .revFlexContainer .revTranslateSuggestionItemContainer .revTranslateSuggestionPublisherWrapper .revTranslateSuggestionPublisherIcon {
+    border: 0.1em solid #cfd8dc;
+    border-left: none;
+    width: 3em;
+    height: 3em;
+}
+
+.revSuggestedMintEntityIcon {
+    border: 0.1em solid #cfd8dc;
+    width: 2em;
+    height: 2em;
+    padding: 0.1em;
+    margin-right: 0.1em;
+}
+
+.revTranslateSuggestionPublisherNames {
+    margin: 0 0 0 0.4em;
+}
+
+.revTranslateSuggestionPublisherTime {
+    margin: 0 0 0 0.4em;
+}
+
+.revTranslateItemSuggestionWrapper {
+    width: calc(100% + 0.1em) !important;
+    margin: 0 0 0 -0.1em;
+}
+
+.revSearchItemsListingContainer .revFlexContainer .revFlexContainer .revTranslateSuggestionItemContainer .revTranslateItemSuggestionWrapper {
+    width: calc(100% - 1.5em) !important;
+    margin: 0 0 0 1.5em;
+}
+
+.revTranslateSuggestionsPointerWrapper {
+    width: auto !important;
+    padding-left: 0.1em;
+    margin-left: -0.1em;
+}
+
+.revSearchItemsListingContainer .revFlexContainer .revFlexContainer .revTranslateSuggestionItemContainer .revTranslateItemSuggestionWrapper .revTranslateSuggestionsPointerWrapper {
+    width: auto !important;
+    padding-left: 0.1em;
+    margin-left: 0;
+}
+
+.revTranslateSuggestionsPointerIcon {
+    color: #cfd8dc !important;
+    margin: -0.1em 0 0 0;
+}
+
+.revTranslateItemSuggestionContainer {
+    width: calc(100% - 0.2em) !important;
+    margin: 0 0 0 0.2em;
+}
+
+.revSearchItemsListingContainer .revFlexContainer .revFlexContainer .revTranslateSuggestionItemContainer .revTranslateItemSuggestionWrapper .revTranslateItemSuggestionContainer {
+    width: calc(100% - 0.5em) !important;
+    margin: 0 0 0 0.5em;
+}
+
+.revTranslateSuggestionItemOptionsWrapper {
+    align-items: center !important;
+    margin: 0.4em 0 0 0;
+}
+
+.revTranslateSuggestionItemOptionTab {
+    margin: 0 1em 0 0;
+}
+
+.revTranslatePhraseContainer {
+    margin-top: 1em;
+}
+
+.revCloseQuestionTabWrapper {
+    align-items: center !important;
+}
+
+.revTansLockCount {
+    margin-left: 0.4em;
+}

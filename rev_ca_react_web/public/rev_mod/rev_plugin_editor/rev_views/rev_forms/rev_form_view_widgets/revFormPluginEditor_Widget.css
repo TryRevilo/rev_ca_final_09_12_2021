@@ -1,0 +1,184 @@
+.revDeveloperFloatingMenuAreaWrapper {
+    align-items: center !important;
+    background-color: #ffebee;
+    width: auto !important;
+    border: 0.1em dotted #f8bbd0;
+    border-right: 0.1em solid #f8bbd0;
+    padding: 0.1em 1em;
+    margin: 0 0 0 auto;
+    bottom: 0.1em;
+    border-radius: 8px 0 0 8px;
+    z-index: 2;
+}
+
+.revCodeFloatingTab {
+    color: #ec407a;
+    padding: 0 0.8em;
+}
+
+.revCodePluginsTab {
+    padding: 0 !important;
+}
+
+.revCodeFloatingTab :hover {
+    color: #3949ab;
+}
+
+.revCodePluginsEditorAreaContainer {
+    height: 100% !important;
+    margin: 1em 0 0 0;
+}
+
+.revCodePluginsEditorAreaTopBackground {
+    align-items: center !important;
+    background-color: #f9fbe7;
+    height: 2em !important;
+    border-top: 0.1em solid #ffebee;
+    z-index: 2;
+}
+
+.revCodeEditorHeaderTabsWrapper {
+    align-items: center !important;
+    margin: -1em 0 0 -0.1em;
+    z-index: 3;
+}
+
+.revPluginEditorInputTabsHeaderAreaWrapper {
+    background-color: #f9fbe7;
+    padding-top: 0.6em;
+    top: 1.4em;
+    z-index: 2;
+}
+
+.revPluginProjectssEditorTabHomeWrapper {
+    align-items: center !important;
+}
+
+.revPluginProjectssEditorTabHomeBackground {
+    margin: 0.2em 0 0 -0.2em;
+}
+
+.revPluginProjectssEditorTabHome {
+    background-color: #f9fbe7;
+    padding: 0.2em 0 0.2em 0.32em;
+}
+
+.revCodePluginsEditorContentBodyContainer {
+    background-color: #f9fbe7;
+    opacity: 0.97;
+    border-top: 0.1em dotted #f8bbd0;
+    border-right: 0.1em dotted #f8bbd0;
+    height: 100% !important;
+    padding: 1.7em 0 2.5em 0;
+}
+
+.revDropDownMenuArea_PluginNamesWrapper {
+    align-items: center !important;
+    margin: 0.1em 0 0 0;
+}
+
+.revCodeEditorHeaderTabsLeftGrpWrapper {
+    align-items: center !important;
+    font-size: 1.1em;
+    background-color: #ffffff;
+    border: 0.1em dotted #f8bbd0;
+    padding: 0.2em 1em 0.2em 0.4em;
+    border-radius: 0 12px 12px 0;
+}
+
+.revCodeEditorHeaderTabsRightGrpWrapper {
+    align-items: center !important;
+    margin: 0 0 0em 1em;
+}
+
+.revPluginEditorPreviewTab {
+    margin: 0.2em 0 0 0;
+}
+
+.revOriginalFileTab {
+    color: #80cbc4;
+    background-color: #f1f8e9;
+    border: 0.1em solid #a5d6a7;
+    padding: 0.2em 0.2em 1em 0;
+    margin: -0.5em 0 -1em 0.7em;
+}
+
+.revPluginFileEditorsTab {
+    color: #f57f17;
+    background-color: #fff;
+    border-left: none;
+    padding: 0.2em 0 0 1em;
+}
+
+.revFileEditOptionsTab {
+    background-color: #ffffff;
+    border: 0.1em dotted #a5d6a7;
+    padding: 0 0.4em;
+    margin-left: 0.4em;
+}
+
+.revPluginEditorPreviewEditTab {
+    padding: 0 0.7em;
+    margin: 0 0 0.1em 0.4em;
+}
+
+.revCodeEditorHeaderTabItemWrapper {
+    align-items: center !important;
+    padding-right: 0.1em;
+}
+
+.revPluginEditorTabSmallDivider {
+    margin: 0.4em 0 0 -0.7em;
+}
+
+.revCodeEditorHeaderTab {
+    font-size: 0.9rem;
+    margin: 0 0 0 -0.4em;
+}
+
+/** REV START TABS TREE NAVS **/
+.revPluginNameTabWrapper {
+    align-items: center !important;
+    padding: 0 1em 0 0;
+}
+
+.revPluginNameTabViewTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revPluginNameTabView {
+    margin: 1em 0 0 0.3em;
+}
+
+.revPluginTreeTabPopUpViewContainer {
+    background-color: #fff;
+    width: auto !important;
+    border: 0.1em solid #ffebee;
+    border-left: none;
+    margin: -0.1em 0 0 -0.1em;
+    z-index: 1;
+}
+
+.revPluginViewsGroupTabItemWrapper {
+    align-items: center !important;
+    padding: 0.3em 1em 0.3em 0;
+}
+
+.revPluginViewsGroupTabItemIcon {
+    margin: -0.2em 0 0 0;
+}
+
+.revPluginViewsGroupTabItemTxt {
+    margin: -0.2em 0 0 0.4em;
+}
+
+.revPluginViewsGroupItemAddNewFileTab {
+    margin: -0.15em 0 0 1em;
+}
+
+.revPluginTreeTabsContainer {
+    width: calc(100% - 1em) !important;
+    border-left: 0.1em solid #ffebee;
+    padding: 1em 0 0 0;
+    margin: -0.1em 0 0 1em;
+}

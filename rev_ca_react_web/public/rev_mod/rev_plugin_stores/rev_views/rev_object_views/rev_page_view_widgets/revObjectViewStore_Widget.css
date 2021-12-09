@@ -1,0 +1,27 @@
+.revStoreChildsViewsArrContainer {
+    width: calc(100% - 2em) !important;
+    margin: 0 0 0 2em;
+}
+
+.revStoreChildsViewsArrContainer .revStoreItemOverrideViewWrapper {
+    width: calc(100% - 2.5em) !important;
+    margin: 0 0 0 2.5em !important;
+}
+
+.revObjectViewStoreItemContainer {
+    margin-top: 1.2em;
+}
+
+.revObjectViewStoreItemContainer .revStoreItemOverrideViewWrapper .revStoreItemOverrideViewDetailsSummuryContainer {
+    border-right: none !important;
+}
+
+.revObjectViewStoreItemContainer .revStoreItemOverrideViewWrapper .revStoreItemOverrideViewDetailsSummuryContainer .revStoreItemOverrideViewBuyOptionsWrapper {
+    width: 100% !important;
+    margin-right: 0 !important;
+}
+
+.revPageViewStoreBriefInfoWrapper {
+    width: calc(100% - 2em) !important;
+    margin-left: 2em;
+}

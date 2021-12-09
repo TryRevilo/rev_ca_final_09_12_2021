@@ -1,0 +1,69 @@
+.revEntityCommentsContainer {
+    border: 1px solid #ede7f6;
+    border-bottom: none;
+    border-left: none;
+}
+
+.revEntityCommentsContainer_No_Border {
+    border: 1px solid #ede7f6;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+}
+
+.revCommentListCenterContainer {
+    width: calc(100% - 0.4em) !important;
+    margin: 0.4em 0 0 0.4em;
+}
+
+.revCommentListStyle {
+    padding: 0.6em;
+    border-bottom: 1px solid #ede7f6;
+    border-left: 1px solid #ede7f6;
+}
+
+.revCommentListStyle_No_Border {
+    padding: 0.6em;
+}
+
+.revCommentEntityDescriptionContainer {
+    margin: 0.4em 0 0 0;
+}
+
+.revCommentEntityDescriptionContainer .ql-syntax {
+    width: calc(100% + 0.7em) !important;
+    margin-right: -0.7em !important;
+}
+
+.revCommentPublicationDetailsWrapper {
+    align-items: baseline !important;
+}
+
+.revCommentPublisherIconStyle {
+    background-color: #eeeeee;
+    width: 35px;
+    height: 35px;
+    padding: 0.2em 0.2em;
+    margin-top: -0.4em;
+    border-radius: 50%;
+}
+
+.revViewAllStyle {
+    color: #7986cb;
+    font-size: 0.9rem;
+    margin: 1em 0 1em 56px;
+}
+
+.revItemOptionsMenuArea_Comments_Wrapper {
+    justify-content: space-between !important;
+    align-content: flex-start !important;
+    width: 42.7%;
+    margin: 0.5em 0 0 0;
+}
+
+.revCommentsCounter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 2em;
+}

@@ -1,0 +1,17 @@
+.revNewConnReqsItemWrapper {
+    padding: 1em;
+    margin-top: 0.7em;
+}
+
+.revNewConnReqsItemWrapperColored {
+    background-color: #f6fbf2;
+}
+
+.revConnectionDetailWrapper {
+    width: calc(100% - 1em) !important;
+    margin-left: 1em;
+}
+
+.revConnReqsContainer {
+    margin: 1em 0 0 0;
+}

@@ -1,0 +1,69 @@
+.revCreateUserConnectionFormContainer {
+    background-color: #ffffff;
+    border-left: 0.1em solid #ede7f6;
+    padding: 1em 0;
+}
+
+.revPublisherSettingsFormViewWrapper {
+    align-items: center !important;
+    padding: 0.4em 1.4em 0 1.4em;
+    margin: 0.2em 0 0 0;
+}
+
+.revPublisherSettingsOptionWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 2em 0 0;
+}
+
+.revPublisherOptionSettingsTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revConnectUserFormFooterWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 1em 0 0 1em;
+}
+
+/** REV START FAMILY RELATION FORM **/
+.revFamilyRelationshipComposerFormContainer {
+    width: calc(100% - 0.7em) !important;
+    border: 0.1em dotted #cfd8dc;
+    border-right: none;
+    padding: 0.5em 0;
+    margin: 1em 0 0 0.7em;
+}
+
+.revFamilyRelationInputWrapper {
+    align-items: center !important;
+    margin: 0.2em 0 0 0;
+}
+
+.revFamilyRelationTypeSelectMenuArea {
+    margin: 0 0 0 1em;
+}
+
+.revFamilyRelationTypeSelectedWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.4em;
+}
+
+.revInLawFamilyRelationTypeSelectedWrapper {
+    align-items: center !important;
+    width: auto !important;
+    padding-top: 0.1em;
+    margin-left: 0.4em;
+}
+
+.revInLawTxt {
+    display: inline-block;
+    margin-left: 0.4em;
+}
+
+.revNoRightBorderInput {
+    border: 0.1em solid #e8eaf6;
+    border-right: none;
+}
+/** REV END FAMILY RELATION FORM **/

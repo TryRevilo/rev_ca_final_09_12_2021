@@ -1,0 +1,149 @@
+.revMsgSubjectInputTextWrapper {
+    width: calc(100% + 0.2em) !important;
+    border-bottom: 0.1em solid #ede7f6;
+    margin: -0.8em -0.1em 0 -0.1em;
+}
+
+.revMsgSubjectInput {
+    padding-left: 0.5em;
+}
+
+.revMsgComposeBodyContainer {
+    margin-top: 0.4em;
+}
+
+.revRichInputAreaContainer_InlineMessage {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 100%;
+    z-index: 1;
+}
+
+.revProfilePubArea_InlineMessage {
+    width: 100%;
+}
+
+.revPublisherTabsMenuArea_InlineMessage {
+    line-height: 1em;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    width: 100%;
+    padding: 0.175rem 0.65rem;
+    margin: 1em 0 1em 0;
+    border-bottom: solid 1px #ede7f6;
+}
+
+.revEmojiItemTab_InlineMessage {
+    color: #d500f9 !important;
+    font-size: 1.4em;
+    padding: 0 0 0 1em;
+}
+
+.revPublishItemTab_InlineMessage {
+    font-size: 1em;
+    color: #5c6bc0;
+    font-weight: 400;
+    height: fit-content;
+    margin-left: 1.4em;
+}
+
+.revBtnColorOverride_InlineMessage {
+    color: #5c6bc0;
+    background-color: #d1c4e9;
+    border-color: #d1c4e9;
+    border-bottom: 0px solid #fff;
+    border-radius: 4px 4px 0 0;
+    padding: 0.275rem 0.65rem;
+    margin-bottom: -3px;
+}
+
+.revUploadTab_InlineMessage {
+    color: #5c6bc0;
+    font-size: 1em;
+}
+
+/** REV START INLINE FORM **/
+.revMessagePublisherInput {
+    background-color: #fff;
+    width: 100%;
+    border: 0.1em solid #ede7f6;
+    border-right: none;
+    padding: 0.7em 0 0.7em 0;
+    margin-top: 0.7em;
+}
+
+.revMessagePublisherItemWrapper {
+    align-items: center !important;
+    margin: 1em 0 0.7em 0;
+}
+
+.revLoggedInEntityMsgComposerIconViewWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revComposeNewMsgEntityIcon {
+    background-color: #fff;
+    width: 2.7em !important;
+    height: 2em !important;
+    border: 0.1em solid #ede7f6;
+}
+
+.revSelectedMsgRecipientsIconsWrapper {
+    align-items: flex-end !important;
+    width: calc(100% + 0.2em) !important;
+    border: 0.1em dotted #ede7f6;
+    border-right: none;
+    border-left: none;
+    padding: 0.1em 0 0.5em 1.3em;
+    margin: 1em 0 0 -0.2em;
+}
+
+.revSelectedMsgRecipientsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 1.3em;
+}
+
+.revSelectedMessageRecipientsDividerIcon {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0.4em 1em;
+}
+
+.revSelectMsgConTabIconContainer {
+    align-items: center !important;
+    justify-content: center !important;
+    width: auto !important;
+    margin: 0.4em 0.2em 0 0;
+}
+
+.revMsgRecipientDelTabWrapper {
+    align-items: center !important;
+    border: 0.1em dotted #bf360c;
+    border-bottom: none !important;
+    padding: 0.3em 0.2em;
+}
+
+.revMsgRecipientDelTab {
+    margin: auto;
+}
+
+.revComposeMsgRecipientEntityIcon {
+    border: 0.1em solid #ede7f6;
+    width: 2em !important;
+    height: 2em !important;
+    padding: 0.1em;
+}
+
+/** REV END INLINE FORM **/
+
+.revAddMessageRecipientsIconsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    border: 0.1em dotted #ede7f6;
+    padding: 0.1em 0.7em 0.1em 0.4em;
+    margin-left: 1.2em;
+}

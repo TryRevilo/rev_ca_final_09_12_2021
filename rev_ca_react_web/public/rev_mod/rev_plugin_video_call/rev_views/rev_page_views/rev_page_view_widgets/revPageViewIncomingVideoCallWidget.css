@@ -1,0 +1,45 @@
+.revIncomingCallAlertHeaderWrapper {
+    align-items: center !important;
+}
+
+.revIncomingCallAlertTxt {
+    border-bottom: 0.1em solid #cfd8dc;
+    padding: 0.4em 2em 0 1em;
+}
+
+.revIncomingVideoCallAlertBlinkersWrapper {
+    align-items: center !important;
+    align-self: flex-end !important;
+    width: auto !important;
+    margin: 0 0 0 0;
+}
+
+.revIncomingVideoCallAlertCallerDetailsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 1em;
+}
+
+.revIncomingVideoCallAlertUserIcon {
+    width: 3em;
+    height: 3em;
+    border: 0.1em solid #cfd8dc;
+    border-top: none;
+    border-radius: 0 0 22px 22px;
+}
+
+.revIncomingVideoCallAlertUserFullNames {
+    margin: 0.65em 0 0 0.2em;
+}
+
+.revReceiverIncommingCallOptionWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0.55em 0 0 0.4em;
+}
+
+.revReceiverIncommingCallOption {
+    border-bottom: 0.1em solid #5c6bc0;
+    padding: 0 2em;
+    margin-right: 0.2em;
+}

@@ -1,0 +1,89 @@
+.revObjectResolutionRequestItemContainer {
+    margin: 1.4em 0 0 0;
+}
+
+.revResolutionRequestObjectEntityDescContainer {
+    width: calc(100% - 1em) !important;
+    border: 0.1em dotted #ede7f6;
+    border-right: none !important;
+    padding: 0.4em 1em;
+    margin: 1em 0 0 1em;
+}
+
+.revObjectAnswerListingItemContainer {
+    border-bottom: 0.1em solid #cfd8dc;
+    margin: 2em 0 0 0;
+}
+
+.revResolutionRequestObjectMediaContainer {
+    width: calc(100% - 2.1em) !important;
+    margin: 0.8em 1.1em 0 1em;
+}
+
+/** REV START TAGS **/
+.revResolutionRequestTagsListWrapper {
+    align-items: flex-end !important;
+    width: calc(100% - 1em) !important;
+    margin: 1em 0 0 1em;
+}
+/** REV END TAGS **/
+
+.revObjectResolutionRequestListingItemStatsWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 1.4em 0 0 1em;
+}
+
+/** REV START OPTIONS **/
+.revResolutionRequestObjectOptionsWrapper {
+    width: calc(100% - 1em) !important;
+    margin: 1em 0 0 1em;
+}
+
+.revResolutionRequestObjectOption {
+    border-bottom: 0.1em solid #5c6bc0;
+    padding: 0 1em;
+    margin: 0 1em 0 0;
+}
+/** REV END OPTIONS **/
+
+.revObjectResolutionRequestListingItemPublisherInfoWrapper {
+    align-items: center !important;
+    width: calc(100% - 2em) !important;
+    margin: 1em 0 0 2em;
+}
+
+.revObjectResolutionRequestListingItemPublisherIcon {
+    background-color: #ffffff;
+    width: 2.5em;
+    height: 2.5em;
+    border: 0.1em solid #cfd8dc;
+}
+
+.revObjectResolutionRequestAnswerFormWrapper {
+    margin-top: 0.7em;
+}
+
+.revObjectAnswerCommentPublisherInput {
+    background-color: #fff;
+    width: 100%;
+    border: 0.1em solid #ede7f6;
+    border-right: none;
+    border-bottom: none;
+    padding: 0.7em 0 0.7em 0;
+}
+
+.revObjectResolutionRequestsAskedContainer {
+    width: calc(100% - 2em) !important;
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    padding: 1em 0 1em 1em;
+    margin: 0 0 0 2em;
+}
+
+.revObjectResolutionRequestAnswersContainer {
+    border: 0.1em dotted #ede7f6 !important;
+    border-right: none !important;
+    padding: 0 0 1em 1em;
+    margin-top: 2em;
+}

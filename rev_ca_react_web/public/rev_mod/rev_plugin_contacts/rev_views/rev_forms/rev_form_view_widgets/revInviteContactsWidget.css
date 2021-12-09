@@ -1,0 +1,16 @@
+.revSelectableContactWrapper {
+    width: calc(100% - 2em) !important;
+    margin-left: 0.4em;
+}
+
+.revContactCheckBox {
+    margin: 0.2em 1em 0 0;
+}
+
+.revInviteContactsHeaderWrapper {
+    align-items: center !important;
+}
+
+.revImportCctsHeaderArea {
+    margin: 0 1em 0 auto;
+}

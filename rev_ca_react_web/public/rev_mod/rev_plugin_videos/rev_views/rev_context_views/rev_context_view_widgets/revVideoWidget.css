@@ -1,0 +1,78 @@
+.revVidCaptionArea {
+    width: 100%;
+    height: 10em;
+    margin-top: 0.4em;
+}
+
+.revTrendingItemItemContainer {
+    width: calc(100% - 1em) !important;
+    border-left: 0.1em dotted #cfd8dc;
+    padding: 0 0 0.7em 0;
+    margin: 0 0 0.7em 1em;
+}
+
+.revVidTtlAbsolute {
+    background-color: #fff;
+    opacity: 0.8;
+    bottom: 0;
+    padding: 0.2em 0.7em 0.4em 0.7em;
+    z-index: 1;
+}
+
+.revPicsOverrideViewWrapper {
+    margin: 0.1em 0 0 0;
+}
+
+.revVidDetailsWrapper {
+    text-align: left;
+    line-height: 0.8rem;
+    padding-top: 0.4em;
+}
+
+.revVidDetailsRightContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 0.4em;
+    padding-left: 0.2em;
+    border-bottom: solid 1px #d1c4e9;
+}
+
+.revVidInfo {
+    color: #757575;
+    font-size: 0.8rem;
+}
+
+.revVidPublisher {
+    color: #757575;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding-top: 0.4em;
+}
+
+.revVidPublisherIconWrapper {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 0.2rem;
+    width: 3.5rem;
+    height: 3.5rem;
+    border: solid 1px #d1c4e9;
+    border-left: none;
+}
+
+.revTrendingSuggestionItemOptionsWrapper {
+    align-items: center !important;
+    margin: 0.4em 0 0 0;
+}
+
+.revTrendingSuggestionItemOptionTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revTrendingItemItemTagsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.1em;
+}

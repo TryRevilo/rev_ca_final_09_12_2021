@@ -1,0 +1,36 @@
+.revMenuAreaPageFloatingOptionsWrapper {
+    position: absolute;
+    top: 0;
+}
+
+.revFloatingRightBorderWrapperView {
+    background-color: #ede7f6;
+    position: absolute;
+    top: 2.4em;
+    right: 0;
+    width: 0.1em;
+    height: 12.8em;
+}
+
+.revMenuAreaPageFloatingOptionsMenuItemsWrapper {
+    align-items: center !important;
+    position: absolute;
+    top: 7.1em;
+    right: 0;
+    background-color: #fff;
+    width: auto !important;
+    border: solid 0.1em #ede7f6;
+    border-right: none;
+    opacity: 0.9;
+    padding-left: 1em;
+    z-index: 1000;
+}
+
+.revFilterOptionIcon {
+    font-weight: 600;
+}
+
+.revFilterOptionTxt {
+    font-weight: 600;
+    margin: auto 0 0 0.1em;
+}

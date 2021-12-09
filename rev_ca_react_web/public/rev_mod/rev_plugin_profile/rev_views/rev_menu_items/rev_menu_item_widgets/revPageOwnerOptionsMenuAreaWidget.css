@@ -1,0 +1,42 @@
+.revpageOwnerHeaderWrapper {
+    align-items: flex-end !important;
+    border-bottom: 0.01em solid #eceff1;
+    width: calc(100% - 2em) !important;
+    margin: -0.4em 0 0 2em;
+    padding-left: 0.4em;
+}
+
+.revPageOwnerNamesWrapper {
+    align-items: flex-end !important;
+    width: auto !important;
+    padding-left: 0.3em;
+}
+
+.revPageOwnerNamesTxt {
+    font-weight: 600;
+}
+
+.revPageOwnerScoreWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.4em;
+}
+
+.revPageOwnerScoreIcon {
+    align-self: flex-end;
+    margin: 0 0 0 0.7em;
+}
+
+.revPageOwnerScoreCountTxt {
+    align-self: flex-end;
+    margin: 0 0.7em -1px 0.1em;
+}
+
+.revOptionsStab_H_Pad {
+    padding: 0 1em;
+}
+
+.revConnectUserTab {
+    font-size: 1.4em;
+    line-height: 1em;
+}

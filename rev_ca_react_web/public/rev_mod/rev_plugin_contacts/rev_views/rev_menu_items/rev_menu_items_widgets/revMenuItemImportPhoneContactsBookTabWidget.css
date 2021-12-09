@@ -1,0 +1,19 @@
+.revImportContactsFormContainer {
+    margin: 1em 0 0 0;
+}
+
+.revImportPhoneContactsHeaderWrapper {
+    align-items: center !important;
+}
+
+.revImportPhoneContactsTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0.3em 0 0 -1em;
+}
+
+.revImportPhoneContactsCancelTab {
+    border-bottom: 0.1em solid #5c6bc0;
+    padding: 0 1em;
+    margin: 0 0 0 1em;
+}

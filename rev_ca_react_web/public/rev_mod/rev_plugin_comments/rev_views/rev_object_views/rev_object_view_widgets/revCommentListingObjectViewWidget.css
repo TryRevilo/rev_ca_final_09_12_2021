@@ -1,0 +1,8 @@
+.revCommentListingObjectViewWrapper {
+    padding-top: 0.2em;
+}
+
+.revPicsCommentsWrapper {
+    width: calc(100% - 4em) !important;
+    margin: 1.2em 1em 0 3em;
+}

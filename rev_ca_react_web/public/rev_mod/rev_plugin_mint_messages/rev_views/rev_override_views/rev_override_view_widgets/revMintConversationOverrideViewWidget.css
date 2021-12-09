@@ -1,0 +1,33 @@
+.revNewMintConversationsContainer {
+    width: calc(100% - 1em) !important;
+    border: 0.1em dotted #cfd8dc;
+    border-bottom: none;
+    border-right: none;
+    padding: 0.7em 0 1em 1em;
+    margin: 0 0 0 1em;
+}
+
+.revNewMintConversationsHeaderWrapper {
+    width: auto !important;
+}
+
+.revNewMintConversationsHeaderPointer {
+    margin: 0.4em 0 0 0.2em;
+}
+
+.revNewMintConversationItemContainer {
+    margin: 0.4em 0 0.7em 0;
+}
+
+.revMintConversationCommentWrapper {
+    width: calc(100% + 1em) !important;
+    border-bottom: 0.1em solid #ede7f6;
+    padding: 0 0 0.4em 1em;
+    margin: 0.7em 0 0 -1em;
+}
+
+.revMintConversationCommentPostContainer {
+    width: calc(100% - 2.8em) !important;
+    padding: 0 0.4em 0.4em 0;
+    margin: 0.4em 0 0 0.2em;
+}

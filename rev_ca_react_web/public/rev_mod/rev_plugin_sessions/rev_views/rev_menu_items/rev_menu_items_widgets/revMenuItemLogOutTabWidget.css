@@ -1,0 +1,9 @@
+.revLogoutTabStyle {
+    cursor: pointer;
+    color: #5C6BC0;
+    font-size: 1.4em;
+    align-self: baseline;
+    padding: 0 .3em;
+    margin-left: auto;
+    margin-top: 0;
+}

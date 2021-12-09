@@ -1,0 +1,184 @@
+.revUserAccountSettingsPhoneNumbersContactsContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 0;
+    margin: -0.2em 0 0 2em;
+}
+
+.revFullNamesTellWrapper {
+    align-items: center !important;
+    width: calc(100% - 0.2em) !important;
+    padding-top: 0.7em;
+    margin: 0 0 0 1.2em;
+}
+
+.revUserAccountSettingsPasswordContainer {
+    margin: 1em 0 0 0;
+}
+
+.revUserAccountSettingsPassword {
+    border-bottom: 0.1em solid #ede7f6;
+    padding: 0 1em 0 0.7em;
+}
+
+.revUserAccountSettingsFormContainer {
+    background-color: #ffffff;
+    border-left: 0.1em solid #ede7f6;
+    padding: 0.8em 0;
+}
+
+.revUserAccountSettingsFullNamesInputTextInputTextWrapper {
+    margin: 0.4em 0 0 0;
+}
+
+.revUserAccountSettingsFullNamesInputTextInputTextWrapperSex {
+    align-items: center !important;
+    width: 12em !important;
+    margin-left: 0.7em;
+}
+
+/** REV START SEX **/
+.revUserAccountSettingsSexSelectionWrapper {
+    align-items: center !important;
+    margin: 0.6em 0 0 0.8em;
+}
+
+.revUserAccountSettingsPreSetSexSelectionWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revUserAccountSettingsSexSelectionTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revUserAccountSettingsSexSelectionMenuArea {
+    margin: 0.2em 0 0 0.7em;
+}
+/** REV END SEX **/
+
+/** REV START CONTACTS **/
+.revUserAccountSettingsContainer {
+    padding: 1em 0;
+    margin: 1.7em 0 0 0;
+    border: 0.1em dotted #e8eaf6;
+    border-left: none;
+    border-right: none;
+}
+
+.revUserAccountSettingsAddContactTell {
+    text-align: center;
+    padding: 0 2em 0 1em;
+    border-bottom: 0.1em solid #ede7f6;
+}
+
+.revAddedContactsWrapper {
+    align-items: center !important;
+    max-width: 32em !important;
+    margin: 0 0 0 0.7em;
+}
+
+.revAddedContactInputWrapper {
+    text-align: center !important;
+    align-items: center !important;
+    width: auto !important;
+    background-color: #ede7f6;
+    padding: 0.2em 0.7em;
+    margin: 1em 0.4em 0.4em 0;
+    border-radius: 22px;
+}
+
+.revDelContactWrapper {
+    text-align: center !important;
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.4em;
+}
+
+.revDelTagWrapper:hover {
+    color: red;
+}
+/** REV END CONTACTS **/
+
+.revUserAccountSettingsPhoneNumberCountryCodeInputTextWrapper {
+    align-items: center !important;
+    margin: 1em 0 0.6em 0;
+}
+
+.revUserAccountSettingsCountryCodeInputTextWrapper {
+    align-items: center !important;
+    width: 5em !important;
+}
+
+.revUserAccountSettingsPhoneNumberInputTextWrapper {
+    align-items: center !important;
+    width: 12.4em !important;
+}
+
+.revUserAccountSettingsPhoneNumberCountryCodeCancelTab {
+    margin: 0 0 0.2em 0;
+}
+
+.revUserAccountSettingsContactsWrapper {
+    align-items: center !important;
+    width: calc(100% - 2em) !important;
+    margin: 1em 0 0 2em;
+}
+
+.revUserAccountSettingsPhoneContactsWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revUserAccountSettingsAddContactDivider {
+    align-items: center !important;
+    width: auto !important;
+    padding-top: 0.1em;
+    margin: 0 0 0 1em;
+}
+
+.revUserAccountSettingsEMailContactsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 1em;
+}
+
+.revUserAccountSettingsAddContatctTxt {
+    text-align: center;
+    margin: 0 0 0 0.2em;
+}
+
+.revSexSelectedTellErrContainer {
+    background-color: #ffebee;
+    border: 0.1em solid #ffcdd2;
+    width: calc(100% - 3em) !important;
+    margin: 1em 1em 0 2em;
+    padding: 0.4em;
+}
+
+.revSexSelectedTellErrTellWrapper {
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 0 0 1em;
+}
+
+.revSexSelectedTellErrExamplesWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 0 0 0 3em;
+}
+
+.revSexSelectedTellErrExamplesTxtContainer {
+    width: calc(100% - 0.4em) !important;
+    margin-left: 0.4em;
+}
+
+.revBottomBorderOnlyBorderInput {
+    border: none;
+    border-bottom: 0.1em solid #e8eaf6;
+}
+
+.revUserAccountSettingsFormFooterWrapper {
+    width: calc(100% - 1em) !important;
+    margin: 1.8em 0 0 1em;
+}

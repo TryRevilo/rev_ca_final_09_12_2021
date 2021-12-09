@@ -1,0 +1,16 @@
+.revPageHeaderAreaContainer {
+    border-right: solid .1em #EDE7F6;
+}
+
+.revPluginsPageListingContainer {
+    margin-bottom: 1em;
+}
+
+.revPluginsTellTxt {
+    margin: 0 0 0 2.7em;
+}
+
+.revPluginsListingContainer {
+    margin-left: 2em;
+    width: calc(100% - 2em);
+}

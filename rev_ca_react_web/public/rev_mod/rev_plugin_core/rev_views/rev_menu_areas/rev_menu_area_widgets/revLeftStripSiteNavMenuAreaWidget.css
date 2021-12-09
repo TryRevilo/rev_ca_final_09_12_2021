@@ -1,0 +1,171 @@
+.vl {
+    top: 0;
+    background-color: #f7f7f7;
+    width: 0.1em;
+    height: 100%;
+    z-index: 1;
+}
+
+.revStripTabsContainer {
+    align-items: center !important;
+    height: 100% !important;
+}
+
+.revStripTopMenuesContainer {
+    align-items: center !important;
+    background-color: #ede7f6;
+    padding: 2.9em 2px 0 2px;
+    border-radius: 0 0 22px 22px;
+}
+
+.revStripMidMenuesContainer {
+    align-items: center !important;
+    width: auto !important;
+    height: auto !important;
+    margin-top: 1em;
+}
+
+.revLeftStripBackLine {
+    width: 0.1em;
+    height: 100%;
+    background-color: #ede7f6;
+}
+
+.revStripTab {
+    background-color: #d1c4e9;
+    align-items: center !important;
+    width: auto !important;
+    padding: 0.3em;
+    margin-top: 1em;
+    border-radius: 50%;
+    z-index: 2;
+}
+
+.revPluginsStripMenuItem {
+    background-color: #d1c4e9;
+    align-self: flex-end;
+    padding: 2em 0.3em;
+    margin: 2em auto;
+    border-radius: 50%;
+    z-index: 2;
+}
+
+.revStripTranslateTabContainer {
+    align-items: center !important;
+    background-color: #ffffff;
+    align-items: center !important;
+    width: auto !important;
+    height: auto !important;
+    z-index: 2;
+}
+
+.revStripTranslateTab_TopBorder {
+    width: 0.7em;
+    height: 0.1em;
+    background-color: #cfd8dc;
+}
+
+.revStripTranslateTab_BottomBorder {
+    width: 1.5em;
+    height: 0.1em;
+    background-color: #cfd8dc;
+}
+
+.revChatMenuAreaContainer {
+    align-items: center !important;
+    background-color: #fff;
+    width: auto !important;
+    height: auto !important;
+    bottom: 0;
+}
+
+.revChatMessagesAlertTabContainer {
+    align-items: center !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+.revChatMessagesAlertTxtContainer {
+    align-items: center !important;
+    width: auto !important;
+    height: auto !important;
+    padding: 0.4em 0;
+}
+
+.revChatMessagesAlertTab {
+    align-items: center !important;
+    height: auto !important;
+    width: auto !important;
+}
+
+.revStripChatAlertCount {
+    text-align: center;
+    max-width: 1.5em;
+    overflow: hidden;
+    margin-top: 0.2em;
+}
+
+.revOnlineSettings {
+    background-color: #66bb6a;
+    padding: 0.4em 0.3em 0.4em 0.31em;
+    margin-top: 0.4em;
+    border-radius: 4px;
+}
+
+.revSettingsCarretPointer {
+    color: #66bb6a;
+    margin-top: -0.1em;
+}
+
+.revPageViewNewChatAlertsListingAreaContainer {
+    align-items: flex-end !important;
+    background-color: #ffffff;
+    width: auto !important;
+    max-height: 40% !important;
+    border: 0.1em solid #cfd8dc;
+    bottom: 9.6em;
+    z-index: 100;
+}
+
+.revStripMidQATab {
+    text-align: center;
+    font-weight: 800;
+    background-color: #ffffff;
+    border: 0.1em solid #ede7f6;
+    padding: 0.4em;
+    margin-top: 1em;
+    border-radius: 22px;
+    z-index: 2;
+}
+
+.revStripMidQATabContainer {
+    align-items: center !important;
+    width: auto !important;
+    background-color: #ffffff;
+    border-bottom: 0.1em solid #cfd8dc;
+    padding: 0 0.4em;
+    margin-top: 2em;
+    z-index: 1;
+}
+
+.revStripMidLiveSreamTabContainer {
+    align-items: center !important;
+    width: auto !important;
+    background-color: #ffffff;
+    border-bottom: 0.1em solid #cfd8dc;
+    margin-top: 2em;
+    z-index: 1;
+}
+
+.revStripMidLiveSreamTab {
+    text-align: center !important;
+    font-weight: 800;
+    padding: 0.4em 0.4em 0 0.4em;
+    border-radius: 2px;
+}
+
+.revStripMidAdTab {
+    text-align: center;
+    font-weight: 800;
+    padding-top: 0.4em;
+}

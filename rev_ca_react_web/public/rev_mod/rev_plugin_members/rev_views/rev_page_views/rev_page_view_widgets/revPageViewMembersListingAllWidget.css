@@ -1,0 +1,40 @@
+.revPageHeaderAreaContainer_AllMembersListing .revPageViewTitledPageNavHeader {
+    margin-bottom: 0 !important;
+}
+
+.revMembersHeader {
+    padding-left: 0.4em;
+    display: flex;
+    margin-left: 2em;
+    width: calc(100% - 2em);
+    justify-content: space-between;
+    border-bottom: 0.1em solid #eceff1;
+}
+
+.revTabIcon {
+    color: #ede7f6;
+    font-size: 1.2rem !important;
+    border-bottom: 0.01em solid #eceff1;
+}
+
+.revIconArrowRight {
+    color: #ede7f6;
+    font-size: 1.1em !important;
+    border-bottom: 0.1em solid #eceff1;
+}
+
+.revContentWrapper {
+    display: flex;
+    width: 100%;
+    margin-top: 0.5em;
+}
+
+.revMemberItem {
+    width: calc(100% - 2em) !important;
+    border-bottom: 0.1em solid #eceff1;
+    margin: 0.6em 0 0 2em;
+}
+
+.revPageViewMembersListingAllContainer {
+    border-right: 0.1em solid #eceff1;
+}

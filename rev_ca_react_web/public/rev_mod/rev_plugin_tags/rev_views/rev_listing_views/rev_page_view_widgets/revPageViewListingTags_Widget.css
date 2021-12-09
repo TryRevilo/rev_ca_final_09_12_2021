@@ -1,0 +1,15 @@
+.revTagsPointerIcon {
+    width: 0.9em;
+}
+
+.revMetadataTagValWrapper {
+    align-items: flex-end !important;
+    width: auto !important;
+    padding: 0 0.4em 0 0;
+    border-bottom: 0.1em solid #5c6bc0;
+    margin-right: 0.7em;
+}
+
+.revMetadataTagVal {
+    margin-left: 0.1em;
+}

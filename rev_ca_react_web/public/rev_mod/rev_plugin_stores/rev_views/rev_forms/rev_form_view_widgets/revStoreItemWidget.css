@@ -1,0 +1,28 @@
+.revStoreItemDescArea {
+    width: 100%;
+    border: 0.1em solid #e8eaf6;
+    border-right: none;
+    padding-top: 1em;
+    margin: 1em 0 0 0;
+}
+
+.revNewStoreItemDescDetailsArea {
+    border-top: solid 0.1em #e8eaf6;
+    padding-top: 1em;
+    margin: 1em 0 2em 0;
+}
+
+.revEditStoreItemPicsAlbumWrapper {
+    width: calc(100% - 2em) !important;
+    border-top: 0.1em solid #e8eaf6;
+    padding: 0.1em 0;
+    margin: 1em 0 0 2em;
+}
+
+.revSelectItemMainIconWrapper {
+    margin: 1em 0 0 0.2em;
+}
+
+.revNewStoreItemFormFooter {
+    margin: 1em 0 0 1.2em;
+}

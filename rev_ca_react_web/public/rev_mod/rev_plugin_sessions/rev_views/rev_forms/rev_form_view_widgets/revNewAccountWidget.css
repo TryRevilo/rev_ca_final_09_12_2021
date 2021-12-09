@@ -1,0 +1,49 @@
+.revSignUpInputAreaWrapper {
+    align-items: center !important;
+    margin: 0 0 0.4em 0;
+}
+
+.revSignUpInputWrapper {
+    width: calc(100% - 2em) !important;
+}
+
+.revFooterBorder {
+    background-color: #fff;
+    width: 2em;
+    height: 0.8em;
+    border: solid 0.1em #f5f5f5 !important;
+    border-right: none !important;
+    margin-right: -0.1em;
+    z-index: 1;
+}
+
+.revSignUpInput {
+    width: calc(100% + 0.9em) !important;
+    padding: 0.7em 1em 0.7em 1em;
+    margin-right: 1em;
+    margin-bottom: -1em;
+    border: dashed 0.1em #f5f5f5 !important;
+}
+
+.revSignUpInput:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 45px white inset; /* Change the color to your own background color */
+    -webkit-text-fill-color: #757575 !important;
+    border: dashed 0.1em #e0e0e0 !important;
+    background-color: #fff !important;
+}
+
+.revSignUpInput:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0 45px white inset; /*your box-shadow*/
+    -webkit-text-fill-color: #757575 !important;
+    border: dashed 1px #9575cd !important;
+    background-color: #fff !important;
+}
+
+.revNoBorderInput {
+    border: none;
+    outline: none;
+}
+
+.revCreateNewAccount {
+    margin-left: 2em;
+}

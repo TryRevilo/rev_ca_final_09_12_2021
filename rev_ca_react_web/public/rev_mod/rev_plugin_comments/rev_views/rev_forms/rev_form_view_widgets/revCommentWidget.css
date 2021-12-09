@@ -1,0 +1,72 @@
+.revProfilePubArea_Comment {
+    width: 100%;
+}
+
+.revPublisherTabsMenuAreaWrapper_Comment {
+    align-items: flex-end !important;
+    margin: 1em 0 -0.4em 0;
+}
+
+.revBtnColorOverride_Comment {
+    color: #5c6bc0;
+    background-color: #d1c4e9;
+    border-color: #d1c4e9;
+    border-bottom: 0px solid #fff;
+    border-radius: 4px 4px 0 0;
+    padding: 0.175rem 0.65rem;
+}
+
+.revUploadTab_Comment {
+    color: #5c6bc0;
+    font-size: 1rem;
+    padding: 0.2em 1em;
+}
+
+.revEmojiItemTab_Comment {
+    color: #d500f9 !important;
+    font-size: 1.4em;
+    padding: 0 0 0 1em;
+}
+
+.revCommentCancelTab {
+    color: #5c6bc0;
+    font-size: 0.9rem;
+    line-height: 0.9rem;
+    padding: 0 1em;
+}
+
+.revSelectedMediaWrapper_Comments {
+    margin-top: 1em;
+}
+
+.revPublishItemTab_Comment {
+    margin-left: 1.4em;
+}
+
+.revProfilePubAreaComment {
+    width: 100%;
+}
+
+.revCommentInputFormContainer {
+    border: 0.1em solid #ede7f6;
+    border-bottom: 0px solid #ede7f6;
+    padding: 1em 0;
+}
+
+.revCommetInput {
+    cursor: text;
+    border: 0.1em solid #ede7f6;
+    border-bottom: none;
+    padding: 0.8em 1.2em;
+    outline: none;
+    border-radius: 0;
+}
+
+.revCommentInputStyle {
+    border-bottom: none;
+}
+
+.revCommentInputStyle_No_Border {
+    border: 0.1em solid #ede7f6;
+    border-bottom: none;
+}

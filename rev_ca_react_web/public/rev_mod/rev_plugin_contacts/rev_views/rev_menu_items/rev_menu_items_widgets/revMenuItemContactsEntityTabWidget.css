@@ -1,0 +1,21 @@
+.revContactsHeaderWrapper {
+    align-items: flex-end !important;
+    width: auto !important;
+    margin: 0 0 1em 0;
+}
+
+.revInviteMembersWrapper {
+    align-items: flex-end !important;
+    width: auto !important;
+    margin-left: 0.2em;
+}
+
+.revInviteMembersTabDividerWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revInviteMembersTxt {
+    padding: 0 0.7em 0 0.7em;
+    border-bottom: 0.1em solid #cfd8dc;
+}

@@ -1,0 +1,33 @@
+.revHookRemoteHandlerMenuItemsTabsContainer {
+    width: calc(100% - 1.5em) !important;
+    border-left: 0.1em solid #ffebee;
+    padding: 1em 0;
+    margin: -0.3em 0 0 1.5em;
+}
+
+.revPluginsEditorProjectTabWrapper {
+    align-items: center !important;
+    background-color: #e1e5c2;
+    border-right: 0.1em solid #fff;
+    padding: 0.2em 0.5em 0.2em 0.5em;
+}
+
+.revPluginsEditorProjectCloseTab {
+    border-left: 0.1em solid #fff;
+    padding-left: 0.4em;
+    margin-left: 0.4em;
+}
+
+.revPluginsEditorProjectCloseTab:hover {
+    color: red;
+}
+
+.revPluginsEditorProjectTabRelativeContainer {
+    width: auto !important;
+    height: 2.6em !important;
+}
+
+.revPluginEditActiveProjectTabPointer {
+    top: 1.3em;
+    left: 40%;
+}

@@ -1,0 +1,8 @@
+.revSelectableContactWrapper {
+    width: calc(100% - 2em) !important;
+    margin-left: 0.4em;
+}
+
+.revNullContactsTxt {
+    margin-left: 0.3em;
+}

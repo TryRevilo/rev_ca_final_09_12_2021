@@ -1,0 +1,59 @@
+.revFlagOptionsForm_SwitchArea_Container {
+    background-color: #ffffff;
+    border: 0.1em solid #ede7f6;
+    border-top: none;
+    padding: 0 1em 1em 1em;
+}
+
+.revFlagOptionWrapper {
+    width: auto !important;
+    padding: 0.2em 1em 0.2em 0;
+    margin-left: 0.2em;
+}
+
+.revFlagEntityWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0.4em 2em 0 0;
+}
+
+.revPageEntityFlagHeader {
+    border-bottom: 0.1em solid #cfd8dc;
+    padding: 0 1em;
+    margin: 1.3em 0 0 0;
+}
+
+.revCitationsTxt {
+    margin: 0 0 0.1em 1.2em;
+}
+
+.revPageEntityFlagChecksFormViewContainer {
+    padding: 0.5em 0 0 1em;
+}
+
+.revFlagFormRemarksPublisherInput {
+    background-color: #fff;
+    width: 100%;
+    border: 0.1em solid #ede7f6;
+    padding: 0.7em 0 0.7em 0;
+}
+
+.revRemarksContainer {
+    width: calc(100% + 2em) !important;
+    border-top: 0.1em dotted #cfd8dc;
+    padding: 1em;
+    margin: 1em -1em 0 -1em;
+}
+
+.revCitationsContainer {
+    width: calc(100% + 2em) !important;
+    border: 0.1em dotted #cfd8dc;
+    border-right: none;
+    border-left: none;
+    padding: 1em;
+    margin: 0 -1em;
+}
+
+.revFlagEntitysFooterWrapper {
+    padding: 1em 0 1em 0;
+}

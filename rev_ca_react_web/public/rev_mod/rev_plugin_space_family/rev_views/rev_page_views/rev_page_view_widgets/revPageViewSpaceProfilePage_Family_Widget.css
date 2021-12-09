@@ -1,0 +1,16 @@
+.revFamilyKiwiAreaWrapper {
+    width: calc(100% - 2em) !important;
+    border: 1px solid #ede7f6;
+    border-right: none;
+    padding-bottom: 2em;
+    margin: 1em 0 0 2em;
+}
+
+.revFamilyKiwiAreaWrapper .revProfilePubArea {
+    margin-left: 0 !important;
+}
+
+.revFamilyKiwiAreaWrapper .revPublisherTabsMenuArea {
+    padding-left: 0;
+    border-bottom: none !important;
+}

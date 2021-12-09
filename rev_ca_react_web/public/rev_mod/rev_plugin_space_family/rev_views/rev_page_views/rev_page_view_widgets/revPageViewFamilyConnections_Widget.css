@@ -1,0 +1,94 @@
+.revUserFamilyConnectionsOptionsMenuAreaWrapper {
+    margin: 0.2em 0 0 0;
+}
+
+.revFamilyObjectPageOwnerParentsContainer {
+    width: calc(100% - 2em) !important;
+    border-right: 0.1em solid #ede7f6;
+    margin: 0 0 0 2em;
+}
+
+.revFamilyConnectionsObjectPageOwnerIcon {
+    background-color: #ffffff;
+    width: 4em;
+    height: 4em;
+    border: 0.1em solid #ede7f6;
+    border-top: none !important;
+}
+
+.revFamilyConnectionsObjectPageOwnerDetailsContainer {
+    width: calc(100% - 5em) !important;
+    margin: 0.4em 0 0 0.4em;
+}
+
+.revFamilyConnectionsObjectPageOwnerNames {
+    margin: 0.2em 0 0 0;
+}
+
+.revFamilyConnectionsObjectConnectionsListingContainer {
+    margin: 2em 0 0 0;
+}
+
+.revFamilyConnectionsObjectConnectionsListingItemHeaderWrapper {
+    align-items: center !important;
+}
+
+.revFamilyConnectionsObjectPageOwnerAddRelativesTextIconWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revFamilyConnectionsAddRelativesTabsDividerWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 1em;
+}
+
+.revFamilyConnectionsObjectPageOwnerAddRelativesText {
+    padding: 0 1em 0 0.1em;
+}
+
+.revFamilyConnectionsObjectConnectionsListingItemStatsWrapper {
+    align-items: center !important;
+}
+
+.revFamilyConnectionsObjectConnectionsListingItemStatsPointer {
+    margin: 0 0 0 1em;
+}
+
+.revFamilyConnectionsObjectConnectionsListingItemStatsCount {
+    margin: 0 0 0 0.7em;
+}
+
+.revFamilyObjectRelativeEntityListingWrapper {
+    align-items: center !important;
+    margin: 0.4em 0 0 0;
+}
+
+.revFamilyObjectRelativeEntityListingWrapperDivider {
+    margin-top: -0.1em;
+}
+
+.revFamilyObjectRelativeEntityListingIcon {
+    width: 2em;
+    height: 2em;
+    border: 0.1em solid #ede7f6;
+    margin-right: 0.2em;
+}
+
+.revFamilyObjectRelativeEntityListingInfoWrapper {
+    align-items: center !important;
+    margin: 0 0 0 0.2em;
+}
+
+.revFamilyObjectRelativeEntityRelTypeDividerIcon {
+    margin: 0.15em 0.4em 0 0.4em;
+}
+
+.revFamilyObjectRelativesEntitiesListingContainer {
+    width: calc(100% - 0.9em) !important;
+    border: 0.1em dotted #ede7f6;
+    border-right: none;
+    padding-bottom: 0.7em;
+    margin: 0.4em -0.1em 0 1em;
+}

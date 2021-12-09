@@ -1,0 +1,110 @@
+.revNoticiaItemListingsContainer {
+    padding: 0.7em 0;
+}
+
+.revNoticiaItemListingsListContainer {
+    width: calc(100% - 37px) !important;
+    margin: 0.7em 0 0 37px;
+}
+
+.revNoticiaItemListingsListAnnouncementsContainer {
+    width: calc(100% - 3.5em) !important;
+    margin: 0.7em 0 0 3.5em;
+}
+
+.revNoticiaItemListingEmpty {
+    margin: 0.4em 0 0 2.6em;
+}
+
+.revNoticiaItemListingHeaderWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: -0.7em 0 0 0.14em;
+}
+
+.revNoticiasItemsConfirmContainer {
+    margin-top: 1em;
+}
+
+.revNoticiaItemListingLong_H_Rule {
+    background-color: #f5f5f5;
+    min-width: 70% !important;
+    height: 0.1em;
+}
+
+.revNoticiaItemListing_H_Rule {
+    background-color: #ede7f6;
+    width: 0.7em;
+    height: 0.1em;
+}
+
+.revNoticiaItemListing_V_Rule_Tiny {
+    background-color: #ede7f6;
+    width: 0.1em;
+    height: 0.8em;
+    margin-left: 0.1em;
+}
+
+.revNoticiaItemListingMidSeparater {
+    background-color: #ede7f6;
+    width: 0.1em;
+    height: 0.1em;
+    margin-left: 1.2em;
+}
+
+.revNoticiaItemListingIconWrapper {
+    width: auto !important;
+    padding: 0 0.4em;
+}
+
+.revNoticiaItemListingTtlId {
+    min-width: 2em;
+    padding: 0 0.4em;
+}
+
+.revNoticiaItemListingContentWrapper {
+    width: calc(100% - 1.5em) !important;
+    padding: 0 0 0.4em 0;
+    margin: 0.4em 0 1em 1.5em;
+    border-bottom: 0.1em solid #ede7f6;
+}
+
+.revNoticiaItemListingSummuryWrapper {
+    width: auto !important;
+    align-items: center !important;
+}
+
+.revNoticiaItemListingMarkReadWrapper {
+    width: auto !important;
+    margin: 0.4em 0 0 0;
+}
+
+.revNoticiaItemListingRightBody {
+    width: calc(100% - 37px) !important;
+    margin-left: 0.7em;
+}
+
+.revNoticiaItemListingEntityIcon {
+    background-color: #fafafa;
+    border: solid 0.1em #eeeeee;
+    width: 3em;
+    height: 3em;
+}
+
+.revNoticiaItemEntityDetails {
+    width: calc(100% - 3.4em) !important;
+    margin: 0.4em 0 0 0.4em;
+}
+
+.revNoticiaItemEntityFullNamesContainer {
+    width: calc(100% - 106px) !important;
+}
+
+.revNoticiaListingItemOptionsTabsWrapper {
+    width: 100px !important;
+    margin-left: 0.4em;
+}
+
+.revNoticiaListingItemOptionTab {
+    margin-left: 1em;
+}

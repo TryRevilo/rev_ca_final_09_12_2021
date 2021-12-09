@@ -1,0 +1,65 @@
+.revContactSellerWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 1em;
+    margin: -0.2em 0 0 2em;
+}
+
+.revContactSellerBriefStoreNameWrapper {
+    align-items: center !important;
+    width: calc(100% + 2em) !important;
+    margin: 1em 0 0 -2em;
+}
+
+.revContactSellerStoreItemCostWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revContactSellerStoreEntityBriefStoreName {
+    padding: 0 0.2em;
+}
+
+.revContactSellerStoreItemCost {
+    margin-left: 0.2em;
+}
+
+.revContactSellerItemMediaContainer {
+    margin: 1em 0 0 0;
+}
+.revStoreItemEntityNameWrapper {
+    width: calc(100% - 1em) !important;
+    margin: 1em 0 0 1em;
+}
+
+.revStoreItemEntityNameTxtWrapper {
+    width: auto !important;
+    margin-left: 0.4em;
+}
+
+.revContactSellerDescAreaContainer {
+    border: 0.1em solid #e8eaf6;
+    border-right: none;
+    padding-top: 1em;
+    margin: 1em 0 0 0;
+}
+
+.revContactSellerMsgTtle {
+    padding-bottom: 1em;
+}
+
+.revContactSellerMsgDescDetailsArea {
+    width: 100%;
+    border-top: solid 0.1em #e8eaf6;
+    padding: 1.4em 0;
+}
+
+.revContactSellerSelectItemMainIconWrapper {
+    margin: 2em 0 0 0;
+}
+
+.revContactSellerFormFooter {
+    width: calc(100% - 1.2em) !important;
+    margin: 3em 0 0 1.2em;
+}

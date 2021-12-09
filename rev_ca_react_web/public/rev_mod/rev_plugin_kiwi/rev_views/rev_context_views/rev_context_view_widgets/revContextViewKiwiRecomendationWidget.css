@@ -1,0 +1,77 @@
+.revRecItemListingsListContainer {
+    width: calc(100% - 37px) !important;
+    margin: 0.7em 0 0 37px;
+}
+
+.revRecItemListingsListAnnouncementsContainer {
+    width: calc(100% - 3.5em) !important;
+    margin: 0.7em 0 0 3.5em;
+}
+
+.revRecItemListingEmpty {
+    margin: 0.4em 0 0 2.6em;
+}
+
+.revRecsItemsConfirmContainer {
+    margin-top: 1em;
+}
+
+.revRecItemListingTtlId {
+    min-width: 2em;
+    padding: 0 0.4em;
+}
+
+.revRecItemListingContentWrapper {
+    width: calc(100% - 2em) !important;
+    padding: 0.4em 0 0.7em 0;
+    margin: 0 0 0 2em;
+    border-right: 0.1em solid #ede7f6;
+    border-bottom: 0.1em solid #ede7f6;
+}
+
+.revRecomenderWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revRecomenderNames {
+    margin-left: 0.4em;
+}
+
+.revTimeCreatedStyle_RecTime {
+    margin-left: 0.4em;
+}
+
+.revRecItemListingEntityIcon {
+    background-color: #fafafa;
+    border: solid 0.1em #eeeeee;
+    width: 2em !important;
+    height: 2em !important;
+}
+
+.revRecItemListingSummuryWrapper {
+    width: auto !important;
+    align-items: center !important;
+}
+
+.revRecItemEntityDetailsContainer {
+    width: calc(100% - 3em) !important;
+    padding-bottom: 0.4em;
+    margin: 0 0 0 3em;
+}
+
+.revRecItemEntityDetailsWrapper {
+    align-items: center;
+    width: auto !important;
+    padding: 0.4em 0;
+}
+
+.revRecPublisherDetailsWrapper {
+    align-items: flex-end !important;
+    width: auto !important;
+    margin-left: 0.5em;
+}
+
+.revRecPublisherFullNames {
+    margin-left: 0.4em;
+}

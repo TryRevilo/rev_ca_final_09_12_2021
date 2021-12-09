@@ -1,0 +1,34 @@
+.revUserFamilyConnectionsOptionsMenuAreaWrapper {
+    margin: 0.2em 0 0 0;
+}
+
+.revFamilyConnectionsObjectConnectionsListingItemHeaderWrapper {
+    align-items: center !important;
+}
+
+.revFamilyConnectionsObjectPageOwnerAddRelativesTextIconWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revFamilyConnectionsAddRelativesTabsDividerWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 1em;
+}
+
+.revFamilyConnectionsObjectPageOwnerAddRelativesText {
+    padding: 0 1em 0 0.1em;
+}
+
+.revFamilyConnectionsObjectConnectionsListingItemStatsWrapper {
+    align-items: center !important;
+}
+
+.revFamilyConnectionsObjectConnectionsListingItemStatsPointer {
+    margin: 0 0 0 1em;
+}
+
+.revFamilyConnectionsObjectConnectionsListingItemStatsCount {
+    margin: 0 0 0 0.7em;
+}

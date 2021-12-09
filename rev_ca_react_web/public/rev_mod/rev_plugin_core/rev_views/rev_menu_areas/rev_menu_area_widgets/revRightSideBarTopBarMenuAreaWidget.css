@@ -1,0 +1,27 @@
+.revTopBarWrapperStyle {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+.revLogoutTabStyle {
+  cursor: pointer;
+  color: #5c6bc0;
+  font-size: 1.2rem;
+  line-height: 0.9rem;
+  background-color: #f5f5f5;
+  border: solid 1px #ede7f6;
+  align-self: center;
+  padding: 0 1em;
+  margin: 0 0 0 auto;
+}
+
+.vl_H {
+  height: 0.1em;
+  background-color: #ede7f6;
+  position: absolute;
+  z-index: -1;
+  align-self: center;
+  width: 100%;
+}

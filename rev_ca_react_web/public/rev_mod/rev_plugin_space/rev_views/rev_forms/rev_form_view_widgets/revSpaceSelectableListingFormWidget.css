@@ -1,0 +1,7 @@
+.revSelectableSpaceCheckBox {
+    margin: .4em .4em 0 0
+  }
+  
+  .revSelectableSpaceBriefWrapper {
+    width: calc(100% - 2em) !important;
+  }

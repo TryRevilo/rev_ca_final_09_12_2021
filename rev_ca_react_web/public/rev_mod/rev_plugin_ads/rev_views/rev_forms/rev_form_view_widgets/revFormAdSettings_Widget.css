@@ -1,0 +1,187 @@
+.revAdSettingsContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 0;
+    margin: -0.2em 0 0 2em;
+}
+
+.revAdSettingsFormContainer {
+    background-color: #ffffff;
+    border-left: 0.1em solid #ede7f6;
+    padding: 0.8em 0;
+}
+
+.revAdSettingsInputTextWrapper {
+    margin: 0.4em 0 0 0;
+}
+
+.revAdSettingsInputTextWrapperSex {
+    align-items: center !important;
+    width: 12em !important;
+    margin-left: 0.7em;
+}
+
+/** REV START SEX **/
+.revAdSettingsSexSelectionWrapper {
+    align-items: center !important;
+    margin: 0.6em 0 0 0.8em;
+}
+
+.revAdSettingsPreSetSexSelectionWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revAdSettingsSexSelectionTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revAdSettingsSexSelectionMenuArea {
+    margin: 0.2em 0 0 0.7em;
+}
+/** REV END SEX **/
+
+.revAdSettingsFormRelationTypeWrapper {
+    align-items: center !important;
+    width: calc(100% - 0.2em) !important;
+    border-top: 0.1em dotted #ede7f6;
+    padding-top: 1em;
+    margin: 1em 0 0 0.2em;
+}
+
+.revAdSettingsRelationTypeTxt {
+    margin-left: 0.9em;
+}
+
+.revAdSettingsRelationTypeSelectMenuArea {
+    margin: 0.3em 0 0 1em;
+}
+
+.revSelectedFamRelType {
+    margin: 0 0 0 0.4em;
+}
+
+/** REV START CONTACTS **/
+.revAdTimeSettingsContainer {
+    padding: 1em 0;
+    margin: 1.7em 0 0 0;
+    border: 0.1em dotted #e8eaf6;
+    border-left: none;
+    border-right: none;
+}
+
+.revAdSettingsAddContactTell {
+    text-align: center;
+    padding: 0 2em 0 1em;
+    border-bottom: 0.1em solid #ede7f6;
+}
+
+.revAdSettingsAddedContactsWrapper {
+    align-items: center !important;
+    max-width: 32em !important;
+    margin: 0 0 0 0.7em;
+}
+
+.revAdSettingsAddedContactInputWrapper {
+    text-align: center !important;
+    align-items: center !important;
+    width: auto !important;
+    background-color: #ede7f6;
+    padding: 0.2em 0.7em;
+    margin: 1em 0.4em 0.4em 0;
+    border-radius: 22px;
+}
+
+.revDelContactWrapper {
+    text-align: center !important;
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.4em;
+}
+
+.revDelTagWrapper:hover {
+    color: red;
+}
+/** REV END CONTACTS **/
+
+.revAdSettingsPhoneNumberCountryCodeInputTextWrapper {
+    align-items: center !important;
+    margin: 1em 0 0.6em 0;
+}
+
+.revAdSettingsCountryCodeInputTextWrapper {
+    align-items: center !important;
+    width: 5em !important;
+}
+
+.revAdSettingsPhoneNumberInputTextWrapper {
+    align-items: center !important;
+    width: 12.4em !important;
+}
+
+.revAdSettingsPhoneNumberCountryCodeCancelTab {
+    margin: 0 0 0.2em 0;
+}
+
+.revAdSettingsContactsWrapper {
+    align-items: center !important;
+    width: calc(100% - 2em) !important;
+    margin: 1em 0 0 2em;
+}
+
+.revAdSettingsPhoneContactsWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revAdSettingsAddContactDivider {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 1em;
+}
+
+.revAdSettingsEMailContactsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 1em;
+}
+
+.revAdSettingsAddContatctTxt {
+    text-align: center;
+    margin: 0 0 0 0.2em;
+}
+
+.revSexSelectedTellErrContainer {
+    background-color: #ffebee;
+    border: 0.1em solid #ffcdd2;
+    width: calc(100% - 3em) !important;
+    margin: 1em 1em 0 2em;
+    padding: 0.4em;
+}
+
+.revSexSelectedTellErrTellWrapper {
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 0 0 1em;
+}
+
+.revSexSelectedTellErrExamplesWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 0 0 0 3em;
+}
+
+.revSexSelectedTellErrExamplesTxtContainer {
+    width: calc(100% - 0.4em) !important;
+    margin-left: 0.4em;
+}
+
+.revBottomBorderOnlyBorderInput {
+    border: none;
+    border-bottom: 0.1em solid #e8eaf6;
+}
+
+.revAdSettingsFormFooterWrapper {
+    width: calc(100% - 1em) !important;
+    margin: 1.8em 0 0 1em;
+}

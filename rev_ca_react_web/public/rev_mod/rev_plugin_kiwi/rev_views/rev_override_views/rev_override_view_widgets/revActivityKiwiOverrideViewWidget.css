@@ -1,0 +1,243 @@
+.revListStyleWrapper {
+    margin: 0 0 0 2em;
+    width: calc(100% - 2em) !important;
+    overflow: hidden;
+    border-bottom: 1px solid #ede7f6;
+}
+
+.revKiwiPublisherIconWrapper {
+    align-items: center !important;
+    border: 0.1em solid #cfd8dc;
+    width: 3em !important;
+    height: 3em !important;
+    padding: 0.1em;
+}
+
+.revKiwiPublisherIconWrapper_Min {
+    align-items: center !important;
+    width: 2em !important;
+    height: 2em !important;
+}
+
+.revListCenterStyle {
+    width: calc(100% - 3em) !important;
+    margin: 0.7em 0 0 0;
+}
+
+.revListCenterStyle_Min {
+    width: calc(100% - 2em) !important;
+    margin-top: 0.2em;
+}
+
+.revPublicationOwner_Time {
+    align-items: baseline !important;
+    margin-left: 0.7em;
+    width: calc(100% - 0.7em) !important;
+}
+
+.revKiwiEntityDescriptionWrapper {
+    color: #616161;
+    font-size: 1em;
+    text-align: left;
+    line-height: 1.2em;
+    width: calc(100% - 0.7em) !important;
+    min-height: 1.7em;
+    margin: 0.4em 0 0 0.7em;
+}
+
+/** REV START FLAGS **/
+.revFlaggedKiwiContainer {
+    margin: 0.4em 0 0 1.4em;
+    width: calc(100% - 1.4em) !important;
+}
+
+.revFlaggedKiwiHeaderWrapper {
+    align-items: center !important;
+    margin-top: 1em;
+}
+
+.revTagPublisherWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 0.7em;
+}
+
+.revTagPublisherIcon {
+    width: 2em;
+    height: 2em;
+    border: 0.1em solid #cfd8dc;
+    margin-left: 0.2em;
+}
+
+.revKiwiFlagTagsWrapper {
+    align-items: center !important;
+    margin: 1em 0 1em 0;
+}
+
+.revRemarksWrapper {
+    border: 0.1em dotted #cfd8dc;
+    padding: 0.4em 1.4em;
+    margin-top: 0.4em;
+    border-radius: 4px;
+}
+
+.revRefferencesContainer {
+    margin: 0.7em 0 0 0;
+}
+
+.revRefferencesTtl {
+    padding: 0 3em 0 1.4em;
+    border-bottom: 0.1em solid #cfd8dc;
+}
+
+.revRefferenceTagItemWrapper {
+    margin: 0.4em 0 0 0;
+}
+
+.revRefferencesLinksContainer {
+    width: calc(100% - 1.4em) !important;
+    margin-left: 1.4em;
+}
+
+.revContinueReadingFlaggedPostWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 2em 0 2em 1.4em;
+}
+
+.revContinueReadingFlaggedPostIcon {
+    margin: 0 0 0 0.4em;
+}
+
+.revFlaggedToggableContentContainer {
+    width: calc(100% + 1.4em) !important;
+    margin-left: -1.4em;
+}
+/** REV START FLAGS **/
+
+.revQuoteIconStyle {
+    color: #ede7f6;
+}
+
+.revKiwiEntityDescription {
+    word-wrap: break-word;
+    width: calc(100% - 1.4em) !important;
+    padding-right: 0.4em;
+    margin-left: 0.4em;
+}
+
+.revItemOptionsText {
+    color: #757575;
+    font-size: 0.9em;
+}
+
+.revItemOptionsIcon {
+    color: #7986cb;
+    font-size: 1em;
+}
+
+.revMediaKiwi {
+    overflow: hidden;
+    /*position: absolute; /* this breaks the overflow:hidden in Chrome/Opera */
+    /* this fixes the overflow:hidden in Chrome */
+    -webkit-mask-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC);
+    border: solid 0.1em #f5f5f5;
+    /** display: block; **/
+    outline: none;
+    padding: 0;
+    margin: 0.4em 0 0 0;
+    border-radius: 0;
+}
+
+.revImagesCount {
+    cursor: pointer;
+    color: #5c6bc0;
+    font-size: 1em;
+    font-weight: 500;
+    align-self: flex-end;
+    line-height: 0.9em;
+    margin-top: 1em;
+    border-bottom: solid 1px #5c6bc0;
+}
+
+.revItemOptionsMenuArea {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: 1em 0 1.5em 0;
+}
+
+.revLikesCount {
+    text-align: center;
+    width: 4em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 1em;
+}
+
+.revLikersCount {
+    color: #757575;
+    font-size: 0.9rem;
+    line-height: 0.9rem;
+    padding-right: 1em;
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+    border-bottom: solid 1px #f5f5f5;
+}
+
+.revLikerFullNames {
+    font-weight: 500;
+}
+
+.revSelectableCctsContainer {
+    background-color: #fafafa;
+    border: solid 0.1em #ede7f6;
+    border-top: none;
+    padding: 1em 2em 2em 1em;
+    margin: 0 0 2em 0;
+}
+
+.revShareHeaderAreaWrapper {
+    align-items: center !important;
+}
+
+.revImportccts {
+    margin-left: auto;
+}
+
+.revShareTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0.3em 0 0 -1em;
+}
+
+.revShareCancelTab {
+    border-bottom: 0.1em solid #5c6bc0;
+    padding: 0 1em;
+    margin: 0 0 0 1em;
+}
+
+.revKiwiContactsContainer {
+    margin-top: 1em;
+}
+
+.revShareTabTxt {
+    background-color: #5c6bc0;
+    padding: 0.3em 3em 0.3em 1em;
+    border-radius: 0 22px 22px 0;
+    margin-left: -1px;
+}
+
+.revSentSuccessWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin-left: 1em;
+}
+
+/** REV START TAGS **/
+.revKiwiItemTagsListWrapper {
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 0 0 1em;
+}
+/** REV END TAGS **/

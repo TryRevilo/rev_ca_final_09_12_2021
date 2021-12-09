@@ -1,0 +1,136 @@
+.revPayPalReceiptWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 2em;
+    margin: -0.2em 0 0 2em;
+}
+
+.revPayPalReceiptWidgetPageViewContainer .revPageHeader {
+    width: 100% !important;
+    margin-top: 0 !important;
+}
+
+.revPayPalReceiptMediaContainer {
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 1em 0 0;
+}
+
+.revStoreItemEntityNameTxtPayPalReceiptWrapper {
+    padding: 1em 0 1em 1.2em;
+}
+
+.revPPalPaymentRowWrapper {
+    align-items: center !important;
+    margin: 1em 0 0 0;
+}
+
+.revPPalPaymentRowInnerWrapper {
+    align-items: center !important;
+    margin: 0.3em 0 0 0;
+}
+
+.revPPalPaymentArea {
+    border-bottom: 0.1em dotted #cfd8dc;
+    padding: 1em 2em 1em 0;
+}
+
+.revPPalPaymentAreaUnBordered {
+    padding: 1em 2em 1em 0;
+}
+
+.revRightDetailsTxt {
+    margin-left: 0.4em;
+}
+
+.revPPalReceiptHeader {
+    border-bottom: 0.1em dotted #cfd8dc;
+    padding: 1em 2em 1em 0;
+}
+
+.revPPalPaymentBriefLeftContainer {
+    max-width: calc(100% - 12em) !important;
+}
+
+.revPPalPaymentBoldTxt {
+    font-weight: 700;
+}
+
+.revPPalGrossAmtContainer {
+    align-items: flex-end !important;
+    width: 10em !important;
+    margin-left: 2em;
+}
+
+.revPPalBriefGrossAmt {
+    font-weight: 500;
+    margin-top: 0.45em;
+}
+
+.revPPalPaymentBriefDate_TransActionId_Wrapper {
+    align-items: center !important;
+}
+
+.revPPalPaymentBriefDate {
+    margin-right: 1em;
+}
+
+.revPPalPaymentBriefTransActionId {
+    margin-left: 1em;
+}
+
+.revPPalPaymentBriefPaymentStatus {
+    padding: 0.2em 1em;
+    margin-left: 0.4em;
+    border: 0.1em solid #21ce93;
+}
+
+.revPPalOrderDetailsContainer {
+    width: calc(100% - 1em) !important;
+    margin: 1em 1em 0 0;
+}
+
+.revOrderDetails {
+    width: 100%;
+}
+
+.revPPalPaymentTableHeaderHighlighted {
+    background-color: #ede7f6;
+    height: 2em;
+    padding: 0.2em 0;
+}
+
+.revTableHeaderTell {
+    width: 55%;
+    padding-left: 1em;
+}
+
+.revTableHeaderTxt {
+    text-align: right;
+    min-width: 10em;
+    padding: 0.4em 1em;
+}
+
+.revTableHeaderLongTxt {
+    text-align: right;
+    padding: 0.4em 1em;
+}
+
+.revPPalPaymentTRBorderedBottom {
+    height: 2.5em;
+    border-bottom: 0.1em dotted #ede7f6;
+}
+
+.revPPalPaymentTRBorderedTop {
+    height: 2em;
+    border-top: 0.1em dotted #ede7f6;
+}
+
+.revOrderDetailsTd {
+    text-align: right;
+    padding: 0.4em 1em;
+}
+
+.revRequestResolutionTab {
+    margin: 3em 2em 2em auto;
+}

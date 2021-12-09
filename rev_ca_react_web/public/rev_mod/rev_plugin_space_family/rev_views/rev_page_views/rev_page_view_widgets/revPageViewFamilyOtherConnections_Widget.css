@@ -1,0 +1,31 @@
+.revOtherFamilyMemberWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revOtherFamilyMemberContainer {
+    align-items: center !important;
+    justify-items: center !important;
+    width: auto !important;
+    padding: 0.2em;
+    border: 0.1em solid #ede7f6;
+}
+
+.revOtherFamilyMemberIcon {
+    width: 3em;
+    height: 3em;
+    border: 0.1em solid #ede7f6;
+}
+
+.revOtherFamilyMemberNames {
+    margin-top: 0.2em;
+}
+
+.revOtherFamilyMembersWarpper {
+    width: calc(100% - 1em) !important;
+    border: 0.1em solid #ede7f6;
+    border-right: none;
+    padding: 0.4em 0;
+    margin-top: -0.1em;
+    margin-left: 1em;
+}

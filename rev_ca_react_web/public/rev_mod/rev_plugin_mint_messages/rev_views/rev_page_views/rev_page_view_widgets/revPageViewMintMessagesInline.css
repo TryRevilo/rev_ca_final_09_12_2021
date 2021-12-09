@@ -1,0 +1,105 @@
+.revMintViewContainer {
+    border: 0.1em solid #cfd8dc;
+    margin: 1em 0 0 0;
+}
+
+.revMintPublisherFormInlineContainer {
+    width: calc(100% - 1em) !important;
+    margin: -1em 0 0 1em;
+}
+
+.revMintPublishersWrapper {
+    align-items: center !important;
+}
+
+.revMintPublisherFormHeaderTabWrapper {
+    background-color: #fff;
+    align-items: flex-end !important;
+    width: auto !important;
+    border-bottom: 0.1em solid #cfd8dc;
+    padding-top: 0.1em;
+    margin-right: 1em;
+}
+
+.revMintPublisherFormHeaderTab {
+    min-width: 5.1em;
+    padding: 0 0.7em;
+}
+
+.revSmallFooterBorder {
+    width: 0.1em;
+    height: 0.5em;
+    background-color: #cfd8dc;
+}
+
+.revLoggedInEntityIconTab {
+    background-color: #fff;
+    width: 2em;
+    height: 2em;
+    border: 0.1em solid #ede7f6;
+}
+
+.revAbtMintsFormTab {
+    background-color: #fff;
+    border: 0.1em solid #cfd8dc;
+    padding: 0.2em 0.7em;
+    margin: 0 1em 0 auto;
+}
+
+/** REV START PUBLISHER **/
+.revQuillPubArea {
+    width: 100% !important;
+}
+
+.revPublisherTabsMenuAreaWrapper {
+    align-items: flex-end !important;
+    margin: 1em 0 0 0;
+}
+/** REV END PUBLISHER **/
+
+.revSuggestedMintsContainer {
+    width: calc(100% - 1em) !important;
+    border: 0.1em dotted #cfd8dc;
+    border-bottom: none;
+    border-right: none;
+    padding: 0.7em 0 0 1em;
+    margin: 0.4em 0 0 1em;
+}
+
+.revViewAllMintsTab {
+    padding: 1em 0.4em;
+}
+
+.revMoreMintCommentsTab {
+    border: 0.1em solid #ede7f6;
+    border-top: none;
+    padding: 0.2em 1em;
+    margin: 0 0 0 1.9em;
+}
+
+/** REV START MINT COMPOSER **/
+
+.revNewMintPublisherItemWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 1em 0 0.7em 1em;
+}
+
+.revNewMintEntityIcon {
+    background-color: #fff;
+    width: 2.7em !important;
+    height: 2em !important;
+    border: 0.1em solid #ede7f6;
+}
+
+.revAddMintTagsEntityIconsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    border: 0.1em dotted #ede7f6;
+    padding: 0.1em 1em;
+    margin-left: 0.7em;
+}
+
+.revAddMintTags {
+    margin-left: 0.2em;
+}

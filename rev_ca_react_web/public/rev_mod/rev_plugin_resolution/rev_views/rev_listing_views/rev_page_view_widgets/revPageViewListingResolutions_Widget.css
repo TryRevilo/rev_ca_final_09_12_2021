@@ -1,0 +1,124 @@
+.revNewResolutionRequestWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 1em;
+    margin: -0.2em 0 0 2em;
+}
+
+.revPageHeaderResolutionRequestWrapper {
+    margin: 2.7em 0 0 2em;
+}
+
+.revPageHeaderResolutionRequestWrapper .revPageHeader {
+    margin: 0 0 0 0;
+}
+
+.revAddNewResolutionRequestHeaderWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revAddNewResolutionRequestTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-bottom: -2px;
+}
+
+.revResolutionRequestListingItemContainer {
+    margin: 1.8em 0 0 0;
+}
+
+.revResolutionRequestListingItemStatsWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 0 0 1em;
+}
+
+.revResolutionRequestListingItemAnswersCountWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.7em 0 0;
+}
+
+.revResolutionRequestListingItemAnswersCountTxt {
+    margin: 0 0 0 0.2em;
+}
+
+.revResolutionRequestListingItemViewsCountWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.7em 0 0.7em;
+}
+
+.revResolutionRequestListingItemViewsCountTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revResolutionRequestListingItemLikesCountWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.7em 0 0.7em;
+}
+
+.revResolutionRequestListingItemLikesCount {
+    margin: 0 0 0 0.1em;
+}
+
+.revResolutionRequestListingItemLastActiveWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 0.7em;
+}
+
+.revResolutionRequestListingItemLastActiveTime {
+    margin: 0 0 0 0.4em;
+}
+
+.revResolutionRequestListingItemPublisherInfoWrapper {
+    align-items: center !important;
+    width: calc(100% - 2em) !important;
+    margin: 0.4em 0 0 2em;
+}
+
+.revResolutionRequestByWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revResolutionRequestByTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revResolutionRequestListingItemPublisherInfoDivider {
+    margin: 0.1em 0 0 0.2em;
+}
+
+.revResolutionRequestListingItemPublisherIcon {
+    background-color: #ffffff;
+    width: 2.5em;
+    height: 2.5em;
+    border: 0.1em solid #cfd8dc;
+    border-bottom: none;
+}
+
+.revResolutionRequestListingItemPublisherNames {
+    margin: 0.1em 0 0 0.3em;
+}
+
+.revResolutionRequestListingItemPubTime {
+    margin: 0 0 0 0.4em;
+}
+
+.revDividerWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revResolutionRequestsAskedContainer {
+    width: calc(100% - 2em) !important;
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    padding: 0 0 1em 1em;
+    margin: 0 0 0 2em;
+}

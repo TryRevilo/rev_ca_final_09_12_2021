@@ -1,0 +1,49 @@
+.revLogInInputAreaWrapper {
+    align-items: center !important;
+}
+
+.revLogInFormInputDividerWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revLogInInputWrapper {
+    align-items: center !important;
+    border: solid 0.1em #cfd8dc;
+    border-right: none !important;
+    padding: 0.3em 0.4em;
+}
+
+.revLoginFooterWrapper {
+    align-items: center;
+    margin: 1.7em 0 0 0;
+}
+
+.revLoggedOutFooterAreaWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 1em;
+}
+
+.revFooterTabsDividerWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 1em;
+}
+
+.revFooterTabsDivider {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 1.2em;
+}
+
+.revLoggedInSuccessWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin-left: 1em;
+}
+
+.revLoginFooterWrapper .revSubmitTabCurvedPointerRightWrapper .revSubmitTabCurvedPointerRightTabTxt {
+    padding: 0.3em 2em 0.3em 1.7em;
+    border-radius: 0 22px 22px 0 !important;
+}

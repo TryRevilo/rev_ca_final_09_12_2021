@@ -1,0 +1,16 @@
+.revHiddenSelectFileWrapper {
+    align-items: flex-end !important;
+    width: auto !important;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.revHiddenSelectFileWrapper input[type=file] {
+	position: absolute;
+	top: 0;
+	right: 0;
+	filter: alpha(opacity=0);
+	opacity: 0;
+	outline: none;
+}

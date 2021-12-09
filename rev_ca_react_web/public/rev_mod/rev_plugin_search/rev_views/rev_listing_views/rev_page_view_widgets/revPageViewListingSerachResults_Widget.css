@@ -1,0 +1,104 @@
+.revPageViewTitledPageNavHeaderSearchWrapper {
+    width: calc(100% - 2em) !important;
+    margin: 1.2em 0 0 2em;
+}
+
+.revSearchResListingSearchFormInputWrapper {
+    align-items: center !important;
+    width: calc(100% - 2em) !important;
+    border-bottom: 0.1em solid #e8eaf6 !important;
+    margin: 2.15em 0 0 2em;
+}
+
+.revSearchResListingSearchInputWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revSearchResInputInput {
+    max-width: 22em;
+    border: 0.1em dashed #e8eaf6 !important;
+    border-right: 0.1em solid #e8eaf6 !important;
+    border-bottom: none !important;
+    padding: 0.4em 2em 0.4em 0.4em !important;
+    margin-left: 0.4em;
+}
+
+.revSearchResListingSearchFormInputWrapper .revSubmitTabCurvedPointerRightWrapper .revSubmitTabCurvedPointerRightTabTxt {
+    color: #5c6bc0;
+    background-color: #e8eaf6;
+    padding: 0.3em 2em;
+    margin-left: 0.3em;
+    border-radius: 0 22px 22px 0 !important;
+}
+
+.revSerchListingQueryWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revSearchListingQuerryTxt {
+    margin-left: 0.2em;
+}
+
+.revPageHeaderSearchWrapper {
+    align-items: center !important;
+    border-left: 0.1em solid #e8eaf6;
+    padding-top: 1.5em;
+    margin: 0 0 0 2em;
+}
+
+.revPageHeaderSearchWrapper .revPageHeader {
+    border-bottom: 0.1em dotted #cfd8dc !important;
+    margin: 0.4em 0 0 0 !important;
+}
+
+.revAddNewServiceQuestionHeaderWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revAddNewServiceQuestionTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-bottom: -2px;
+}
+
+.revHelpTagTopicsPageHeaderAreaContainer {
+    border-right: solid 0.1em #ede7f6;
+    margin-top: -0.1em;
+}
+
+.revHelpTagTopicsPageListingContainer {
+    margin-bottom: 1em;
+}
+
+.revHelpTagTopicsListingTellTxt {
+    margin: 0 0 0 2.7em;
+}
+
+.revSearchItemsListingContainer {
+    width: calc(100% - 2em) !important;
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    padding: 1em 0 1em 0;
+    margin: 0 0 0 2em;
+}
+
+.revSearchItemsListingContainer .revListStyleWrapper {
+    width: calc(100% + 0.4em) !important;
+    overflow: hidden;
+    border-bottom: 1px solid #ede7f6;
+    margin: 0.4em -0.2em 0 -0.2em !important;
+}
+
+.revEntityListingItemWrapperStyle_Control {
+    align-self: flex-end;
+    width: auto !important;
+    top: 0.5em;
+    right: 1.5em;
+}
+
+.revNullSearchMatches {
+    margin-left: 1em;
+}

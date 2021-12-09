@@ -1,0 +1,16 @@
+.revQuestionItemContainer {
+    border-bottom: 0.1em solid #cfd8dc;
+}
+
+.revQuestionListingItemNameHeaderWrapper {
+    width: calc(100% - 2em) !important;
+    margin: 0.2em 0 0 0.2em;
+}
+
+/** REV START TAGS **/
+.revQuestionItemTagsListWrapper {
+    align-items: flex-end !important;
+    width: calc(100% - 1em) !important;
+    margin: 1em 0 0 1em;
+}
+/** REV END TAGS **/

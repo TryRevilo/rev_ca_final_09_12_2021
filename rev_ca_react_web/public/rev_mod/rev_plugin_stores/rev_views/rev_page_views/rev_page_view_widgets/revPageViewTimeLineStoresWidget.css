@@ -1,0 +1,64 @@
+.revTimelineStoreItemsWrapper {
+    margin: 1.2em 0 0 0;
+}
+
+.revTimelineStoreContainer {
+    /** background-color: #FAFAFA; **/
+    margin: 1em 0 0 0;
+}
+
+.revTimelineStoreHeaderWrapper {
+    align-items: center !important;
+    width: auto !important;
+    padding-left: 2em;
+    margin: 0 0 -0.1em auto;
+}
+
+.revTimelineNewStoreTab {
+    padding: 0 1em;
+}
+
+.revTimelineNewStoreTabsDividerWrapper {
+    align-items: center !important;
+    width: 2.2em !important;
+}
+
+.revVisitStore {
+    padding: 0 1em;
+}
+
+.revTimelineStoreItemContainer {
+    align-items: center !important;
+    width: auto !important;
+    margin-right: 1.2em;
+}
+
+.revTimelineStoreItemIcon {
+    width: 5.5em;
+    height: 5.5em;
+    border-radius: 12px;
+}
+
+.revTimelineStoreItemTtl {
+    margin-top: 0.4em;
+}
+
+.revTimelineStoreItemPrice {
+    margin-top: 0.4em;
+}
+
+.revTimelineStoreItemFooterWrapper {
+    justify-content: center !important;
+    justify-items: center !important;
+    align-content: center !important;
+    border: 0.1em solid #f5f5f5;
+    margin-top: 0.2em;
+}
+
+.revTimelineStoreItemBuyTab {
+    padding: 1em;
+}
+
+.revTimelineStoreItemsPreview {
+    margin-top: 2em;
+}

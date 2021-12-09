@@ -1,0 +1,21 @@
+.revPageContextViewSpaceActivityContainer {
+}
+
+.revPageViewSpaceBriefInfoWrapper {
+    margin: 0 0 1em 0;
+}
+
+.revSpaceNoticiasContainer {
+    background-color: #fafafa;
+    width: calc(100% - 2em) !important;
+    min-height: 0.1em;
+    border: 0.1em dotted #cfd8dc;
+    margin: 1em 0 0 2em;
+}
+
+.revImportSpaceContactsContainer {
+    width: calc(100% - 2em) !important;
+    border: 0.1em solid #f5f5f5;
+    padding: 1.9em 1em 2em 1em;
+    margin: -0.9em 0 0 2em;
+}

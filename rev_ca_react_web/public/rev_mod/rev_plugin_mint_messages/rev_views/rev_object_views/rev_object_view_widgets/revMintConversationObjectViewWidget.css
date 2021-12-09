@@ -1,0 +1,81 @@
+.revObjectMainMintViewContainer {
+    width: calc(100% - 2em) !important;
+    border: 0.1em solid #cfd8dc;
+    padding: 0 0 2em 1em;
+    margin: 2em 1em 0 2em;
+}
+
+.revObjectMintConversationsHeaderWrapper {
+    width: auto !important;
+    margin-top: 1em;
+}
+
+.revNewMintConversationsHeaderPointer {
+    margin: 0.4em 0 0 0.2em;
+}
+
+.revMintConversationCommentWrapper {
+    width: calc(100% + 1em) !important;
+    border-bottom: 0.1em solid #ede7f6;
+    padding: 0 0 0.4em 1em;
+    margin: 0.7em 0 0 -1em;
+}
+
+.revMintConversationCommentPostContainer {
+    width: calc(100% - 2.8em) !important;
+    padding: 0 0.4em 0.4em 0;
+    margin: 0.4em 0 0 0.2em;
+}
+
+/** REV START MINT AREA VIEW **/
+.revSuggestedMintEntitiesGrpWrapper {
+    align-items: center !important;
+    margin: 0.4em 0 0 0;
+}
+
+.revSuggestedMintEntityIconsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.7em;
+}
+
+.revSuggestedMintEntityIcon {
+    border: 0.1em solid #ede7f6;
+    width: 2em !important;
+    height: 2em !important;
+    padding: 0.1em;
+    margin-right: 0.1em;
+}
+
+.revSuggestedMintEntityTarget {
+    margin-left: 0.7em;
+}
+
+.revSuggestedMintEntityTargetDivider {
+    margin-left: 1em;
+}
+
+.revMintConversationOptionsMenuWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 1em;
+}
+
+.revMintConversationOptionsMenuTab {
+    padding: 0 0.4em;
+}
+
+.revSuggestedMintPublishOptionsTabsWrapper {
+    background-color: #fff;
+    align-self: center;
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.7em;
+}
+
+.revMintCountDividerWrapper {
+    align-items: center !important;
+    width: 4.3em !important;
+    margin: 0.1em 0 0 0.7em;
+}
+/** REV END MINT AREA VIEW **/

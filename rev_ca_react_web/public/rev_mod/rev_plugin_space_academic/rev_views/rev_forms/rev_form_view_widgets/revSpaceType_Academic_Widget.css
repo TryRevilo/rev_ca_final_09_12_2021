@@ -1,0 +1,65 @@
+.revSpaceTypePageTell {
+    margin: 1.4em 0 .4em 4em;
+}
+
+.revCreateTellWrapper {
+    width: calc(100% - 4em);
+    margin: .7em 0 .4em 4em;
+}
+
+.revCreateTellPointDown {
+    margin: .3em 0 0 .2em;
+}
+
+.revSpaceTypesContainer {
+    width: calc(100% - 2em) !important;
+    margin-left: 2em;
+}
+
+.revSpaceTypeTxt {
+    max-width: 8em;
+    border-bottom: solid .1em #EDE7F6;
+    padding: 0 2em;
+}
+
+.revItemExamplesContainer {
+    margin-top: .4em;
+}
+
+.revFamilyExampleItemWrapper {
+    width: calc(100% - 1em);
+    margin: .2em 0 0 1em;
+}
+
+.revExapleItemPointerIcon {
+    text-align: right;
+    width: .9em;
+}
+
+.revFamilyExampleItemTxt {
+    margin: 0 0 0 .1em;
+}
+
+.revFamilySpaceTypeItemContainer {
+    background-color: #E0F7FA;
+    padding: 1em 0;
+    margin-bottom: 1em;
+}
+
+.revSocialSpaceTypeItemContainer {
+    background-color: #E8F5E9;
+    padding: 1em 0;
+    margin-bottom: 1em;
+}
+
+.revAcademicSpaceTypeItemContainer {
+    background-color: #4527A0;
+    padding: 1em 0;
+    margin-bottom: 1em;
+}
+
+.revWorkSpaceTypeItemContainer {
+    background-color: #FAFAFA;
+    padding: 1em 0;
+    margin-bottom: 1em;
+}

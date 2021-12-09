@@ -1,0 +1,143 @@
+/** REV START USER TRANS **/
+.revUserTranslateSuggestionItemContainer {
+    border: 0.1em dotted #cfd8dc;
+    padding: 0 0 0.7em 0;
+    margin: 0 0 0.7em 0;
+}
+
+.revSearchItemsListingContainer .revFlexContainer .revFlexContainer .revUserTranslateSuggestionItemContainer {
+    border: none;
+    padding: 0 0 0.7em 0;
+    margin: 1em 0 0.7em 0;
+}
+
+.revUserTranslateSuggestionItemOptionsWrapper {
+    align-items: center !important;
+    width: calc(100% - 0.7em) !important;
+    margin: 0.4em 0 0 0.7em;
+}
+
+.revPageHeaderAreaContainer_UserTransListing {
+    width: calc(100% - 2.6em) !important;
+    margin: 0.4em 0 0 2.6em;
+}
+
+.revUserTransListingContainer {
+    width: calc(100% - 3.5em) !important;
+    margin: 0 0 0 3.5em;
+}
+
+.revUserLangTransContainer {
+    width: calc(100% - 3em) !important;
+    margin: -0.4em 0 0 3em;
+}
+
+.revUserTranslateSuggestionPublisherIcon {
+    border: 0.1em solid #cfd8dc;
+    width: 2em;
+    height: 2em;
+}
+
+.revUserTransPageHeaderAreaContainer_TimeLine {
+    width: calc(100% - 2em) !important;
+    margin-left: 2em;
+}
+
+.revUserDetailsTransHeaderWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revUserTransByHeaderTxt {
+    width: auto;
+    margin-left: 0.4em;
+}
+
+.revUserTranslateItemSuggestionWrapper {
+    width: calc(100% + 0.1em) !important;
+    padding-top: 1em;
+    margin: 0 0 0 -0.1em;
+}
+
+.revSearchItemsListingContainer .revFlexContainer .revFlexContainer .revUserTranslateSuggestionItemContainer .revUserTranslateItemSuggestionWrapper {
+    width: calc(100% - 1.5em) !important;
+    margin: 0 0 0 1.5em;
+}
+
+.revUserTranslateDefaultPointerWrapper {
+    width: auto !important;
+    padding-left: 0.1em;
+    margin-left: -0.1em;
+}
+
+.revUserTranslateSuggestionsPointerWrapper {
+    width: auto !important;
+    padding-left: 0.1em;
+}
+
+.revSearchItemsListingContainer .revFlexContainer .revFlexContainer .revUserTranslateSuggestionItemContainer .revUserTranslateItemSuggestionWrapper .revUserTranslateSuggestionsPointerWrapper {
+    width: auto !important;
+    padding-left: 0.1em;
+    margin-left: 0;
+}
+
+.revSearchItemsListingContainer .revFlexContainer .revFlexContainer .revUserTranslateSuggestionItemContainer .revUserTranslateItemSuggestionWrapper .revTranslateItemSuggestionContainer {
+    width: calc(100% - 0.5em) !important;
+    margin: 0 0 0 0.5em;
+}
+
+.revUserTranslateSuggestionPublisherTime {
+    margin: 0.4em 0 0 0.4em;
+}
+
+.revFromToViewContainer {
+    border-left: 0.1em dotted #cfd8dc;
+    border-top: none;
+}
+
+.revFromToViewWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 1em 0 0 -0.2em;
+}
+
+.revFromToTxtWrapper {
+    align-items: center !important;
+    margin-top: -0.8em;
+}
+
+.revLangCodeFromToSeparator {
+    margin: 0 0.4em 0 1em;
+}
+
+.revToTab {
+    margin: 0 0 0 0.4em;
+}
+
+.revViewAllUserTransTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 1em 0 0 0;
+}
+
+.revUserTransSuggestionsViewsContainer {
+    width: calc(100% - 1.5em) !important;
+    margin: 0 0 0 1.5em;
+}
+
+.revUserTransPhraseFromTo {
+    margin: 0 0.4em 0 0.4em;
+}
+
+.revUserFromToTransLangNameWrapper {
+    align-items: center !important;
+}
+
+.revUserTransPhraseFromToDividerWrapper {
+    align-items: center !important;
+}
+
+.revUserTransToDividerTxt {
+    margin: 0 1em;
+}
+/** REV START USER TRANS **/

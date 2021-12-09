@@ -1,0 +1,107 @@
+.revMemberUserIcon {
+    width: 3em;
+    height: 3em;
+    background-color: teal;
+}
+
+.revContentDetailsContainer {
+    width: calc(100% - (3em + 0.7em)) !important;
+    margin: 0.7em 0 0 0.7em;
+}
+
+.revItemDetailsWrapper {
+    align-items: flex-end !important;
+    margin-top: 0.2em;
+}
+
+.revItemLastSeen {
+    margin-left: 0.7em;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.revItemLastSeenText {
+    color: #9e9e9e;
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+.revItemLastSeenTime {
+    color: #9e9e9e;
+    font-size: 0.9em;
+    margin-left: 0.2em;
+}
+
+.revConnectionsWrapper {
+    margin-top: 0.1em;
+}
+
+.revConnectionsTitleWrapper {
+    align-items: center !important;
+    width: auto !important;
+    border-top: solid 0.1em #eceff1;
+    padding: 0.1em 1em 0.1em 0;
+}
+
+.revConnectionsTitleText {
+    text-align: center;
+}
+
+.revConnectionsCount {
+    margin-left: 0.2em;
+}
+
+.revConnectionList {
+    width: calc(100% - 1em) !important;
+    padding-top: 0.2em;
+    margin-right: 1em;
+    height: calc(100% - 1em);
+}
+
+.connectionIcon {
+    width: 2em;
+    height: 2em;
+    margin-right: 0.4em;
+}
+
+.revSiteMemberListingOptionsTabsWrapper {
+    width: auto !important;
+    border: 0.1em solid #eceff1;
+    border-right: none;
+    padding: 0 0.7em;
+    margin-right: -0.1em;
+}
+
+.revOptiontTab {
+    text-align: center;
+    padding: 0.4em 0.7em;
+    height: auto;
+}
+
+.revRecentActivityContainer {
+    display: flex;
+    margin-top: 0.4em;
+}
+
+.revRecentActivityTitle {
+    font-size: 0.9rem;
+    color: #9e9e9e;
+    margin-top: 0.25em;
+}
+
+.revRecentActivity {
+    color: #9e9e9e;
+    font-size: 0.9rem;
+    margin-top: 0.2em;
+    margin-left: 0.17em;
+}
+
+.revRecentPostsCount {
+    font-size: 1em;
+    font-weight: 500;
+}
+
+.revRecentPostsContainer {
+    margin-top: 0.4em;
+}

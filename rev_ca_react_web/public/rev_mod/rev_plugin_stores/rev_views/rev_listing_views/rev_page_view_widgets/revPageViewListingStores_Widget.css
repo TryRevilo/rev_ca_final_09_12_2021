@@ -1,0 +1,126 @@
+.revNewListingsStoresWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 1em;
+    margin: -0.2em 0 0 2em;
+}
+
+.revPageHeaderListingsStoresWrapper {
+    margin: 2.7em 0 0 2em;
+}
+
+.revPageHeaderListingsStoresWrapper .revPageHeader {
+    margin: 0 0 0 0;
+}
+
+.revAddNewListingsStoresHeaderWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revAddNewListingsStoresTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-bottom: -2px;
+}
+
+.revListingsStoresItemContainer {
+    border-bottom: 0.1em solid #ede7f6 !important;
+    padding-bottom: 0.7em;
+    margin: 0.7em 0 0 0;
+}
+
+.revListingsStoresListingItemStatsWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 0 0 1em;
+}
+
+.revListingsStoresListingItemAnswersCountWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.7em 0 0;
+}
+
+.revListingsStoresListingItemAnswersCountTxt {
+    margin: 0 0 0 0.2em;
+}
+
+.revListingsStoresListingItemViewsCountWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.7em 0 0.7em;
+}
+
+.revListingsStoresListingItemViewsCountTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revListingsStoresListingItemLikesCountWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.7em 0 0.7em;
+}
+
+.revListingsStoresListingItemLikesCount {
+    margin: 0 0 0 0.1em;
+}
+
+.revListingsStoresListingItemLastActiveWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 0.7em;
+}
+
+.revListingsStoresListingItemLastActiveTime {
+    margin: 0 0 0 0.4em;
+}
+
+.revListingsStoresListingItemPublisherInfoWrapper {
+    align-items: center !important;
+    width: calc(100% - 2em) !important;
+    margin: 0.4em 0 0 2em;
+}
+
+.revListingsStoresByWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revListingsStoresByTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revListingsStoresListingItemPublisherInfoDivider {
+    margin: 0.1em 0 0 0.2em;
+}
+
+.revListingsStoresListingItemPublisherIcon {
+    background-color: #ffffff;
+    width: 2.5em;
+    height: 2.5em;
+    border: 0.1em solid #cfd8dc;
+    border-bottom: none;
+}
+
+.revListingsStoresListingItemPublisherNames {
+    margin: 0.1em 0 0 0.3em;
+}
+
+.revListingsStoresListingItemPubTime {
+    margin: 0 0 0 0.4em;
+}
+
+.revDividerWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revListingsStoresContainer {
+    width: calc(100% - 2em) !important;
+    border: 0.1em solid #ede7f6 !important;
+    border-bottom: none !important;
+    border-top: none !important;
+    margin: 0 0 0 2em;
+}

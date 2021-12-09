@@ -1,0 +1,16 @@
+.revNoticiasGrpHeaderView {
+    margin-left: 1em;
+}
+
+.revEntitiesNoticiasDetailListingsContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 0;
+    margin: -0.2em 0 0 2em;
+}
+
+.revPageViewSpaceBriefInfoContainer {
+    width: calc(100% - 2em);
+    margin: 0 0 1em 2em;
+}

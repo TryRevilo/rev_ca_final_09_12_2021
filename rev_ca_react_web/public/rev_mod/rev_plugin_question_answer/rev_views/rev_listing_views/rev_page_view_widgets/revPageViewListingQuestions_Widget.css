@@ -1,0 +1,132 @@
+.revNewQuestionWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 1em;
+    margin: -0.2em 0 0 2em;
+}
+
+.revPageHeaderQuestionWrapper {
+    margin: 1em 0 0 2em;
+}
+
+.revPageHeaderQuestionWrapper .revPageHeader {
+    margin: 0 0 0 0;
+}
+
+.revAddNewQuestionHeaderWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revAddNewQuestionTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-bottom: -2px;
+}
+
+.revAddNewQuestionHeaderTabIcon {
+    padding-left: 0.2em;
+}
+
+.revAddNewQuestionHeaderTabTxt {
+    padding-left: 0.2em;
+}
+
+.revQuestionListingItemContainer {
+    margin: 1.8em 0 0 0;
+}
+
+.revQuestionListingItemStatsWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 0 0 1em;
+}
+
+.revQuestionListingItemAnswersCountWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.7em 0 0;
+}
+
+.revQuestionListingItemAnswersCountTxt {
+    margin: 0 0 0 0.2em;
+}
+
+.revQuestionListingItemViewsCountWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.7em 0 0.7em;
+}
+
+.revQuestionListingItemViewsCountTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revQuestionListingItemLikesCountWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.7em 0 0.7em;
+}
+
+.revQuestionListingItemLikesCount {
+    margin: 0 0 0 0.1em;
+}
+
+.revQuestionListingItemLastActiveWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 0.7em;
+}
+
+.revQuestionListingItemLastActiveTime {
+    margin: 0 0 0 0.4em;
+}
+
+.revQuestionListingItemPublisherInfoWrapper {
+    align-items: center !important;
+    width: calc(100% - 2em) !important;
+    margin: 0.8em 0 0 2em;
+}
+
+.revQuestionByWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revQuestionByTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revQuestionListingItemPublisherInfoDivider {
+    margin: 0.1em 0 0 0.2em;
+}
+
+.revQuestionListingItemPublisherIcon {
+    background-color: #ffffff;
+    width: 2.5em;
+    height: 2.5em;
+    border: 0.1em solid #cfd8dc;
+    border-bottom: none;
+}
+
+.revQuestionListingItemPublisherNames {
+    margin: 0.1em 0 0 0.3em;
+}
+
+.revQuestionListingItemPubTime {
+    margin: 0 0 0 0.4em;
+}
+
+.revDividerWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revQuestionsAskedContainer {
+    width: calc(100% - 2em) !important;
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    padding: 0 0 1em 1em;
+    margin: 0 0 0 2em;
+}

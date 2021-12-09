@@ -1,0 +1,102 @@
+.revBriefStoreLogoIcon {
+    width: 5em;
+    height: 5em;
+    background-color: #ede7f6;
+}
+
+.revBriefStoreFlexRightWrapper {
+    width: calc(100% - 4.7em) !important;
+    margin-right: -0.2em;
+}
+
+.revBriefStoreNameWrapper {
+    align-items: flex-end !important;
+    width: calc(100% - 1.4em) !important;
+    margin: 0.4em 0 0.4em 1.4em;
+}
+
+.revBriefStoreName {
+    width: calc(100% - 2em);
+    margin-left: 0.4em;
+}
+
+.revBriefStoreName {
+    width: calc(100% - 2em);
+    margin-left: 0.4em;
+}
+
+.revBriefStoreDetailContainer {
+    width: calc(100% - 20em) !important;
+}
+
+.revBriefStoreFarRightDetailContainer {
+    width: 20em !important;
+}
+
+.revBriefStoreDetail {
+    width: calc(100% - 1.4em) !important;
+    margin: 0.4em 0.4em 0 1em;
+}
+
+.revBriefStoreDetailTtl {
+    text-align: right;
+    min-width: 5.5em;
+    margin-right: 1em;
+}
+
+.revBriefStoreDetailVal {
+    margin-top: 0.1em;
+}
+
+.revBriefStoreDetailFoundersIconsWrapper {
+    align-items: center !important;
+    margin-top: 1em;
+}
+
+.revStoreBriefFounderIcon {
+    background-color: #ede7f6;
+    width: 2em;
+    height: 2em;
+    margin-right: 0.2em;
+}
+
+.revBriefStoreExtraFounders {
+    margin-left: 0.4em;
+    align-self: center;
+}
+
+.revStoreOptionsTabsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0.11em 0 0 auto;
+}
+
+.revStoreItemObjectViewEditStoreTab {
+    padding: 0 1em;
+}
+
+.revContactSellerTab {
+    color: #fff;
+    font-weight: 500;
+    background-color: #5c6bc0;
+    padding: 0.1em 0.5em;
+    width: 2.5em;
+    border-radius: 3px 0 0 3px;
+}
+
+.revStoreDesputesTabsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 4.25em 1.2em 0 auto;
+}
+
+.revStoreDesputesTabsResolvedWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revStoreDesputesTabsDividerWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 1em;
+}

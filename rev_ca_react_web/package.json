@@ -1,0 +1,57 @@
+{
+  "name": "rev_ca_react_web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "@fullcalendar/core": "^4.4.0",
+    "@fullcalendar/daygrid": "^4.4.0",
+    "@loadable/component": "^5.12.0",
+    "@loadable/server": "^5.12.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.4.1",
+    "connect-redis": "^6.0.0",
+    "emotion": "^10.0.27",
+    "express-session": "^1.17.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "ng-fullcalendar": "^2.0.3",
+    "popper.js": "^1.16.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "redis": "^3.1.2",
+    "requirejs": "^2.3.6",
+    "slate": "^0.57.2",
+    "slate-history": "^0.57.2",
+    "slate-react": "^0.57.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@loadable/babel-plugin": "^5.12.0",
+    "@loadable/webpack-plugin": "^5.12.0"
+  }
+}

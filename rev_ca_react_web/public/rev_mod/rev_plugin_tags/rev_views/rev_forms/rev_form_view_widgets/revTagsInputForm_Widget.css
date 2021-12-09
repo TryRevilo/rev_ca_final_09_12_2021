@@ -1,0 +1,40 @@
+.revAddedTagsWrapper {
+    align-items: center !important;
+    max-width: 32em !important;
+    margin: 0.1em 0 0 0.7em;
+}
+
+.revAddNewTagInputFormWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revAddNewTagInputTextWrapper {
+    align-items: center !important;
+    width: 22em;
+}
+
+.revAddedTagInputWrapper {
+    text-align: center !important;
+    align-items: center !important;
+    width: auto !important;
+    background-color: #ede7f6;
+    padding: 0.2em 0.7em;
+    margin: 0 0.4em 0.4em 0;
+    border-radius: 22px;
+}
+
+.revDelTagWrapper {
+    text-align: center !important;
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.4em;
+}
+
+.revDelTagWrapper:hover {
+    color: red;
+}
+
+.revDefAddedTagsViewNull {
+    margin: 0 0 0 0.45em;
+}

@@ -1,0 +1,4 @@
+.revOngoingCallsContainer {
+    width: calc(100% + 0.2em) !important;
+    margin: 0 -0.2em 0 0;
+}

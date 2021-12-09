@@ -1,0 +1,83 @@
+.revSelectFileWrapper {
+	align-items: flex-end !important;
+	width: auto !important;
+	border-bottom: solid .1em #D1C4E9;
+	padding: 0 1em;
+	position: relative;
+	overflow: hidden;
+  }
+  
+  .revUploadTab {
+	color: #5C6BC0;
+	font-size: 1rem;
+	line-height: .9rem;
+    background-color: #D1C4E9;
+    border-color: #D1C4E9;
+    border-bottom: none;
+    border-radius: 4px 4px 0 0;
+    padding: .175rem .65rem;
+}
+
+.revEntityIconText {
+	font-weight: 500;
+	align-self: flex-end;
+	padding: 0 .7em 0 0;
+}
+
+.revSelectFileWrapper input[type=file] {
+	position: absolute;
+	top: 0;
+	right: 0;
+	filter: alpha(opacity=0);
+	opacity: 0;
+	outline: none;
+}
+
+.revSelectedMediaWrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.rev-delete-image-item {
+  cursor: pointer;
+  color: #FFF;
+  font-size: 1.2em;
+	text-align: center;
+	display: inline-block;
+  padding: 4px;
+  background-color: #D1C4E9;
+	border-left: 0;
+	width: 22px;
+}
+
+.revImageWrapper {
+	display: flex;
+	position: relative;
+}
+
+.rev-image-item-container {
+	background-color: #D1C4E9;
+	margin: .5em 0;
+	border: 1px solid #D1C4E9;
+	border-radius: 4px;
+}
+
+.thumb{
+	background-color: #D1C4E9;
+	width: 9.7em;
+	height: 9.7em;
+  margin: 5px;
+  margin-top: 0;
+	border-radius: 4px;
+}
+
+.revPlayTab {
+	cursor: pointer;
+	color: #FFF;
+	font-size: 1em;
+	align-self: center;
+	position: absolute;
+	left: 45%;
+}

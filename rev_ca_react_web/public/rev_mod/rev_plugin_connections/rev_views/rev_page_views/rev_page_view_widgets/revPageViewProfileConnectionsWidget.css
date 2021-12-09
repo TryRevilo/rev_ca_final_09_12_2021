@@ -1,0 +1,116 @@
+.revProfileConnSelfWrapper {
+    align-items: center !important;
+}
+
+.revProfileConnRelsIcon {
+    background-color: #ffffff;
+    border: 0.1em solid #cfd8dc;
+    border-top: none;
+    width: 3em;
+    height: 3em;
+    padding: 0 0.1em 0.1em 0.1em;
+    margin-top: -0.1em;
+}
+
+.revProfileConnSetWrapper {
+    text-align: center;
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revProfileConnDegreePointer {
+    padding: 0 1em;
+}
+
+.revProfileConnSharedTab {
+    border-bottom: 0.1em dotted #cfd8dc;
+    padding: 0 2em 0 2.2em;
+}
+
+.revProfileConnHelpTab {
+    border-bottom: 0.1em dotted #cfd8dc;
+    padding: 0 2em;
+    margin: 0 -1em 0 auto;
+}
+
+.revProfileConnSetTxt {
+    margin: 0 0 0 0.2em;
+}
+
+.revProfileConnCounterPointer {
+    color: #cfd8dc;
+}
+
+.revProfileConnCurrentWrapper {
+    align-items: center !important;
+    width: calc(100% - 2.5em) !important;
+    margin: -0.7em 0 0 2.5em;
+}
+
+.revProfileConnCounterWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 0.6em;
+}
+
+.revProfileConnCounterTxt {
+    text-align: center;
+    margin: 0 0.4em 0 0.65em;
+}
+
+.revProfileConnCurrIconsWrapper {
+    align-items: center !important;
+    width: 28.2em !important;
+}
+
+.revProfileRelationsViewBackgroundLineWrapper {
+    background-color: #cfd8dc;
+    height: 0.1em !important;
+    top: 47%;
+}
+
+.revConnIconsListScrollWrapper {
+    align-items: center !important;
+    background-color: #ede7f6;
+    width: auto !important;
+    min-height: 2.2em;
+    z-index: 1;
+}
+
+.revProfileConnIcon {
+    background-color: #ffffff;
+    border: 0.1em solid #cfd8dc;
+    width: 2em;
+    height: 2em;
+    padding: 0.1em;
+    margin-right: 0.2em;
+}
+
+.revProfileConnIcon_LastChild {
+    margin-right: 0 !important;
+}
+
+.revProfileConnExploreWrapper {
+    align-items: center !important;
+    background-color: #ede7f6;
+    width: auto !important;
+    margin: 0 0 0 -0.2em;
+    z-index: 1;
+}
+
+.revProfileConnExploreTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revProfileConnExplorePointerIcon {
+    margin: 0 0 0 0.2em;
+}
+
+/** REV START CONNECT USER FORM **/
+.revCreateUserConnectionsFormContainer {
+    background-color: #ffffff;
+    border: 0.1em solid #ede7f6;
+    border-top: none;
+    border-left: none;
+    padding: 1.1em 0 0 0;
+}

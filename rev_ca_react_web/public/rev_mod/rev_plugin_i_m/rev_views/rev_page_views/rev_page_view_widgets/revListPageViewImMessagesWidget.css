@@ -1,0 +1,66 @@
+.revNullMessagesWrapper {
+    width: calc(100% - 1.2em) !important;
+    margin-left: 1.2em;
+}
+
+.revUnreadSendersPreview {
+    margin-top: 0.4rem;
+}
+
+.revOngoingCommsContainer {
+    margin: 0.7em 1px 0 1em;
+}
+
+.revNullMessagesTxt {
+    margin-top: 0.4em;
+}
+
+.revUnreadMsgsWrapper {
+    align-items: center !important;
+    margin-top: 0.7em;
+}
+
+.revBackToAllMessagesWrapper {
+    align-items: center !important;
+}
+
+.revUnreadSenderMsgsWrapper {
+    margin: 0.7rem 0 0 0;
+}
+
+.revMessagesBackTab {
+    color: #5c6bc0;
+    align-self: center;
+    margin-right: 0.4em;
+}
+
+.revSenderUnreadMsgsContainer {
+    padding: 0 2rem 0 0.7rem;
+    border-bottom: solid 1px #f5f5f5;
+}
+
+.revNewMessagesCount {
+    margin-left: 0.4em;
+}
+
+.revUnreadUserIconContainer {
+    align-items: center !important;
+    background-color: #ede7f6;
+    padding: 0.1em;
+    margin-top: -0.1em;
+    width: 3.5em !important;
+    height: 3.5em !important;
+    border-radius: 50%;
+}
+
+.revSenderFullNames {
+    color: #757575;
+    font-size: 0.9rem;
+    font-weight: 500;
+    line-height: 0.9rem;
+    margin-top: 0.1rem;
+}
+
+.revSenderUnreadMsgsCount {
+    margin-left: 0.4rem;
+}

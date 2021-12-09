@@ -1,0 +1,41 @@
+.revChatSettingsUserIcon {
+    color: #26a69a;
+    font-size: 1.3rem;
+    padding: 1.4em 0.3em 1em 0.31em;
+    border: solid 0.1em #e8f5e9;
+    border-bottom: none;
+    margin-top: 1px;
+    border-radius: 22px 22px 0 0;
+}
+
+.revChatSettingsFormContainer {
+    width: calc(100% - 2em) !important;
+    border: 0.1em solid #cfd8dc;
+    padding: 2em 1em 1.3em 1em;
+    margin: 0 0 0.2em 2em;
+    z-index: 2;
+}
+
+.revChatSettingsHeader {
+    border-bottom: 0.1em solid #cfd8dc;
+    padding: 0 1em;
+}
+
+.revChatSettingsFormViewWrapper {
+    align-items: center !important;
+    margin: 0.2em 0 0 0;
+}
+
+.revChatSettingsOptionWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0.4em 2em 0 0;
+}
+
+.revChatSettingsTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revChatStatusInputTextWrapper {
+    margin: 1em 0 0 0;
+}

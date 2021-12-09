@@ -1,0 +1,76 @@
+.revPageViewTitledPageNavHeaderWrapper_AdForm {
+    width: calc(100% - 2em) !important;
+    margin: 1.2em 0 0 2em;
+}
+
+.revNewStoreSaleResolutionWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 1em;
+    margin: -0.2em 0 0 2em;
+}
+
+.revStoreSaleResolutionFormTitleIcon {
+    text-align: center;
+    padding: 0.8em 0.2em 0.1em 0.25em;
+    margin: 0 0 0 -0.4em;
+    border: 0.1em solid #e8eaf6 !important;
+    border-radius: 2px 2px 0 0;
+}
+
+/** START REV ENTITY SELECTION ICON AREA **/
+
+.revSelectStoreSaleResolutionPicsWrapper {
+    align-items: flex-end !important;
+    width: auto !important;
+    margin: 0.4em 0 0.4em 1.4em;
+}
+
+/** END REV ENTITY SELECTION ICON AREA **/
+
+.revStoreSaleResolutionDetailsArea {
+    width: 100%;
+    border: 0.1em solid #f5f5f5;
+    border-right: none;
+    padding: 1em 0 0 0;
+    margin: 1em 0;
+}
+
+/** REV START TAGS **/
+.revStoreSaleResolutionTagsFormWrapper {
+    align-items: center !important;
+    border-top: 0.1em dotted #ede7f6;
+    padding-top: 1em;
+    margin: 1em 0 0 0;
+}
+
+.revStoreSaleResolutionTagsFormContainer {
+    width: auto !important;
+    margin: 0 0 1.8em 0;
+}
+/** REV END TAGS **/
+
+/** REV START RESOLUTION **/
+.revRequestStoreSaleRes_MsgsContainer {
+    background-color: #ffebee;
+    border: 0.1em solid #ffcdd2;
+    width: calc(100% - 2em) !important;
+    padding: 0.7em 1em;
+    margin: 1em;
+}
+
+.revRequestStoreSaleRes_MsgsCount {
+    border-bottom: 0.1em solid #5c6bc0;
+    padding: 0 1em 0 1.1em;
+    margin-left: -1.1em;
+}
+
+.revRequestStoreSaleRes_MsgsTellTxtWrapper {
+    margin-top: 0.4em;
+}
+
+.revRequestStoreSaleResFormFooterWrapper {
+    width: calc(100% - 2.4em) !important;
+    margin: 2em 0 0 2.4em;
+}

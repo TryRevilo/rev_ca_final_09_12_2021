@@ -1,0 +1,45 @@
+.revTimelinePluginViewsContainer {
+    width: calc(100% - 2em) !important;
+    margin-left: 2em;
+}
+
+.revTimelineLoadingWrapper {
+    align-items: center !important;
+    width: calc(100% - 3em) !important;
+    margin: 2em 0 0 3em;
+}
+
+.revTimelineLoadingBlinkersWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin-top: 0.1em;
+}
+
+.revTimelineLoadingTxt {
+    margin-left: 0.4em;
+}
+
+.revActivityViewListItemWrapperStyle {
+    margin-top: 1.7em;
+    position: relative;
+}
+
+.revActivityViewListItemWrapperStyle_Control {
+    align-self: flex-end;
+    width: auto !important;
+    top: 0.5em;
+    right: 0.5em;
+}
+
+.revNoPostsView {
+    margin: 2em 0 0 3.1em;
+}
+
+.revTimelineSentimentSaveContainer {
+    width: calc(100% - 2em) !important;
+    margin: 2.7em 0 0 2em;
+}
+
+.revContextTimelineItemContainer {
+    margin-top: 1em;
+}

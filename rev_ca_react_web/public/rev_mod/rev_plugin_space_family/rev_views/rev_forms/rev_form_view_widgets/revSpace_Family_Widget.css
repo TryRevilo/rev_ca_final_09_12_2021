@@ -1,0 +1,26 @@
+.revSpaceFamilyFormWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 1em;
+    margin: -0.2em 0 0 2em;
+}
+
+.revEntityDescDetailsArea_Family {
+    margin: 1em 0 0 0;
+}
+
+.revSelectItemMainFamilyIconWrapper {
+    margin: 1em 1em 0 0;
+}
+
+.revFamilyNameTell {
+    background-color: #e0f7fa;
+    border: dotted 0.1em #80deea;
+    padding: 0.4em 2em;
+    margin: 1em 1em 1em 2em;
+}
+
+.revNewFamilySpaceFormFooter {
+    margin: 2em 0 0 1.4em;
+}

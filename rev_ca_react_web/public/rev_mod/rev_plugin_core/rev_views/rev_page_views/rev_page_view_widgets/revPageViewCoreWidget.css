@@ -1,0 +1,158 @@
+.App {
+    width: 100%;
+    height: 100%;
+    justify-content: center !important;
+}
+
+.revSiteRightSidebarTopBar {
+    width: 100%;
+    margin-top: 0.5em;
+}
+
+.revMediaSitePosts {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    width: 100%;
+    z-index: 1;
+}
+
+.revPageScrollArea {
+    height: 100%;
+    outline: 0;
+    border: 0;
+}
+
+.revMainCenterFooterAreaWrapper {
+    background-color: #fff;
+    width: calc(100% - 1px) !important;
+    padding: 0 0 0.4em 0;
+    margin-left: 1px;
+    bottom: 0.2em;
+    z-index: 1;
+}
+
+.revTrendingVidTtlWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 1em 0 0.8em 2.4em;
+}
+
+.revTrendingVidTtlPointerIcon {
+    margin: 0.5em 0 0 0.4em;
+}
+
+.revPageViewCommsFooterAdPageViewContainer {
+    margin: 1em 0 0 0;
+}
+
+.revRightSideBarFooterMenuAreaWrapper {
+    align-items: center !important;
+    padding-top: 2em;
+    margin: auto 0 3.4em 0;
+}
+
+.revRightSideBarFooterMenuAreaDividerWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revSideBarFooterTabItem {
+    margin: 0 1em;
+}
+
+.revServicesAreaContainer {
+    width: calc(100% - 5em) !important;
+    margin-left: 2em;
+}
+
+.revVideoDetailsContainer {
+    display: flex;
+    flex-direction: column;
+    padding-top: 0.4em;
+    border-left: 0.1em solid #ede7f6;
+}
+
+.revVideoDetails {
+    color: #606060;
+    font-size: 0.85rem;
+    text-align: left;
+    line-height: 0.85rem;
+    font-weight: 400;
+    padding-left: 0.4em;
+    padding-bottom: 0.4em;
+}
+
+.revCenterTopBarLeftWrapper {
+    width: auto !important;
+}
+
+.revCenterTopBarSearchInput {
+    width: 200px;
+    color: #bdbdbd;
+    font-size: 0.9rem;
+    font-weight: 500;
+    background-color: #fff;
+    border: none;
+    padding: 0;
+    outline: none;
+    border-radius: 0;
+}
+
+.revMidTopBarMenuArea {
+    display: flex;
+    align-self: flex-end;
+    margin-left: auto;
+}
+
+.revMidTopBarMenuAreaMenuItem {
+    color: #5c6bc0 !important;
+    font-size: 1rem;
+    line-height: 1rem;
+    display: flex;
+    align-items: center;
+    padding: 0 0.5em 0 1em;
+    border-left: solid 1px #d1c4e9;
+    margin-left: 0.7em;
+}
+
+.revMidTopBarMenuAreaMenuItem_Noticia {
+    color: #ff8a65;
+    line-height: 0.9rem;
+    font-size: 1.1rem;
+}
+
+.revMidTopBarMenuAreaMenuItem_NoticiaCounter {
+    color: #ff8a65;
+    line-height: 0.9rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    border-bottom: solid 0.1em #ff8a65;
+    margin-right: -0.4em;
+}
+
+.revCommsCenterContainer {
+    margin-top: 1.7em;
+    width: calc(100% - 1em);
+}
+
+.revSidebarTrendsScrollContainer {
+    height: 655px;
+    overflow: scroll;
+}
+
+.revPageViewIncomingVideoCallContainer {
+    padding: 0 0 0 1em;
+}
+
+/** REV START CODE EDITOR **/
+.revCodePluginsEditorFormContainer {
+    width: calc(100% + 386.4px) !important;
+    border-bottom: 0.1em dotted #f8bbd0;
+    border-left: 0.1em dotted #f8bbd0;
+    margin: 0 0 0 1.9em;
+    bottom: 1.2em;
+    z-index: 1;
+}
+/** REV END CODE EDITOR **/

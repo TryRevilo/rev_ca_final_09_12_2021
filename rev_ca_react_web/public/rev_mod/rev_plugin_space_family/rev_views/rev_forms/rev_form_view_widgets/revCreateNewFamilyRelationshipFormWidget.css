@@ -1,0 +1,179 @@
+.revNewFamilyMemberFormContainer {
+    background-color: #ffffff;
+    border-left: 0.1em solid #ede7f6;
+    padding: 0.8em 0;
+}
+
+.revNewFamilyMemberInputTextWrapper {
+    margin: 0.4em 0 0 0;
+}
+
+.revNewFamilyMemberInputTextWrapperSex {
+    align-items: center !important;
+    width: 12em !important;
+    margin-left: 0.7em;
+}
+
+/** REV START SEX **/
+.revNewFamilyMemberSexSelectionWrapper {
+    align-items: center !important;
+    margin: 0.6em 0 0 0.8em;
+}
+
+.revNewFamilyMemberPreSetSexSelectionWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revNewFamilyMemberSexSelectionTxt {
+    margin: 0 0 0 0.4em;
+}
+
+.revNewFamilyMemberSexSelectionMenuArea {
+    margin: 0.2em 0 0 0.7em;
+}
+/** REV END SEX **/
+
+.revNewFamilyMemberFormRelationTypeWrapper {
+    align-items: center !important;
+    width: calc(100% - 0.2em) !important;
+    border-top: 0.1em dotted #ede7f6;
+    padding-top: 1em;
+    margin: 1em 0 0 0.2em;
+}
+
+.revNewFamilyMemberRelationTypeTxt {
+    margin-left: 0.9em;
+}
+
+.revNewFamilyMemberRelationTypeSelectMenuArea {
+    margin: 0.3em 0 0 1em;
+}
+
+.revSelectedFamRelType {
+    margin: 0 0 0 0.4em;
+}
+
+/** REV START CONTACTS **/
+.revNewFamilyMemberContainer {
+    padding: 1em 0;
+    margin: 1.7em 0 0 0;
+    border: 0.1em dotted #e8eaf6;
+    border-left: none;
+    border-right: none;
+}
+
+.revNewFamilyMemberAddContactTell {
+    text-align: center;
+    padding: 0 2em 0 1em;
+    border-bottom: 0.1em solid #ede7f6;
+}
+
+.revAddedContactsWrapper {
+    align-items: center !important;
+    max-width: 32em !important;
+    margin: 0 0 0 0.7em;
+}
+
+.revAddedContactInputWrapper {
+    text-align: center !important;
+    align-items: center !important;
+    width: auto !important;
+    background-color: #ede7f6;
+    padding: 0.2em 0.7em;
+    margin: 1em 0.4em 0.4em 0;
+    border-radius: 22px;
+}
+
+.revDelContactWrapper {
+    text-align: center !important;
+    align-items: center !important;
+    width: auto !important;
+    margin-left: 0.4em;
+}
+
+.revDelTagWrapper:hover {
+    color: red;
+}
+/** REV END CONTACTS **/
+
+.revNewFamilyMemberPhoneNumberCountryCodeInputTextWrapper {
+    align-items: center !important;
+    margin: 1em 0 0.6em 0;
+}
+
+.revNewFamilyMemberCountryCodeInputTextWrapper {
+    align-items: center !important;
+    width: 5em !important;
+}
+
+.revNewFamilyMemberPhoneNumberInputTextWrapper {
+    align-items: center !important;
+    width: 12.4em !important;
+}
+
+.revNewFamilyMemberPhoneNumberCountryCodeCancelTab {
+    margin: 0 0 0.2em 0;
+}
+
+.revNewFamilyMemberContactsWrapper {
+    align-items: center !important;
+    width: calc(100% - 2em) !important;
+    margin: 1em 0 0 2em;
+}
+
+.revNewFamilyMemberPhoneContactsWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revNewFamilyMemberAddContactDivider {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 1em;
+}
+
+.revNewFamilyMemberEMailContactsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0 0 1em;
+}
+
+.revNewFamilyMemberAddContatctTxt {
+    text-align: center;
+    margin: 0 0 0 0.2em;
+}
+
+.revSexSelectedTellErrContainer {
+    background-color: #ffebee;
+    border: 0.1em solid #ffcdd2;
+    width: calc(100% - 3em) !important;
+    margin: 1em 1em 0 2em;
+    padding: 0.4em;
+}
+
+.revSexSelectedTellErrTellWrapper {
+    width: calc(100% - 1em) !important;
+    margin: 0.4em 0 0 1em;
+}
+
+.revSexSelectedTellErrExamplesWrapper {
+    align-items: center !important;
+    width: calc(100% - 1em) !important;
+    margin: 0 0 0 3em;
+}
+
+.revSexSelectedTellErrExamplesTxtContainer {
+    width: calc(100% - 0.4em) !important;
+    margin-left: 0.4em;
+}
+
+.revBottomBorderOnlyBorderInput {
+    border: none;
+    border-bottom: 0.1em solid #e8eaf6;
+}
+
+.revNewFamilyMemberFormFooterWrapper {
+    width: calc(100% - 1em) !important;
+    margin: 1.8em 0 0 1em;
+}

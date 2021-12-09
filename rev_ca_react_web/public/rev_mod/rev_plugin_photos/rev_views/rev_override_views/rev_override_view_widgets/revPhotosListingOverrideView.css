@@ -1,0 +1,66 @@
+.revImagesWrapperStyle {
+    overflow-x: scroll;
+    height: auto;
+}
+
+.revImageItemContainer {
+    width: auto !important;
+}
+
+.revDeletePicItemTab {
+    left: 34%;
+    background-color: #fff;
+    border: solid 1px #d1c4e9;
+    opacity: 0.7;
+    padding: 0.2em;
+    border-radius: 22px;
+    z-index: 1;
+}
+
+.revImageItemStyle {
+    width: 6em !important;
+    height: 6em !important;
+    margin-right: 1px;
+}
+
+.revImageItemStyle_Small {
+    width: 4em !important;
+    height: 4em !important;
+    margin-right: 1px;
+}
+
+.revImageItemStyle_Tiny {
+    width: 2em !important;
+    height: 2em !important;
+    margin-right: 1px;
+}
+
+.revImagesDetailContainer {
+    background-color: #fff;
+    padding-bottom: 1em;
+}
+
+.revImageDetailContainerOptionsWrapper {
+    align-items: center !important;
+    width: auto !important;
+    background-color: #fff;
+    opacity: 0.7;
+    top: 0.7em;
+    left: 2em;
+    padding: 0 1em;
+    border-radius: 22px;
+}
+
+.revOptionsTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+    padding: 0.4em 0.7em;
+    border-radius: 22px;
+}
+
+.revOptionsTabWrapperDelete {
+    align-items: center !important;
+    width: auto !important;
+    padding: 0.4em 0.7em 0.3em 0.7em;
+    border-radius: 22px;
+}

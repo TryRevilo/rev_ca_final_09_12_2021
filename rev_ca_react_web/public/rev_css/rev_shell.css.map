@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../scss/rev_shell.scss"
+    ],
+    "names": [],
+    "file": "rev_shell.css"
+}

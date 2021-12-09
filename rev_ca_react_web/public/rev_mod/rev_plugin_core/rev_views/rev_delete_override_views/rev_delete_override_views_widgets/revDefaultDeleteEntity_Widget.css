@@ -1,0 +1,51 @@
+.revDeleteEntityContainer {
+    background-color: #ffebee;
+    border: solid 0.1em #ffcdd2;
+    width: calc(100% + 0.1px) !important;
+    padding: 1em;
+    padding-top: 0.5em;
+    margin: -0.1em -1px 0 0;
+}
+
+.revDeleteHeader {
+    color: #e57373;
+    font-size: 1em;
+    font-weight: 500;
+    line-height: 1.2em;
+    border-bottom: 0.1em solid #ffcdd2;
+    padding: 0 1em;
+    margin: 0 -1em 1em -1em;
+}
+
+.revDeleteEntityContentWrapper {
+    margin-top: 0.8em;
+    max-height: 2em !important;
+}
+
+.revDeleteQuoteIconStyle {
+    color: #e57373;
+    font-size: 1em;
+    margin-right: 0.4em;
+}
+
+.revDeleteFooterAreaWrapper {
+    width: auto !important;
+    align-items: center !important;
+    margin-top: 1.7em;
+}
+
+.revDeleteButton {
+    cursor: pointer;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 500;
+    align-self: flex-start;
+    padding: 0.4em 1em;
+    background-color: #e57373;
+}
+
+.revCancel {
+    padding: 0 1em;
+    margin-left: 1em;
+    border-bottom: solid 0.1em #303f9f;
+}

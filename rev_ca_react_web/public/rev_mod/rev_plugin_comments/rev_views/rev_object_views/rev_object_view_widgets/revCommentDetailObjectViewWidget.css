@@ -1,0 +1,28 @@
+.revCommentViewWrapper {
+    width: calc(100% - 2em) !important;
+    padding-top: 0.2em;
+    margin: -0.7em 0 0 2em;
+}
+
+.revCommentDetailPublisherIconStyle {
+    width: 2.7em;
+    height: 2.7em;
+}
+
+.revCommentDetailCenterContainer {
+    width: calc(100% - 0.4em) !important;
+    margin: 1em 0 0 0.4em;
+}
+
+.revCommentDetailFormInputArea {
+    width: calc(100% - 2em) !important;
+    margin: 1em 0 0 2em;
+    border-bottom: 1px solid #ede7f6;
+}
+
+.revItemOptionsMenuArea_CommentsDetailView_Wrapper {
+    justify-content: space-between !important;
+    align-content: flex-start !important;
+    width: calc(100% - 2em);
+    margin: 0.5em 2em 0 0;
+}

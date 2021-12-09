@@ -1,0 +1,44 @@
+.revAddNewLangAreaContainer {
+    width: calc(100% - 2em) !important;
+    border: 0.1em solid #cfd8dc;
+    border-top: none;
+    padding: 1em;
+    margin: 0 0 2em 2em;
+}
+
+.revAddNewLangHeaderTxt {
+    margin: 0 0 0 1.3em;
+}
+
+.revAddNewLangInputWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0.4em 0 0 0;
+}
+
+.revLangNameInputText {
+    width: 17em !important;
+}
+
+.revLangCodeInputText {
+    width: 7em !important;
+}
+
+.revAddNewLangParentSelectorWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0.7em 0 0 2em;
+}
+
+.revAddNewLangParentSelector {
+    margin: 0 0 0 0.4em;
+}
+
+.revAddNewLangFooterWrapper {
+    align-items: center !important;
+    margin: 2em 0 1em 0;
+}
+
+.revContentCalcelTab {
+    margin-left: 2em;
+}

@@ -1,0 +1,76 @@
+.revMainTabbedViewContainer_Translate {
+    width: calc(100% - 2em) !important;
+    padding: 0 0 0 1em;
+    margin: 0 0 0 2em;
+}
+
+.revPageHeaderAreaContainer_SentimentsForm {
+    width: calc(100% - 2em) !important;
+    margin: 1.45em 0 0 2em;
+}
+
+.revTranslateTellContainer {
+    width: calc(100% - 2em) !important;
+    padding: 0.4em 1em;
+    margin: 0.1em 0 0 2em;
+}
+
+.revAccessTranslateTell {
+    margin: 0.4em 0 0 2em;
+}
+
+.revLangSelectorWrapperContainer {
+    align-items: center !important;
+    border-top: 0.1em dotted #cfd8dc;
+    border-bottom: 0.1em dotted #cfd8dc;
+    margin: 0.8em 0 0 2em;
+}
+
+.revTranslateLangSelectorWrapper {
+    align-items: center !important;
+    width: auto !important;
+    padding: 0.4em 1.1em;
+}
+
+.revTranslateLangSelectorDropDown {
+    margin: 0.4em 0 0 0.4em;
+}
+
+.revAddNewLanguageWrapper {
+    align-items: center !important;
+    width: auto !important;
+    border-right: 0.1em solid #cfd8dc;
+    border-left: 0.1em solid #cfd8dc;
+    padding: 0.4em 1em;
+    margin-left: 2em;
+}
+
+.revAddNewLanguageTxt {
+    margin-left: 0.4em;
+}
+
+.revFrom_To_Txt {
+    width: 4em;
+    margin-left: 0.4em;
+}
+
+/** REV START TABBED VIEW **/
+
+.revPluginTransContainer {
+    border: 0.1em solid #ede7f6;
+    padding-left: 1em;
+    margin-top: 1em;
+}
+
+.revTranslateTabbedHeaderTabWrapper {
+    background-color: #fff;
+    align-items: center !important;
+    width: auto !important;
+    margin: 1em 0 0 1em;
+}
+
+.revTranslatePluginSelectorWrapper {
+    width: auto !important;
+    padding-bottom: 0.1em;
+    margin: 0 0 0 0.4em;
+}

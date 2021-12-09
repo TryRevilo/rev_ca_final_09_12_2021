@@ -1,0 +1,33 @@
+.revToggleCheckoutContainer {
+    background-color: #ffffff;
+    border: solid 0.1em #ede7f6;
+    width: calc(100% + 0.1px) !important;
+    padding: 1em;
+    padding-top: 0.5em;
+    margin: -0.1em -1px 0 0;
+}
+
+.revToggleCheckoutHeader {
+    border-bottom: 0.1em solid #ede7f6;
+    padding: 0 1em;
+    margin: 0 -1em 1em -1em;
+}
+
+.revToggleCheckoutContentWrapper {
+    margin-top: 0.8em;
+    max-height: 2em !important;
+}
+
+.revToggleCheckoutrevEntityName {
+    margin: 0.2em 0 0 0.4em;
+}
+
+.revPaypalButtonTab {
+    width: auto;
+}
+
+.revToggleCheckoutFooterAreaWrapper {
+    width: auto !important;
+    align-items: center !important;
+    margin-top: 1.7em;
+}

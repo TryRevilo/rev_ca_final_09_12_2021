@@ -1,0 +1,26 @@
+.revNewStoreItemNavHeaderArea {
+    margin-top: 1.7em;
+}
+
+.revFormEntryGrpContainer {
+    width: calc(100% - 2em) !important;
+    border-bottom: solid 0.1em #e8eaf6;
+    border-left: solid 0.1em #e8eaf6;
+    padding-bottom: 3em;
+    margin: 0 0 0 2em;
+}
+
+.revSelectItemMainFamilyIconWrapper {
+    margin: 1em 1em 0 0;
+}
+
+.revFamilyNameTell {
+    background-color: #e0f7fa;
+    border: dotted 0.1em #80deea;
+    padding: 0.4em 2em;
+    margin: 1em 1em 1em 2em;
+}
+
+.revNewStoreItemFormFooter {
+    margin: 1em 0 0 3.2em;
+}

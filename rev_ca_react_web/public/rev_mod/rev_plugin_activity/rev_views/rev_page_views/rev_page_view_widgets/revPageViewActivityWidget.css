@@ -1,0 +1,86 @@
+.revPageOwnerPublisherContainer {
+    width: calc(100% - 2em) !important;
+    margin: 0.5em 0 0 2em;
+}
+
+.revActivityViewKiwiForm {
+    width: calc(100% - 2em);
+    border: 0.1em solid #ede7f6;
+    border-top: none;
+    padding: 0.2em 0 1em 0;
+    margin-left: 2em;
+}
+
+.revProfileRelationsViewContainer {
+    background-color: #ede7f6;
+    width: calc(100% - 2em) !important;
+    border: 0.1em dotted #cfd8dc;
+    padding: 0 1em 0.4em 1em;
+    margin: 0.7em 0 0 2em;
+}
+
+.revPageViewMintMessagesInlineMessagesContainer {
+    width: calc(100% - 2em) !important;
+    margin: 1em 0 0 2em;
+}
+
+.revAccordionWrapper {
+    background-color: #000;
+    width: calc(100% - 2em) !important;
+    margin: 0.7em 0 0 2em !important;
+}
+
+.accordion li {
+    list-style: none;
+    position: absolute;
+    overflow: hidden;
+}
+
+.accordion {
+    width: 100%;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.revAccordionImage {
+    width: auto !important;
+    height: 200px;
+}
+
+/** REV START FAMILY **/
+.revRecentFamilyPostsContainer {
+    width: calc(100% - 2em) !important;
+    border-right: 0.1em solid #cfd8dc;
+    margin: 2em 0 0 2em;
+}
+
+.revRecentFamilyPostsPublishersWrapper {
+    align-items: center !important;
+    padding-top: 0.1em;
+}
+
+.revRecentFamilyPostsPublisherFormHeaderTabWrapper {
+    background-color: #fff;
+    align-items: flex-end !important;
+    width: auto !important;
+    margin: 0 0 0 1.2em;
+}
+
+.revAbtFamilyFormTab {
+    border: 0.1em solid #cfd8dc;
+    padding: 0.2em 0.7em;
+    margin: 0 0 0 auto;
+}
+
+.revRecentFamilyPostsAreaContainer {
+    width: calc(100% - 1em) !important;
+    margin: 0 0 0 1em;
+}
+
+.revRecentFamilyPostsProfileActivityContainer {
+    width: calc(100% - 2em) !important;
+    margin: 1em 0 0 2em;
+}
+/** REV END FAMILY **/

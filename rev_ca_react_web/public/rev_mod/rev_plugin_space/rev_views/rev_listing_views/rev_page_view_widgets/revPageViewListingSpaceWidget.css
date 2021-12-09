@@ -1,0 +1,11 @@
+.revConnectionsListingWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 0.8em 0 1em 0.7em;
+    margin: -0.2em 0 0 2em;
+}
+
+.revSpaceListingItemWrapper {
+    margin: 0.7em 0 0.7em 0;
+}

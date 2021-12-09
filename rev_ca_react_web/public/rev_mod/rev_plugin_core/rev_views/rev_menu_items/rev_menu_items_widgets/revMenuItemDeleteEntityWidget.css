@@ -1,0 +1,55 @@
+.revDeleteUnavailableContainer {
+    background-color: #ffebee;
+    border: 0.1em solid #ffcdd2;
+    width: calc(100% + 0.1px) !important;
+    padding: 1em;
+    padding-top: 0.5em;
+    margin: -0.1em -1px 0 0;
+}
+
+.revDeleteHeader {
+    color: #e57373;
+    font-size: 1em;
+    font-weight: 500;
+    line-height: 1.2em;
+    border-bottom: 0.1em solid #ffcdd2;
+    padding: 0 1em;
+    margin: 0 -1em 1em -1em;
+}
+
+.revDeleteEntityContentWrapper {
+    margin-top: 0.8em;
+    max-height: 2em !important;
+}
+
+.revDeleteQuoteIconStyle {
+    color: #e57373;
+    font-size: 1em;
+    margin-right: 0.4em;
+}
+
+.revDeleteFooterAreaWrapper {
+    width: auto !important;
+    align-items: center !important;
+    margin-top: 1.7em;
+}
+
+.revCancel {
+    padding: 0 1em;
+    margin-left: 1em;
+    border-bottom: solid 0.1em #303f9f;
+}
+
+/** REV START GENERICS **/
+.revMenuItemEditEntityTabWrapper {
+    align-items: center !important;
+    display: flex !important;
+}
+
+.revMenuItemEditEntityTabIcon {
+    width: 1.4em;
+}
+
+.revMenuItemEditEntityTabTxt {
+    margin-left: 0.1em;
+}

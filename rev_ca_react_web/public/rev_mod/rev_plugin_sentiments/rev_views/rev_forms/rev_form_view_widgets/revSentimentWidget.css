@@ -1,0 +1,121 @@
+.revPageHeaderAreaContainer_SentimentsForm {
+    width: calc(100% - 2em) !important;
+    margin: 1.45em 0 0 2em;
+}
+
+.revCustomSentimentsSaveContainer {
+    margin-bottom: 1em;
+}
+
+.revCustomSentimentsKeysContainer {
+    width: calc(100% - 2em) !important;
+    padding: 0.4em 1em 1em 1em;
+    margin-top: 1em;
+    margin-left: 2em;
+    background-color: #fafafa;
+    border: solid 0.1em #ffe082;
+}
+
+.revSentimentKeyText {
+    margin-top: 1em;
+    margin-left: 0.7em;
+}
+
+.revCustomSentimentsTell {
+    width: calc(100% - 2.7em) !important;
+    margin-top: 2em;
+    margin-left: 2.7em;
+}
+.revCustomSentimentsKey {
+    width: calc(100% - 1em) !important;
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+.revKeyTopWrapperArea {
+    align-items: center !important;
+    width: calc(100% - 0.2em) !important;
+}
+
+.revCustomSentimentsKeySign {
+    font-size: 1.2rem;
+}
+
+.revCustomSentimentsKeyVal {
+    margin-left: 0.2em;
+}
+
+.revKeyFooterArea {
+    width: calc(100% - 1.4em) !important;
+    margin: 0.4em 0 0 1.4em;
+}
+
+.revSentimentKeyExamples,
+.revSentimentKeyCompounding {
+    margin-top: 1em;
+}
+
+.revDivider {
+    width: 7%;
+    margin-top: 1em;
+}
+
+.revGrey_H_Rule {
+    background-color: #e0e0e0;
+    height: 0.1em;
+}
+
+.revActiveSentiments {
+    width: calc(100% - 4em) !important;
+    margin-top: 1em;
+    margin-left: 4em;
+}
+
+.revActiveSentimentItemWrapper {
+    align-self: flex-start !important;
+    width: auto !important;
+    padding: 0 3em;
+    margin-top: 1em;
+    margin-left: 4em;
+    border-bottom: solid 0.1em #f5f5f5;
+}
+
+.revActiveSentimentItemName {
+    width: 5em;
+}
+
+.revActiveSentimentTypeIcon {
+    padding: 0 2em;
+}
+
+.revEmotionForm {
+    width: calc(100% - 4em) !important;
+    margin: 1em 0 0 4em;
+}
+
+.revEmotionNameInputArea {
+    width: 55%;
+}
+
+.revEmotionSentimentsWrapper {
+    width: auto !important;
+    margin-left: -1em;
+}
+
+.revSentimentCheckContainer {
+    width: auto !important;
+    margin-top: 0.7em;
+    margin-left: 1em;
+}
+
+.revCustomSentimentsInputKeySign {
+    color: #5c6bc0;
+    font-size: 1rem;
+    margin-bottom: 0.2em;
+    margin-left: 0.3em;
+}
+
+.revFormFooter {
+    margin-top: 2em;
+    margin-left: 2em;
+}

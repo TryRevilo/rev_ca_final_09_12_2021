@@ -1,0 +1,57 @@
+.revSentimentsSaveContainer {
+  border: 0.1em solid #ede7f6;
+  padding: 0.4em 0 0.4em 1em;
+}
+
+.revSentimentsItemsWrapper {
+  background-color: #f1f8e9;
+  margin-top: 0.2em;
+}
+
+.revSentimentsContextFormTtlTxt {
+  margin-left: 1em;
+}
+
+.revSentimentsInputArea {
+  margin-top: 1em;
+  margin: 0 -0.2em 0 2.7em;
+  width: calc(100% - 2.5em) !important;
+}
+
+.revSentimentsCommentsContainer {
+  padding: 1em 0;
+}
+
+.revSentimentsCommentsText {
+  width: calc(100% - 2em);
+  margin: 0 0 0 2em;
+  padding: 0.7em 0;
+}
+
+.revSentimentPubArea {
+  background-color: #fff;
+  width: 100%;
+  border: 0.1em solid #ede7f6;
+  border-right: none;
+  padding: 1em 0;
+}
+
+.revSentimentPubArea .ql-container.ql-snow {
+  border: none !important;
+  margin-top: 0 !important;
+  margin-left: 0px;
+  line-height: 1em;
+}
+
+.revSentimentOptionWrapper {
+  margin-left: 2em;
+}
+
+.revSentimentOptionText {
+  margin: 0.3em 0 0 0.4em;
+}
+
+.revSaveSentimentFooter {
+  width: 100%;
+  padding: 1em 0 1em 2em;
+}

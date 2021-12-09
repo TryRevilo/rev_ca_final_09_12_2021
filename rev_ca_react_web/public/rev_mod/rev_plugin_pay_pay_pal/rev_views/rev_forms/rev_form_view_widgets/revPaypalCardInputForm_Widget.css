@@ -1,0 +1,41 @@
+.revSelectPaymentOptionWidgetContainer {
+    border: 0.1em solid #ede7f6 !important;
+    border-top: none !important;
+    width: calc(100% - 2em) !important;
+    padding: 1em 0 1em 1em;
+    margin: -0.2em 0 0 2em;
+}
+
+.revNewStoreItemNavHeaderArea {
+    margin-top: 1.7em;
+}
+
+.revSectStoresContainer {
+    width: calc(100% - 4em);
+    margin-left: 4em;
+}
+
+.revCheckStoreWrapper {
+    align-items: center !important;
+    width: auto !important;
+    height: 1.5em;
+    margin-top: 1em;
+}
+
+.revSelectableStoreName {
+    margin-left: 1em;
+}
+
+.revNewStoreItemFormFooter {
+    margin: 1em 0 0 3.2em;
+}
+
+.revSelectStoreNewSpaceContainer {
+    width: calc(100% - 2em) !important;
+    margin: 1em 0 1em 2em;
+}
+
+.revNewStoreTab {
+    width: calc(100% - 2.5em);
+    margin: 1em 0 1em 2.5em;
+}

@@ -1,0 +1,56 @@
+.revSpaceIcon_HeaderArea {
+    width: 5.6em;
+    height: 7.6em;
+    margin-left: 2em;
+}
+
+.revEntityBriefFlexRightContainer_HeaderArea {
+    width: calc(100% - 7.6em) !important;
+    padding-right: 1em;
+    margin-top: 0.7em;
+}
+
+.revEntityDescContainer_HeaderArea {
+    width: calc(100% - 1em) !important;
+    margin-left: 1em;
+}
+
+.revSpaceEntityName_HeaderArea {
+    margin-top: 0.2em;
+}
+
+.revSpaceEntityName_HeaderAreaDivider {
+    width: 7em;
+    border-bottom: 0.1em dotted #ede7f6;
+    margin: 0.2em 0;
+}
+
+.revSpaceEntitySchoolName_HeaderArea {
+    margin-top: 0.3em;
+}
+
+.revBriefSpaceEntityDetailContainer_HeaderArea {
+    margin-top: 0.4em;
+}
+
+.revSpaceBriefAdminIcon_HeaderArea {
+    width: 3em;
+    height: 3em;
+    margin-right: 0.4em;
+    border-radius: 4px;
+}
+
+.revBriefSpaceDetailWrapper_HeaderAreaWrapper {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0.4em 0 0 0;
+}
+
+.revAddAdminTabWrapper {
+    align-items: center !important;
+    width: auto !important;
+}
+
+.revBriefSpaceExtraFounders_HeaderArea {
+    margin: 0 0 0 0.1em;
+}

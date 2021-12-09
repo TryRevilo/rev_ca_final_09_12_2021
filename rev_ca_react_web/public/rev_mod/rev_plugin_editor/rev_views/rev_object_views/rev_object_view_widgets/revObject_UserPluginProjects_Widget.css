@@ -1,0 +1,110 @@
+.revPluginEditHomeHeaderTabsWrapper {
+    align-items: flex-start !important;
+}
+
+.revPluginEditHomeHeaderTabContainer {
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 0.5em 0 0;
+}
+
+.revPluginEditHomeHeaderTabTxt {
+    background-color: #f9fbe7;
+    border-bottom: 0.1em dotted #ede7f6;
+    padding: 0 0.7em;
+    z-index: 1;
+}
+
+.revPluginEditHomeHeaderTabActivePointer {
+    top: 0.8em;
+}
+
+.revNoActiveProjectsWrapper {
+    width: calc(100% - 0.7em) !important;
+    margin: 1em 0 0 0.7em;
+}
+
+/** REV START NEW PLUGIN AREA **/
+.revPluginEditHomeBodyNewPluginContainer {
+    width: calc(100% - 1em) !important;
+    height: 7.75em;
+    border: 0.1em dotted #ffebee;
+    border-right: none;
+    border-left: 0.1em solid #ffebee;
+    padding: 0.4em 0;
+    margin: 1em 0 0 1em;
+}
+
+.revPluginEditHomeTellContainer {
+    padding: 0 0 0 0;
+}
+
+.revPluginEditHomeBodyNewPluginWrapper {
+    align-items: center !important;
+    padding: 0 0 0 0.4em;
+}
+
+.revPluginEditHomeTellContainer_BackgroundBorder {
+    background-color: #ffebee;
+    height: 0.1em;
+    top: 1em;
+}
+
+.revPluginEditHomeBodyNewPluginTellContainer {
+    background-color: #ffebee;
+    width: calc(100% - 1.6em) !important;
+    padding: 0.2em 1em 1em 1em;
+    margin: 0.2em 0 0 1.6em;
+}
+
+.revPluginEditHomeBodyNewPluginTell_Par {
+    margin: 0.3em 0 0 0;
+}
+
+.revPluginEditHomeBodyNewPluginTxt {
+    margin: 0 0 0 0.2em;
+}
+/** REV END NEW PLUGIN AREA **/
+
+/** REV START ACTIVE PLUGINS TREE **/
+.revPluginProjectsEditsViewContainer {
+    width: calc(100% - 1em) !important;
+    margin: 1em 0 0 1em;
+}
+
+.revPluginEditHomePluginEditHomeCurrentActiveContainer {
+    border-left: 0.1em solid #ffebee;
+    border-bottom: 0.1em solid #ffebee;
+    padding: 1em 0 0 0;
+}
+
+.revPluginEditHomeHookRemoteHandlerMenuItemsTabsContainer {
+    background-color: #f9fbe7;
+    width: calc(100% - 1.5em) !important;
+    border-left: 0.1em solid #ffebee;
+    padding: 1em 0;
+    margin: -0.2em 0 -1em 1.5em;
+}
+
+.revPluginEditHomeGroupTabItemWrapper {
+    align-items: center !important;
+    padding: 0.3em 1em 0.3em 0;
+}
+
+.revPluginEditHomeGroupTabItemIcon {
+    margin: -0.2em 0 0 0;
+}
+
+.revPluginEditHomeGroupTabItemTxt {
+    padding: 0 0 0 0.5em;
+    margin: -0.1em 0 0 0;
+}
+
+.revPluginEditHomeGroupItemAddNewFileTab {
+    margin: -0.15em 0 0 1em;
+}
+
+.revPluginEditHomeFormNameWrapper {
+    align-items: center !important;
+}
+/** REV END ACTIVE PLUGINS TREE **/

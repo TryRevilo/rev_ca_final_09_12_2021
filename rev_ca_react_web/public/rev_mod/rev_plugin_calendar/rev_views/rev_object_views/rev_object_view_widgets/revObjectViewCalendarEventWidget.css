@@ -1,0 +1,111 @@
+.revEventsListingContainer {
+    width: calc(100% - 2em) !important;
+    margin-left: 2em;
+}
+
+.revEventObjectViewItemWrapper {
+    border: solid .1em #EDE7F6;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.revEventItemIconWrapper {
+    align-items: center !important;
+    justify-content: center !important;
+    width: 4em !important;
+    height: auto !important;
+}
+
+.revEventItemIcon {
+    color: #82c91e;
+    font-size: 2rem;
+}
+
+.revEventItemRightContainer {
+    width: calc(100% - (4em + 1em)) !important;
+    margin-left: 1em;
+}
+
+.revEventItemHeaderWrapper {
+    margin-top: .4em;
+}
+
+.revEventItemName {
+    width: calc(100% - 2em);
+    padding: .4em 1em 0 0;
+}
+
+.revRSVPTab {
+    color: #FFF;
+    font-weight: 500;
+    align-self: center;
+    background-color: #66BB6A;
+    width: 7em;
+    padding: .4em 1em;
+    border-radius: .2em;
+}
+
+.revEventItemDesc {
+    margin-top: .7em;
+}
+
+.revEventItemExtraDetailsContainer {
+    margin-top: .7em;
+}
+
+.revEventPicsWrapper {
+    margin-top: .4em;
+}
+
+.revEventObjectIcon {
+    width: 5em !important;
+    height: 5em;
+    margin-right: .4em;
+}
+
+.revBorderBottom {
+    background-color: #EEEEEE;
+    width: 22%;
+    height: .1em;
+    margin-top: .7em;
+}
+
+.revSelectableProfilesTell {
+    border-bottom: dotted .1em #EDE7F6;
+    padding: 0 1em;
+    margin: 1em 1em 0 0;
+}
+
+.revObjectViewEventFooterWrapper {
+    margin: 1em 0 0 0;
+}
+
+.revPublisherEntityWrapper {
+    width: auto !important;
+}
+
+.revByTxt {
+    align-self: baseline !important;
+    padding: 0 .4em 0 .7em;
+    border-bottom: solid 1px #EDE7F6;
+}
+
+.revEventPublisherUserIcon {
+    width: 3em;
+    height: 3em;
+}
+
+.revEventPublisherNames {
+    padding: .4em 0 0 .4em;
+    border-bottom: solid 1px #EDE7F6;
+}
+
+.revEventTimeCreated {
+    padding: 0 2em 0 .4em;
+    border-bottom: solid 1px #EDE7F6;
+}
+
+.revEventSettingsOptionsWrapper {
+    width: auto !important;
+    margin: .4em 1em 0 auto;
+}

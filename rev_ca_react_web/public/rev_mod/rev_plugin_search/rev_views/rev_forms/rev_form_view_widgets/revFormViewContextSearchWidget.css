@@ -1,0 +1,16 @@
+.revContextSearchContainer {
+    background-color: #ffffff;
+    border: 0.1em solid #ede7f6;
+    border-top: none;
+    padding: 0.7em 1em 1em 1em;
+}
+
+.revContextSearchFooterWrapper {
+    padding: 0.7em 0 1em 0;
+}
+
+.revHideSwitchAreaTab {
+    border-bottom: 0.1em solid #5c6bc0;
+    padding: 0 1em;
+    margin-left: 2em;
+}

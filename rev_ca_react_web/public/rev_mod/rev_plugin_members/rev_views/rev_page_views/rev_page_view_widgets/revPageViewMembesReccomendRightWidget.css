@@ -1,0 +1,35 @@
+.revItemContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 4em;
+    width: 100%;
+    padding-top: 2px;
+    padding-left: 1em;
+    border-top: 1px solid #ECEFF1;
+}
+
+.revListItemsContainer {
+    display: flex;
+    padding-right: .7em;
+    width: calc(100% - .7em);
+    overflow-y: scroll;
+}
+
+.revUserIconStyle {
+    font-size: 1.4em;
+    color: #7986CB;
+    background-color: #F5F5F5;
+    border-radius: 0 0 0 5px;
+    display: flex;
+    padding: .17em;
+    margin-right: .3em;
+    border: 1px solid #EDE7F6;
+}
+
+.revMoreReccomendationsStyle {
+    text-align: left;
+    font-size: 1em;
+    color: #7986CB;
+    padding-left: 1px;
+    margin-top: 1px;
+}

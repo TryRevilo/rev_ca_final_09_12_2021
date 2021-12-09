@@ -1,0 +1,193 @@
+.revInfoContentContainer {
+    width: calc(100% - 2em) !important;
+    border-right: solid 0.1em #ede7f6;
+    margin: 0.1em 0 0 2em;
+}
+
+.revIconArea {
+    width: 100%;
+    height: 15em;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.revBannerIconWrapper {
+    background-color: #ede7f6;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.revProfileIconWrapper {
+    background-color: #ede7f6;
+    width: 8em;
+    height: 8em;
+    align-self: flex-end;
+    position: absolute;
+    left: 1em;
+    bottom: -1.4em;
+    border: solid 4px #fff;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.revEntityProfileIcon {
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.revEntityBannerIcon {
+    width: 100%;
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.revIconMenuArea {
+    display: flex;
+    align-self: flex-end;
+    position: absolute;
+    right: 1em;
+    z-index: 1;
+}
+
+.revIconMenuAreaMenuItemWrapper {
+    background-color: #fff;
+    align-items: flex-end !important;
+    width: auto !important;
+    padding: 0.2em 0.8em 0 0.8em;
+    margin-right: 1em;
+    border: solid 0.1em #e0e0e0;
+    border-bottom: none;
+    border-radius: 4px 4px 0 0;
+}
+
+.revInfoAreaContainer {
+    padding: 1em;
+    margin-top: 0.5em;
+}
+
+.revRegStatusWrapper {
+    font-size: 0.9rem;
+    display: flex;
+    align-items: baseline;
+    margin: 0.4em 0;
+}
+
+.revRegStatusItemWrapper {
+    display: flex;
+    align-items: baseline;
+    margin-right: 1em;
+}
+
+.revRegStatusItemText {
+    color: #757575;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-right: 1em;
+}
+
+.revRegStatusItemIcon {
+    color: #757575;
+    font-size: 1.2em;
+    margin-right: 0.2em;
+}
+
+.revProfileTabsMenuArea {
+    display: flex;
+    flex-grow: 1;
+    border-top: solid 1px #eceff1;
+}
+
+.revProfileTab {
+    color: #7986cb;
+    font-size: 1em;
+    font-weight: 400;
+    padding: 0.7em;
+    margin-right: 1em;
+}
+
+.revProfileDrawArea {
+    margin-top: 1em;
+}
+
+.revAbout {
+    color: #757575;
+    font-size: 1em;
+    line-height: 1em;
+    display: flex;
+    align-items: flex-start;
+    padding: 1em;
+    margin-right: -1em;
+    margin-left: -1em;
+    background-color: #fafafa;
+}
+
+.revPicsAlbumOverrideViewWrapper {
+    width: calc(100% + 1em) !important;
+    margin: 1em -1em 0 0;
+}
+
+.revInfoConnectionsArea {
+    margin-top: 1em;
+}
+
+.revInfoConnectionsTitle {
+    color: #757575;
+    font-size: 0.9em;
+    font-weight: 600;
+}
+
+.revInfoConnectionListWrapper {
+    margin-top: 0.2em;
+}
+
+.connectionIconContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+    padding-bottom: 0;
+    width: auto;
+    height: auto;
+    border: solid 1px #eceff1;
+    border-bottom: none;
+    margin-right: 0.4em;
+    border-radius: 50%;
+}
+
+.connectionProfileIcon {
+    flex-shrink: 0;
+    background-color: #ede7f6;
+    width: 4em;
+    height: 4em;
+    padding: 1px;
+    margin: 2px;
+    border: solid 1px #eceff1;
+    border-radius: 50%;
+}
+
+.revConnectionItemName {
+    color: #757575;
+    font-size: 0.9em;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #ede7f6;
+    width: 100%;
+    padding: 0.8em 0 0.2em 0;
+    margin-top: 2px;
+    border-radius: 50% 50% 0 0;
+}
+
+.revProfileAreas {
+    margin-top: 1em;
+    margin-left: 1em;
+}

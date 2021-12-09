@@ -1,0 +1,73 @@
+.revPluginItemWrapper {
+    border: solid 0.1em #f5f5f5;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.revPluginItemIconWrapper {
+    align-items: center !important;
+    justify-content: center !important;
+    width: 4em !important;
+    height: auto !important;
+}
+
+.revPluginItemIcon {
+    color: #e0e0e0;
+    font-size: 2rem;
+}
+
+.revPluginItemRightContainer {
+    width: calc(100% - (4em + 1em)) !important;
+    margin-left: 1em;
+}
+
+.revPluginItemName {
+    align-self: center;
+    padding-right: 1em;
+}
+
+.revPluginListingInstallTab {
+    color: #fff;
+    font-weight: 500;
+    align-self: center;
+    padding: 0.4em 1em;
+    background-color: #66bb6a;
+    border-radius: 0.2em;
+    margin-left: auto;
+}
+
+.revPluginListingDetails {
+    margin-top: 0.4em;
+}
+
+.revPluginItemInstallersContainer {
+    margin-top: 0.4em;
+}
+
+.revInstallsCount {
+    margin-left: 1em;
+}
+
+.revInstallersIconsWrapper {
+    margin: 0.4em 0 0 0;
+}
+
+.revPluginItemListingInstallerIcon {
+    background-color: #e0e0e0;
+    width: 3em;
+    height: 3em;
+    margin-right: 0.1em;
+}
+
+.revBorderBottom {
+    background-color: #eeeeee;
+    width: 22%;
+    height: 0.1em;
+    margin-top: 0.7em;
+}
+
+.revSelectableProfilesTell {
+    border-bottom: dotted 0.1em #ede7f6;
+    padding: 0 1em;
+    margin: 1em 1em 0 0;
+}

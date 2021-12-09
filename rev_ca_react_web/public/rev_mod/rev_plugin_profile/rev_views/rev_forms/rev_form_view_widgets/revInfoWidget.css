@@ -1,0 +1,122 @@
+.revInfoContentContainer_Edit {
+    width: calc(100% - 2em) !important;
+    border-right: solid 0.1em #ede7f6;
+    padding-bottom: 2em;
+    margin: 0.1em 0 0 2em;
+}
+
+.revIconAreaWrapper_Edit {
+    width: 100%;
+    height: 15em;
+}
+
+.revBannerIcon_Edit {
+    background-color: #ede7f6;
+    width: 100%;
+    height: 100%;
+    border: solid 0.1em #ede7f6;
+    border-top: none;
+    z-index: -1;
+}
+
+.revBannerIconChooserBtn {
+    color: #fff;
+    font-size: 1.2em;
+    padding: 0.7em;
+    display: flex;
+    align-items: flex-start;
+    border-radius: 50%;
+    background-color: #757575;
+    left: 54%;
+    top: 74%;
+    z-index: 1;
+}
+
+.revProfileIconEditWrapper {
+    background-color: #757575;
+    width: 8em !important;
+    height: 8em !important;
+    justify-content: center !important;
+    align-items: center !important;
+    left: 1em;
+    bottom: -1.4em;
+    border: solid 4px #fff;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.revIconChooserBtn {
+    color: #fff;
+    font-size: 1.2em;
+    padding: 0.7em;
+    border-radius: 50%;
+    background-color: #757575;
+    width: auto;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.revIconMenuAreaMenuItem_Edit {
+    color: #7986cb;
+    font-size: 0.9em;
+    font-weight: 500;
+    margin-right: 1em;
+}
+
+.revInfoAreaContainer_Edit {
+    width: calc(100% - 1em) !important;
+    margin: 2em 0 0 1em;
+}
+
+.revAboutMeInfoInputAreaWrapper {
+    width: 100%;
+    border-left: 0.1em solid #e8eaf6;
+    padding-bottom: 2em;
+    margin: 2em 0 0 0;
+}
+
+.revSelectItemMainIconContainer {
+    margin: 2em 0 0 0;
+}
+
+.revSelectItemMainIconsWrapper {
+    padding: 1em 1em 1em 0;
+    margin: 1em 0 0 0;
+}
+
+.revBannerImage {
+    width: 100%;
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.revIconImage {
+    width: 100%;
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.revProfileAreas_Edit {
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+.revProfileTabsMenuArea_Edit {
+    display: flex;
+}
+
+.revProfileTab_Edit {
+    color: #7986cb;
+    font-size: 0.95em;
+    font-weight: 500;
+    padding: 0.1em 1em;
+    margin-right: 1em;
+    border: solid 1px #eceff1;
+    border-radius: 4px;
+}

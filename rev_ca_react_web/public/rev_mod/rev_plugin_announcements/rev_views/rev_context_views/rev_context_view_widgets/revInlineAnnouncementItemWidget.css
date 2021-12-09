@@ -1,0 +1,23 @@
+.revAnnouncementItemWrapper {
+    margin-bottom: 1.4em;
+}
+
+.revAnnouncementItemIcon {
+    color: #ede7f6;
+}
+
+.revAnnouncementTargetContainer {
+    width: calc(100% - 0.7em) !important;
+    margin: 0.2em 0 0 0.7em;
+}
+
+.revAnnouncementPicsWrapper {
+    margin: 0.2em 0 0 0;
+}
+
+.revAnnouncementPic {
+    background-color: #f5f5f5;
+    width: 2em;
+    height: 2em;
+    margin-right: 0.3em;
+}

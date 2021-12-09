@@ -1,0 +1,48 @@
+.revSpaceIcon {
+  width: 5em;
+  height: 5em;
+  background-color: #EDE7F6;
+  margin-left: 2em;
+  z-index: 1;
+}
+
+.revEntityBriefFlexRightContainer {
+  width: calc(100% - 8.4em) !important;
+  margin-left: 1.4em;
+}
+
+.revSpaceEntityName {
+  margin: .4em 0 .4em 0;
+}
+
+.revFamilyNamePointerIcon {
+  color: #EDE7F6;
+  margin: 0 0 0 -1.1em;
+}
+
+.revFamilyNameVal {
+  border: dotted .1em #EDE7F6;
+  border-left: dotted .5em #EDE7F6;
+  padding: .1em 4em .1em .1em;
+}
+
+.revBriefSpaceEntityDetailContainer {
+  margin: .4em 0 0 0;
+}
+
+.revBriefSpaceDetailWrapper {
+  width: calc(100% - .4em) !important;
+  margin: .4em .4em 0 0;
+}
+
+.revSpaceBriefAdminIcon {
+  background-color: #EDE7F6;
+  width: 3em;
+  height: 3em;
+  margin-right: .4em;
+}
+
+.revBriefSpaceExtraFounders {
+  margin-left: .4em;
+  align-self: center;
+}

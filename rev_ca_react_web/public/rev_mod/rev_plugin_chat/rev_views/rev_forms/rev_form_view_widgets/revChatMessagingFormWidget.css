@@ -1,0 +1,66 @@
+.revChatMessageFormContainer {
+  width: calc(100% + .5em) !important;
+  margin-left: -.5em;
+}
+
+.revProfilePubArea_ChatMessage {
+  width: calc(100% - .9em);
+}
+
+.revPublisherTabsMenuArea_ChatMessage_Wrapper {
+    margin: 1em 0 -.4em 0;
+  }
+  
+  .revBtnColorOverride_ChatMessage {
+    color: #5C6BC0;
+    background-color: #D1C4E9;
+    border-color: #D1C4E9;
+    border-bottom: 0px solid #FFF;
+    border-radius: 4px 4px 0 0;
+    padding: .175rem .65rem;
+  }
+  
+  .revUploadTab_ChatMessage {
+    padding: .2em .7em;
+  }
+  
+  .revEmojiItemTab_ChatMessage {
+    color: #D500F9 !important;
+    font-size: 1.4em;
+    padding: 0 0 0 1em;
+  }
+  
+  .revChatMessageCancelTab {
+    padding: 0 1em;
+    margin-left: .7em;
+  }
+  
+  .revPublishItemTab_ChatMessage {
+    margin-left: 1.4em;
+  }
+  
+  .revProfilePubAreaChatMessage {
+    width: 100%;
+  }
+  
+  .revChatMessageInputFormBottomArea {
+    width: auto;
+    min-width: 22em;
+    padding-right: 2em;
+  }
+  
+  .revChatMessage_vl_H_Thin {
+    height: .4em;
+    border: solid 1px #EDE7F6;
+    border-top: none;
+    border-left: none;
+  }
+  
+  .revChatMessageInputStyle {
+    border-bottom: none;
+  }
+  
+  .revChatMessageInputStyle_No_Border {
+    border: 1px solid #EDE7F6;
+    border-bottom: none;
+  }
