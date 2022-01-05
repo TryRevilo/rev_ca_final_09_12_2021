@@ -5,6 +5,7 @@ const revObjectVideoView = require("./rev_views/rev_object_views/revObjectVideoV
 
 /** REV START REMOTE HOOK HANDLERS */
 const revHookRemoteHandler_VideoClick = require("./rev_lib_functions_remote_hooks/revHookRemoteHandler_VideoClick");
+const revHookRemoteHandler_VideoPlayCount = require("./rev_lib_functions_remote_hooks/revHookRemoteHandler_VideoPlayCount");
 /** REV END REMOTE HOOK HANDLERS */
 
 /** REV START REMOTE PRE-PLUGIN INIT */
@@ -21,10 +22,12 @@ var revStart = () => {
         "revModules": [
             { "revNameId": "revPluginModuleVideoAlbumPers", "revPath": "/revPluginModuleVideoAlbumPers.js" },
             { "revNameId": "revPluginModuleVideoCaptionGenerator", "revPath": "/revPluginModuleVideoCaptionGenerator.js" },
+            // { "revNameId": "revPluginModuleVideoPlayStatsLib", "revPath": "/revPluginModuleVideoPlayStatsLib.js" },
         ],
         "revRemotePrePluginInitArr": [revPrePluginInit_TrendingVids.revPrePluginInitCallback.toString()],
         "revPluginHookHandlersRemote": [
             { "revNameID": "revHookRemoteHandler_VideoClick", "revPluginHookContextRemote": "revHookRemoteHandler_VideoClick", "revHandler": revHookRemoteHandler_VideoClick.revHookRemoteHandlerCallback.toString() },
+            { "revNameID": "revHookRemoteHandler_VideoPlayCount", "revPluginHookContextRemote": "revHookRemoteHandler_VideoPlayCount", "revHandler": revHookRemoteHandler_VideoPlayCount.revHookRemoteHandlerCallback.toString() },
             /** */
         ],
     };

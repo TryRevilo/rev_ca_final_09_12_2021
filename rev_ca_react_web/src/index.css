@@ -1001,3 +1001,15 @@ emoji-picker:focus {
 }
 
 /** REV START QUILL OVERRIDES **/
+
+.revPlayStatus {
+    font-weight: bold;
+}
+
+.revPlayStatusComplete {
+    color: green;
+}
+
+.revPlayStatusIncomplete {
+    color: red;
+}

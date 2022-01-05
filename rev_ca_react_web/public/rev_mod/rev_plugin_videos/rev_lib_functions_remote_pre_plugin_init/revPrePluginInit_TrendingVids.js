@@ -21,7 +21,7 @@ var revPrePluginInitCallback = async (revVarArgs) => {
 
         let revCacheDataArrayInit = revRemoteHookMethods.revCacheDataArrayInit(revDataObjectArrayVarArgs);
 
-        let revPersReadRevEntityMetadataArr = await revRemoteHookMethods.revReadEntityMetadataArr_By_MetadataName({ "revMetadataName": "rev_vid_trending_average" });
+        let revPersReadRevEntityMetadataArr = await revRemoteHookMethods.revReadEntityMetadataArr_By_MetadataName({ "revMetadataName": "rev_vid_play_count" });
 
         for (let i = 0; i < revPersReadRevEntityMetadataArr.length; i++) {
             let revCurrEntityMetadata = revPersReadRevEntityMetadataArr[i];
@@ -31,10 +31,11 @@ var revPrePluginInitCallback = async (revVarArgs) => {
 
             let revVidTrendingAverage = 222;
             let revVidsClicksStatsCount = 222;
-            let revVidViews = 333;
+            let revVidViews = 1;
+            let revVidPlayCount = 1;
 
             /** REV START VID CLICKS STATS */
-            let revEntityStatsWrapperNameId = "rev_vid_trending_average";
+            let revEntityStatsWrapperNameId = "rev_vid_play_count";
 
             let revPassVarArgs = {
                 "revEntityGUID": revPluginDataItem,
@@ -58,6 +59,8 @@ var revPrePluginInitCallback = async (revVarArgs) => {
                     "rev_vid_trending_average": revVidTrendingAverage,
                     "rev_clicks": revVidsClicksStatsCount,
                     "rev_views": revVidViews,
+                    "rev_vid_play_count": revVidPlayCount,
+                    "rev_vid_views": revVidViews,
                 },
             };
             /** REV END SET DATA OBJECT */
@@ -88,7 +91,7 @@ var revPrePluginInitCallback = async (revVarArgs) => {
                     "revDataObjectId": "revVidTrendingData_" + revPluginDataItem,
                     "revLoggedInEntityGUID": revEntityPluginVidsOwnerGUID,
                     "revEntityGUID": revPluginDataItem,
-                    "revDataObjectValIdsArr": ["rev_vid_trending_average", "rev_clicks", "rev_views"],
+                    "revDataObjectValIdsArr": ["rev_vid_trending_average", "rev_clicks", "rev_views", "rev_vid_play_count", "rev_vid_views"],
                 };
 
                 let revCurrCachedPluginsObjectVals = revRemoteHookMethods.revGetCachedPluginsObjectVals(revCurrDataObjectValsVarArgs);

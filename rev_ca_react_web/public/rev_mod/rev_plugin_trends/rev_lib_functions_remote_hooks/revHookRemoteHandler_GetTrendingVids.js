@@ -29,6 +29,7 @@ var revHookRemoteHandlerCallback = async (revVarArgs) => {
             let revTargetVidsAlbumContainerGUID = await revRemoteHookMethods.revPersReadRevEntityRelTargetGUID_By_SubjectGUID_RevRelId(revCurrVidAlbumGUID, 9);
 
             let revEntity = await revRemoteHookMethods.revGetFlatEntity(revCurrVidAlbumGUID);
+
             revEntity["_revContainerEntity"] = await revRemoteHookMethods.revGetFlatEntity(revTargetVidsAlbumContainerGUID);
 
             revVidsAlbumEntitiesArray.push(revEntity);

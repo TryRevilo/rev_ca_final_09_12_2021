@@ -42,7 +42,7 @@ var revPageViewWidget = async (revVarArgs) => {
     let revKiwiVal = window.revGetMetadataValue(revContainerEntity._revEntityMetadataList, "rev_kiwi_value");
 
     if (!revKiwiVal) {
-        return;
+        // return `<div>!revKiwiVal</div>`;
     }
 
     revKiwiVal = window.revGetQuillPlainText(revKiwiVal);
@@ -50,7 +50,7 @@ var revPageViewWidget = async (revVarArgs) => {
     let str = revKiwiVal;
     if (!str.replace(/\s/g, "").length) {
         revKiwiVal = "no description";
-        return;
+        // return `<div>${revKiwiVal}</div>`;
     }
 
     let revVideoDetailsText = window.revTruncateString(revKiwiVal, 47);

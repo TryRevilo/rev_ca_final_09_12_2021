@@ -89,7 +89,7 @@ var revPageViewWidget = async (revVarArgs) => {
 
         let revPageViewCommsFooterAd = "";
 
-        let revHeight = window.revGetPageHeight() * 0.638;
+        let revHeight = window.revGetPageHeight() * 0.8489;
 
         if (revAdPicsAlbum) {
             let revPageViewCommsFooterAdPageView = await window.revGetLoadedPageViewAreaContainer("revPageViewCommsFooterAd", revAd);

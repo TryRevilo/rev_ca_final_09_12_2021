@@ -98,7 +98,9 @@ var revFormViewWidget = async (revVarArgs) => {
 
     let revPublishItemTabId = "revPublishItemTab_";
 
-    if (revRemoteEntityGUID > 0) revPublishItemTabId + revRemoteEntityGUID;
+    if (revRemoteEntityGUID > 0) {
+        revPublishItemTabId + revRemoteEntityGUID;
+    }
 
     let revUploadEntiyPicsAlbum = (revEntityContainerGUID) => {
         let revIsNewEntity = true;
@@ -217,12 +219,12 @@ var revFormViewWidget = async (revVarArgs) => {
                     revPersEntity._revInfoEntity = revPersEntityInfo;
 
                     if (revSelectedPicsFiles.length > 0) {
-                        await revUploadEntiyPicsAlbum(revInfoEntityGUID);
+                        await revUploadEntiyPicsAlbum(revRetRemoteEntityGUID);
                     }
 
                     if (revSelectedVideoFiles.length > 0) {
                         await window.revLoadModules("revPluginModuleVideoAlbumPers", (revScriptModule) => {
-                            window.revPluginModuleVideoAlbumPers.createVideoAlbum(revInfoEntityGUID, revSelectedVideoFiles, (revResStatus) => {
+                            window.revPluginModuleVideoAlbumPers.createVideoAlbum(revRetRemoteEntityGUID, revSelectedVideoFiles, (revResStatus) => {
                                 console.log("FIN : createVideoAlbum");
                             });
                         });
@@ -243,7 +245,9 @@ var revFormViewWidget = async (revVarArgs) => {
             } else {
                 let revUpdateData = window.revEntityUdateData(revVarArgs, revPersEntity);
 
-                window.revPostServerData(window.REV_UPDATE_METADATA_ARR_URL, revUpdateData.revEntityUpdateMetaDataArr, (revRetData) => {
+                console.log("revUpdateData : " + JSON.stringify(revUpdateData));
+
+                window.revPostServerData(window.REV_UPDATE_METADATA_ARR_URL, { "filter": revUpdateData.revEntityUpdateMetaDataArr }, (revRetData) => {
                     console.log(JSON.stringify(revRetData));
                 });
             }
